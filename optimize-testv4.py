@@ -1,3 +1,5 @@
+#pass the score, the data_set or df
+#def optimize_lineup(score,df):
 import pandas as pd
 import numpy as np
 import csv
@@ -8,16 +10,11 @@ import sys
 
 score = 'fftoday'
 
-data_set = 'aggregate-week6.csv'
-csv_output = 'line-up-test.csv'
+data_set = 'aggregate-week7.csv'
+csv_output = score + 'line-up.csv'
 
 #getting the data
 df = pd.read_csv(data_set)
-#df_qb = df[df.Position == 'QB']
-#df_rb = df[df.Position == 'RB']
-#df_wr = df[df.Position == 'WR']
-#df_te = df[df.Position == 'TE']
-#df_dst = df[df.Position == 'DST']
 
 df_qb = FF_scoring.optimal_players(df,score,['QB'],1)
 df_rb = FF_scoring.optimal_players(df,score,['RB'],2)
@@ -48,7 +45,7 @@ print rb_num
 print wr_num
 print te_num
 #print dst_num
-perms = qb_num*rb_num*(rb_num-1)*wr_num*(wr_num-1)*(wr_num-2)*te_num*flex_num
+perms = qb_num*rb_num*(rb_num-1)/2*wr_num*(wr_num-1)*(wr_num-2)/6*te_num*flex_num
 print "Runs = " + str(perms)
 
 
@@ -101,8 +98,9 @@ for q in range(0,qb_num):
 								total_score = data[2] + data[5] + data[8] + data[11] + data[14] + data[17] + data[20] + data[23]
 								data[24]=total_salary
 								data[25]=total_score
-								if total_score >= max_score and total_salary <=47500:# and total_salary > 45500:
+								if total_score >= .95* max_score and total_salary <=47500:# and total_salary > 45500:				
 									lu.append(data)
+								if total_score> max_score:
 									max_score = total_score
 								f +=1
 								l +=1
@@ -129,12 +127,4 @@ print l
 print datetime.now() - start_time
 
 
-#df.sort(['Total_Projection'], ascending=[False])
-
-#b = open('line-up-test2.csv', 'w')
-#a = csv.writer(b)
-#a.writerows(df_1)
-#b.close()
-
-#print df_1
 
