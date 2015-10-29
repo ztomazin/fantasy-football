@@ -148,9 +148,9 @@ def optimize_lineup(score,df):
 	import FF_scoring 
 
 
-	score = 'fftoday'
+	#score = 'fftoday'
 
-	data_set = 'aggregate-week7.csv'
+	#data_set = 'aggregate-week7.csv'
 	#csv_output = score + 'line-up.csv'
 
 	#getting the data
@@ -223,9 +223,8 @@ def optimize_lineup(score,df):
 									total_score = data[2] + data[5] + data[8] + data[11] + data[14] + data[17] + data[20] + data[23]
 									data[24]=total_salary
 									data[25]=total_score
-									if total_score >= .95* max_score and total_salary <=47500:# and total_salary > 45500:				
+									if total_score >= max_score and total_salary <=47500:# and total_salary > 45500:				
 										lu.append(data)
-									if total_score> max_score:
 										max_score = total_score
 									f +=1
 									l +=1

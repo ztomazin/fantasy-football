@@ -41,7 +41,9 @@ s7 = pd.merge(s6, df_fire, how='left', left_on='Name', right_on = 'dk_name')
 df = s7[['Name','Position','Salary','GameInfo','AvgPointsPerGame','teamAbbrev','fftoday','nfl','cbs','fleaflicker','espn','fox','fire']]
 
 #print df
+# need to get another column with averages
 
+df['average'] = df[['fftoday','nf','cbs','fleaflicker','espn','fox','fire']].mean(axis=1)
 
 
 df.to_csv(csv_output)

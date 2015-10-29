@@ -5,13 +5,14 @@ import FF_scoring
 import pandas as pd
 import numpy as np
 
+
 week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-refreshes projections)
 week = str(week)
 
 excel_doc = 'Week ' + week +'.xlsx' 
 csv_output = "finalscore-week" + week + ".csv"
-csv_output_2 = "finalscore-week" + week + "-2.csv"
-dk_file = 'DKSalaries-week-5.xlsx' #change every week
+#csv_output_2 = "finalscore-week" + week + "-2.csv"
+dk_file = 'DKweek'+week+'salaries.xlsx' #change every week
 agg = "aggregate-week" + week + ".csv"
 
 url_format = "http://games.espn.go.com/ffl/leaders?&startIndex={index}&scoringPeriodId={week}&seasonId=2015"
@@ -58,9 +59,9 @@ for i in range(0,row_num):
 
 
 df_fin_2 = df_fin[(df_fin['final'] > 0)]  # cleaning low scores
-df_fin_2.to_csv(csv_output_2)
+df_fin_2.to_csv(csv_output)
 
-df = FF_scoring.get_player(csv_output_2,dk_file,86)
+df = FF_scoring.get_player(csv_output,dk_file,86)
 
 
 #accumulating with aggregate scores
@@ -74,5 +75,5 @@ df = df.drop('player', 1)
 df = df.drop('dk_name', 1)
 #df = s1.drop(s1.columns[['Unnamed: 0_y','player','dk_name']], axis=1, inplace=True)
 
-df.to_csv(csv_output_2)
+df.to_csv(csv_output)
 #this fucking works

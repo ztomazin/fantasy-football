@@ -8,10 +8,10 @@ import FF_scoring
 import sys
 
 
-score = 'fftoday'
+score = 'final'
 
-data_set = 'aggregate-week7.csv'
-csv_output = score + 'line-up.csv'
+data_set = 'finalscore-week7-2.csv'
+csv_output = score + 'fin-line-up.csv'
 
 #getting the data
 df = pd.read_csv(data_set)
