@@ -23,7 +23,20 @@ def clean(file_name):
 	df.replace('NaN',0, inplace=True)
 	return df
 
-	
+def def_clean(df):
+	import pandas as pd
+	import numpy as np
+
+	#df = pd.read_csv(file_name)
+	#df.head()
+	num_col = ['line','total']
+	print df
+	col = 0
+	for col in range(0,2):
+		df[num_col[col]] = df[num_col[col]].convert_objects(convert_numeric=True)
+		col +=1
+	df.replace('NaN',0, inplace=True)
+	return df
 
 
 def scoring(site,file_name):
@@ -56,32 +69,25 @@ def scoring(site,file_name):
 
 
 #this is to score defense and not done, yet
-def def_scoring(site,file_name):
-	#projection = raw_input("Which site?")
-	#projection = str(projection)
-	#file_name = raw_input("Which file?") # for ESPN, this is for the csv_output (auto-refreshes projections)
-	#file_name = str(file_name)
+def def_scoring(df):
 	import pandas as pd
 	import numpy as np
-
-	df = pd.read_csv(file_name)
 	
-	num_col = ['pass_yards','pass_tds','int','rush_yards','rush_tds','rec','rec_yards','rec_tds','fan_pts','punt_td','kick_td','fl','2-pt']
-	col = 0 #starting string
-	for col in range(0,13):
-		df[num_col[col]] = df[num_col[col]].convert_objects(convert_numeric=True)
-		col +=1
-	df.replace('NaN',0, inplace=True)
-	
-	
-	df["bonus"] = np.where(df["pass_yards"]>=300,3,0)
-	df["bonus"] = np.where(df["rush_yards"]>=100,3,0) +df["bonus"]
-	df["bonus"] = np.where(df["rec_yards"]>=100,3,0) +df["bonus"]
+	df['bonus'] = np.where(df['pts_against']==0,10,0)
+	df['bonus'] = np.where(df['pts_against']>0,7,df['bonus'])
+	df['bonus'] = np.where(df['pts_against']>6,4,df['bonus'])
+	df['bonus'] = np.where(df['pts_against']>13,1,df['bonus'])
+	df['bonus'] = np.where(df['pts_against']>20,0,df['bonus'])
+	df['bonus'] = np.where(df['pts_against']>27,-1,df['bonus'])
+	df['bonus'] = np.where(df['pts_against']>34,-4,df['bonus'])
+	#df["bonus"] = np.where(df["rec_yards"]>=100,3,0) +df["bonus"]
 
 
-	df[site] = df["bonus"] + df["pass_yards"]*.04 + df["pass_tds"]*4 - df["int"] + df["rush_yards"]*.1 + df["rush_tds"]*6 + df["rec"] + df["rec_yards"]*.1 + df["rec_tds"]*6 + df["punt_td"]*6 + df["kick_td"]*6 - df["fl"] + df["2-pt"]*2
+	df['def_pts'] = df['bonus']
 
-	df_final = df[["player",site]]
+#	df["bonus"] + df["pass_yards"]*.04 + df["pass_tds"]*4 - df["int"] + df["rush_yards"]*.1 + df["rush_tds"]*6 + df["rec"] + df["rec_yards"]*.1 + df["rec_tds"]*6 + df["punt_td"]*6 + df["kick_td"]*6 - df["fl"] + df["2-pt"]*2
+
+	df_final = df[['player','pts_against','def_pts']]
 	return df_final
 
 	#df.head()

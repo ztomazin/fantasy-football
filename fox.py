@@ -1,7 +1,3 @@
-#modifying to enable Foxsports
-#http://www.foxsports.com/fantasy/football/commissioner/Research/Projections.aspx?page=2&position=-1&split=4
-#http://www.foxsports.com/fantasy/football/commissioner/Research/Projections.aspx?page=1&position=-1&split=4
-#http://www.foxsports.com/fantasy/football/commissioner/Research/Projections.aspx?page=1&position=-1&split=5&playerSearchStatus=1 --next 4 wees
 
 
 import urllib2

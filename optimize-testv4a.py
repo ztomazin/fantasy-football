@@ -12,7 +12,7 @@ import sys
 score = 'average'
 
 data_set = 'aggregate-week8.csv'
-csv_output = score + 'fin-line-up-8-2.csv'
+csv_output = score + 'fin-line-up-8.csv'
 
 #getting the data
 df = pd.read_csv(data_set)
@@ -38,15 +38,15 @@ qb_num = len(df_qb)
 rb_num = len(df_rb)
 wr_num = len(df_wr)
 te_num = len(df_te)
-#dst_num = len(df_dst)
+dst_num = len(df_dst)
 flex_num = len(df_flex)
 
 print qb_num
 print rb_num
 print wr_num
 print te_num
-#print dst_num
-perms = qb_num*rb_num*(rb_num-1)/2*wr_num*(wr_num-1)*(wr_num-2)/6*te_num*flex_num
+print dst_num
+perms = qb_num*rb_num*(rb_num-1)/2*wr_num*(wr_num-1)*(wr_num-2)/6*te_num*flex_num*dst_num
 print "Runs = " + str(perms)
 
 
@@ -61,23 +61,23 @@ qb = df_qb.values.tolist()
 rb = df_rb.values.tolist()
 wr = df_wr.values.tolist()
 te = df_te.values.tolist()
-#dst = df_dst.values.tolist()
+dst = df_dst.values.tolist()
 flex = df_flex.values.tolist()
 
 
 
 #these are the column headings
-#lu = [[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]
-#lu_headings = [['QB','QB_sal','QB_score','RB1','RB1_sal','RB1_score','RB2','RB2_sal','RB2_score','WR1','WR1_sal','WR1_score','WR2','WR2_sal','WR2_score','WR3','WR3_sal','WR3_score','TE','TE_sal','TE_score','DST','DST_sal','DST_score','FLEX','FLEX_sal','FLEX_score','salary','score']]
-lu = [[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]
-lu_headings = [['QB','QB_sal','QB_score','RB1','RB1_sal','RB1_score','RB2','RB2_sal','RB2_score','WR1','WR1_sal','WR1_score','WR2','WR2_sal','WR2_score','WR3','WR3_sal','WR3_score','TE','TE_sal','TE_score','FLEX','FLEX_sal','FLEX_score','salary','score']]
+lu = [[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]
+lu_headings = [['QB','QB_sal','QB_score','RB1','RB1_sal','RB1_score','RB2','RB2_sal','RB2_score','WR1','WR1_sal','WR1_score','WR2','WR2_sal','WR2_score','WR3','WR3_sal','WR3_score','TE','TE_sal','TE_score','DST','DST_sal','DST_score','FLEX','FLEX_sal','FLEX_score','salary','score']]
+#lu = [[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]]
+#lu_headings = [['QB','QB_sal','QB_score','RB1','RB1_sal','RB1_score','RB2','RB2_sal','RB2_score','WR1','WR1_sal','WR1_score','WR2','WR2_sal','WR2_score','WR3','WR3_sal','WR3_score','TE','TE_sal','TE_score','FLEX','FLEX_sal','FLEX_score','salary','score']]
 
 
 q = 0 #for row numbers
 r1 = 0 #first rb
 w1 = 0 #first wr
 t = 0
-#d = 0
+d = 0
 l = 0
 f = 0
 max_score = 0
@@ -92,19 +92,19 @@ for q in range(0,qb_num):
 					w3 = w2 +1
 					for w3 in range(w3,wr_num):
 						for t in range(0,te_num):
-#							for d in range(0,dst_num):
-							for f in range(0,flex_num):
-								data = [qb[q][0],qb[q][1],qb[q][2],rb[r1][0],rb[r1][1],rb[r1][2],rb[r2][0],rb[r2][1],rb[r2][2],wr[w1][0],wr[w1][1],wr[w1][2],wr[w2][0],wr[w2][1],wr[w2][2],wr[w3][0],wr[w3][1],wr[w3][2],te[t][0],te[t][1],te[t][2],flex[f][0],flex[f][1],flex[f][2],0,0]
-								total_salary = data[1] + data[4] + data[7] + data[10] + data[13] + data[16] + data[19] + data[22]
-								total_score = data[2] + data[5] + data[8] + data[11] + data[14] + data[17] + data[20] + data[23]
-								data[24]=total_salary
-								data[25]=total_score
-								if total_score >= max_score and total_salary <=48000:# and total_salary > 45500:				
-									lu.append(data)
-									max_score = total_score
-								f +=1
-								l +=1
-								#d +=1
+							for d in range(0,dst_num):
+								for f in range(0,flex_num):
+									data = [qb[q][0],qb[q][1],qb[q][2],rb[r1][0],rb[r1][1],rb[r1][2],rb[r2][0],rb[r2][1],rb[r2][2],wr[w1][0],wr[w1][1],wr[w1][2],wr[w2][0],wr[w2][1],wr[w2][2],wr[w3][0],wr[w3][1],wr[w3][2],te[t][0],te[t][1],te[t][2],dst[d][0],dst[d][1],dst[d][2],flex[f][0],flex[f][1],flex[f][2],0,0]
+									total_salary = data[1] + data[4] + data[7] + data[10] + data[13] + data[16] + data[19] + data[22] + data[25]
+									total_score = data[2] + data[5] + data[8] + data[11] + data[14] + data[17] + data[20] + data[23]+ data[26]
+									data[27]=total_salary
+									data[28]=total_score
+									if total_score >= max_score and total_salary <=50000:# and total_salary > 45500:				
+										lu.append(data)
+										max_score = total_score
+									f +=1
+									l +=1
+								d +=1
 							t +=1
 						w3 += 1
 					print l

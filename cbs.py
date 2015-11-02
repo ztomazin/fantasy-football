@@ -23,17 +23,12 @@ data_RB = [['player','rush_att','rush_yards','rush_avg','rush_tds','rec','rec_ya
 data_WR = [['player','rec','rec_yards','avg_yards/rec','rec_tds','fl','fan_pts','rush_att','rush_yards','rush_avg','rush_tds','punt_td','kick_td','2-pt','pass_yards','pass_tds','int']]
 data_TE = [['player','rec','rec_yards','avg_yards/rec','rec_tds','fl','fan_pts','rush_att','rush_yards','rush_avg','rush_tds','punt_td','kick_td','2-pt','pass_yards','pass_tds','int']]
 
-
-#first_half = "http://fantasynews.cbssports.com/fantasyfootball/stats/weeklyprojections/"
-#last_half = "/avg/standard?&print_rows=9999"
-
 position_list = ['QB','RB','WR','TE','DST']
 pos_num = 0
 
 for pos_num in range(0,1):
 	position = position_list[pos_num]
 	csv_pos = position + ".csv"
-	#url = first_half + position + "/" + week + last_half
 	url = url_format.format(position=position,week=week)
 	html = urllib2.urlopen(url).read()
 	soup = BeautifulSoup(html,"lxml")
@@ -52,17 +47,12 @@ for pos_num in range(0,1):
 
 df_qb = FF_scoring.scoring('cbs',csv_pos)
 
-
-
-
 # this is for RB
 
 for pos_num in range(1,2):
 	position = position_list[pos_num]
 	csv_pos = position + ".csv"
 	url = url_format.format(position=position,week=week)
-
-	#url = first_half + position + "/" + week + last_half
 	html = urllib2.urlopen(url).read()
 	soup = BeautifulSoup(html,"lxml")
 	table = soup.find('table', attrs={'class':'data'})
@@ -80,14 +70,12 @@ for pos_num in range(1,2):
 	
 df_rb = FF_scoring.scoring('cbs',csv_pos)
 
-
 # this is for WR
 
 for pos_num in range(2,3):
 	position = position_list[pos_num]
 	csv_pos = position + ".csv"
 	url = url_format.format(position=position,week=week)
-	#url = first_half + position + "/" + week + last_half
 	html = urllib2.urlopen(url).read()
 	soup = BeautifulSoup(html,"lxml")
 	table = soup.find('table', attrs={'class':'data'})
@@ -111,7 +99,6 @@ for pos_num in range(3,4):
 	position = position_list[pos_num]
 	csv_pos = position + ".csv"
 	url = url_format.format(position=position,week=week)
-#	url = first_half + position + "/" + week + last_half
 	html = urllib2.urlopen(url).read()
 	soup = BeautifulSoup(html,"lxml")
 	table = soup.find('table', attrs={'class':'data'})
@@ -130,20 +117,16 @@ for pos_num in range(3,4):
 df_te = FF_scoring.scoring('cbs',csv_pos)
 
 ### bring it all together
-
 df = pd.concat([df_qb,df_rb,df_wr,df_te], axis=0, ignore_index=True)
-#print df
 
 #cleaning up the names for matching
 i = 0
 row_num = len(df)
-
 for i in range(0,row_num):
 	f1 = df['player'][i].split(',') # split() only once
 	new_player = f1[0]
 	df['player'][i] = new_player
 	i = i+ 1
-
 
 df_2 = df[(df['cbs'] > 1)]  # How do I drop all the super low scores?
 df_2.to_csv(csv_output_2)
