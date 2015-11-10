@@ -11,8 +11,8 @@ import sys
 
 score = 'average'
 
-data_set = 'aggregate-week8.csv'
-csv_output = score + 'fin-line-up-8-2.csv'
+data_set = 'aggregate-week9.csv'
+csv_output = score + 'fin-line-up-9-2.csv'
 
 #getting the data
 df = pd.read_csv(data_set)
@@ -81,6 +81,7 @@ t = 0
 l = 0
 f = 0
 max_score = 0
+ss = [0,0]
 start_time = datetime.now()
 for q in range(0,qb_num):
 	for r1 in range(0,rb_num):

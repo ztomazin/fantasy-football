@@ -1,3 +1,4 @@
+
 import pandas as pd
 import numpy as np
 
@@ -7,7 +8,8 @@ csv_output = "aggregate-week" + week + ".csv"
 
 
 
-#dk_file = 'DKweek6salaries.xlsx' #change every week
+
+
 dk_file = "DKweek" +week +"salaries.xlsx"
 
 #each site
@@ -44,30 +46,17 @@ df = s7[['Name','Position','Salary','GameInfo','AvgPointsPerGame','teamAbbrev','
 
 #trades.update(config, join = 'left', overwrite = False)
 df = df.set_index(['Name'])
+print df
 df_def = df_def.set_index(['Name'])
+print df_def
+df.update(df_def, join ='left', overwrite = True)
 
-df.update(df_def, join = 'left', overwrite = True)
-
-
-#df['val'] = df2.set_index(['c1','c2'])['val'].combine_first(df1.set_index(['c1','c2'])['val']).values
-#df['fftoday'] = df_def.set_index(['Name'])['fftoday'].combine_first(df.set_index(['Name'])['fftoday']).values
-#df['nfl']=df['fan_pts']
-#df['cbs']=df['fan_pts']
-#df['fleaflicker']=df['fan_pts']
-#df['espn']=df['fan_pts']
-#df['fox']=df['fan_pts']
-#df['fire'] =df['fan_pts']
-
-
-#df.update(df_def)
-#df.update(other, join='left', overwrite=True, filter_func=None, raise_conflict=False)
-
-#print df
 # need to get another column with averages
-
 df['average'] = df[['fftoday','nfl','cbs','fleaflicker','espn','fox','fire']].mean(axis=1)
-
+df['max'] = df[['fftoday','nfl','cbs','fleaflicker','espn','fox','fire']].max(axis=1)
+df['min'] = df[['fftoday','nfl','cbs','fleaflicker','espn','fox','fire']].min(axis=1)
+df['range'] = df['max'] - df['min']
+df['rel_range'] = df['range']/df['average']
 
 df.to_csv(csv_output)
-#df_1.to_csv('def_2.csv')
 

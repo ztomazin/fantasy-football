@@ -1,9 +1,11 @@
+
 import pandas as pd
 import numpy as np
 import csv
 from datetime import datetime
 import FF_scoring 
 from openpyxl import load_workbook
+import itertools
 
 week = raw_input("Which week?")
 week = str(week)
@@ -70,10 +72,12 @@ df_avg = FF_scoring.optimize_lineup('average',df)
 df_avg.to_excel(writer,'average')
 writer.save()
 
-#>>> writer = ExcelWriter('output.xlsx')
-#>>> df1.to_excel(writer,'Sheet1')
-#>>> df2.to_excel(writer,'Sheet2')
-#>>> writer.save()
+df_avg = FF_scoring.optimize_lineup('max',df)
+#df_avg.to_csv(average_csv)
+df_avg.to_excel(writer,'max')
+writer.save()
+
+
 
 
 print datetime.now() - start_time

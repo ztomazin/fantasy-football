@@ -3,16 +3,19 @@ import FF_scoring
 import pandas as pd
 import numpy as np
 
-#week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-refreshes projections)
-#week = str(week)
+week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-refreshes projections)
+week = str(week)
 
-dk_file = "DKweek8salaries.xlsx"
+dk_file = "DKweek" +week +"salaries.xlsx"
 
-csv_output = "def-week8-2.csv"
-data_set = 'espn-week8.csv'
+csv_output = 'def-week' +week + ".csv"
+csv_output_2 = 'def-week' +week + "-2.csv"
+data_set = 'espn-week' +week +".csv"
 
 #data_set = 'espn-week' +week +'.csv'
 #getting the data
+
+#df_dk.to_excel(dk_file)
 
 df = pd.read_csv(data_set)
 
@@ -37,7 +40,7 @@ df_1 = df_1[df_1.Def == 1]
 df = df_1[['player','fan_pts']]
 
 df.to_csv(csv_output)
-df = FF_scoring.get_player(csv_output,dk_file,96)
+df = FF_scoring.get_player(csv_output,dk_file,50)
 df['fftoday']=df['fan_pts']
 df['nfl']=df['fan_pts']
 df['cbs']=df['fan_pts']
@@ -49,7 +52,7 @@ df['fire'] =df['fan_pts']
 df['Name'] =df['dk_name']
 
 
-df.to_csv(csv_output)
+df.to_csv(csv_output_2)
 
 
 

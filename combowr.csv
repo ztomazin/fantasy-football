@@ -1,0 +1,81 @@
+,WR1,WR2,WR3,Salary,average,max_pts,max_score
+0,Julio Jones,DeAndre Hopkins,Odell Beckham Jr.,26400,68.94157143,68.94157143,1
+1,Julio Jones,DeAndre Hopkins,Antonio Brown,25700,68.68157143,68.68157143,1
+29,Julio Jones,Odell Beckham Jr.,Antonio Brown,25500,68.60542858,68.60542858,1
+32,Julio Jones,Odell Beckham Jr.,A.J. Green,25300,68.08371429,68.08371429,1
+33,Julio Jones,Odell Beckham Jr.,Mike Evans,24500,66.73057143,66.73057143,1
+59,Julio Jones,Antonio Brown,A.J. Green,24600,67.82371429,67.82371429,1
+60,Julio Jones,Antonio Brown,Mike Evans,23800,66.47057143,66.47057143,1
+62,Julio Jones,Antonio Brown,Alshon Jeffery,23400,64.92028572,64.92028572,1
+66,Julio Jones,Antonio Brown,Vincent Jackson,21900,62.76771429,62.76771429,1
+71,Julio Jones,Antonio Brown,Mike Wallace,21200,61.00614286,61.00614286,1
+135,Julio Jones,A.J. Green,Mike Evans,23600,65.94885714,65.94885714,1
+137,Julio Jones,A.J. Green,Alshon Jeffery,23200,64.39857143,64.39857143,1
+138,Julio Jones,A.J. Green,Jeremy Maclin,23000,63.72125714,63.72125714,1
+141,Julio Jones,A.J. Green,Vincent Jackson,21700,62.246,62.246,1
+142,Julio Jones,A.J. Green,Stefon Diggs,21600,61.57214286,61.57214286,1
+159,Julio Jones,Mike Evans,Amari Cooper,22700,63.55371428,63.55371428,1
+160,Julio Jones,Mike Evans,Alshon Jeffery,22400,63.04542857,63.04542857,1
+164,Julio Jones,Mike Evans,Vincent Jackson,20900,60.89285714,60.89285714,1
+165,Julio Jones,Mike Evans,Stefon Diggs,20800,60.219,60.219,1
+169,Julio Jones,Mike Evans,Mike Wallace,20200,59.13128571,59.13128571,1
+191,Julio Jones,Amari Cooper,Mike Wallace,20100,58.08928571,58.08928571,1
+207,Julio Jones,Alshon Jeffery,Vincent Jackson,20500,59.34257143,59.34257143,1
+212,Julio Jones,Alshon Jeffery,Mike Wallace,19800,57.581,57.581,1
+264,Julio Jones,Eric Decker,Vincent Jackson,19400,57.07342857,57.07342857,1
+282,Julio Jones,Vincent Jackson,Stefon Diggs,18900,56.51614286,56.51614286,1
+286,Julio Jones,Vincent Jackson,Mike Wallace,18300,55.42842857,55.42842857,1
+302,Julio Jones,Stefon Diggs,Mike Wallace,18200,54.75457143,54.75457143,1
+1299,Antonio Brown,Mike Evans,Vincent Jackson,19500,57.58057143,57.58057143,1
+1304,Antonio Brown,Mike Evans,Mike Wallace,18800,55.819,55.819,1
+1399,Antonio Brown,Eric Decker,Vincent Jackson,18000,53.76114286,53.76114286,1
+1417,Antonio Brown,Vincent Jackson,Stefon Diggs,17500,53.20385715,53.20385715,1
+1421,Antonio Brown,Vincent Jackson,Mike Wallace,16900,52.11614286,52.11614286,1
+2200,A.J. Green,Mike Evans,Vincent Jackson,19300,57.05885714,57.05885714,1
+2300,A.J. Green,Eric Decker,Vincent Jackson,17800,53.23942857,53.23942857,1
+2318,A.J. Green,Vincent Jackson,Stefon Diggs,17300,52.68214286,52.68214286,1
+2322,A.J. Green,Vincent Jackson,Mike Wallace,16700,51.59442857,51.59442857,1
+2496,Mike Evans,Alshon Jeffery,Vincent Jackson,18100,54.15542857,54.15542857,1
+2516,Mike Evans,Jeremy Maclin,Vincent Jackson,17900,53.47811428,53.47811428,1
+2571,Mike Evans,Vincent Jackson,Stefon Diggs,16500,51.329,51.329,1
+2575,Mike Evans,Vincent Jackson,Mike Wallace,15900,50.24128571,50.24128571,1
+2582,Mike Evans,Vincent Jackson,Marques Colston,14900,46.52685714,46.52685714,1
+2591,Mike Evans,Stefon Diggs,Mike Wallace,15800,49.56742857,49.56742857,1
+2802,Amari Cooper,Vincent Jackson,Stefon Diggs,16400,50.287,50.287,1
+3016,Alshon Jeffery,Vincent Jackson,Mike Wallace,15500,48.691,48.691,1
+3032,Alshon Jeffery,Stefon Diggs,Mike Wallace,15400,48.01714286,48.01714286,1
+3206,Jeremy Maclin,Vincent Jackson,Mike Wallace,15300,48.01368571,48.01368571,1
+3373,Brandin Cooks,Vincent Jackson,Stefon Diggs,15100,47.57314286,47.57314286,1
+3377,Brandin Cooks,Vincent Jackson,Mike Wallace,14500,46.48542857,46.48542857,1
+3526,Eric Decker,Vincent Jackson,Stefon Diggs,15000,47.50957143,47.50957143,1
+3530,Eric Decker,Vincent Jackson,Mike Wallace,14400,46.42185714,46.42185714,1
+3682,Vincent Jackson,Stefon Diggs,Mike Wallace,13900,45.86457143,45.86457143,1
+3687,Vincent Jackson,Stefon Diggs,Doug Baldwin,13200,42.25414286,42.25414286,1
+3689,Vincent Jackson,Stefon Diggs,Marques Colston,12900,42.15014286,42.15014286,1
+3697,Vincent Jackson,Michael Crabtree,Mike Wallace,13800,44.41971428,44.41971428,1
+3711,Vincent Jackson,Anquan Boldin,Mike Wallace,13500,44.25357143,44.25357143,1
+3741,Vincent Jackson,Mike Wallace,Doug Baldwin,12600,41.16642857,41.16642857,1
+3743,Vincent Jackson,Mike Wallace,Marques Colston,12300,41.06242857,41.06242857,1
+3788,Vincent Jackson,Doug Baldwin,Marques Colston,11600,37.452,37.452,1
+3800,Vincent Jackson,Marques Colston,Stevie Johnson,11300,35.779857143,35.779857143,1
+3831,Stefon Diggs,Anquan Boldin,Mike Wallace,13400,43.57971429,43.57971429,1
+3844,Stefon Diggs,Rishard Matthews,Mike Wallace,13300,42.68485714,42.68485714,1
+3863,Stefon Diggs,Mike Wallace,Marques Colston,12200,40.38857143,40.38857143,1
+3908,Stefon Diggs,Doug Baldwin,Marques Colston,11500,36.77814286,36.77814286,1
+3914,Stefon Diggs,Ted Ginn Jr.,Marques Colston,11400,35.785000003,35.785000003,1
+3968,Michael Crabtree,Mike Wallace,Marques Colston,12100,38.94371428,38.94371428,1
+4059,Anquan Boldin,Mike Wallace,Marques Colston,11800,38.77757143,38.77757143,1
+4137,Rishard Matthews,Mike Wallace,Marques Colston,11700,37.88271428,37.88271428,1
+4248,Mike Wallace,Doug Baldwin,Marques Colston,10900,35.69042857,35.69042857,1
+4254,Mike Wallace,Ted Ginn Jr.,Marques Colston,10800,34.697285713,34.697285713,1
+4260,Mike Wallace,Marques Colston,Stevie Johnson,10600,34.018285713,34.018285713,1
+4264,Mike Wallace,Marques Colston,Justin Hunter,10400,31.97342857,31.97342857,1
+4412,Malcom Floyd,Doug Baldwin,Marques Colston,10200,31.42614286,31.42614286,1
+4439,Doug Baldwin,Ted Ginn Jr.,Marques Colston,10100,31.086857143,31.086857143,1
+4445,Doug Baldwin,Marques Colston,Stevie Johnson,9900,30.407857143,30.407857143,1
+4449,Doug Baldwin,Marques Colston,Justin Hunter,9700,28.363,28.363,1
+4460,Ted Ginn Jr.,Marques Colston,Stevie Johnson,9800,29.414714286,29.414714286,1
+4464,Ted Ginn Jr.,Marques Colston,Justin Hunter,9600,27.369857143,27.369857143,1
+4478,Marques Colston,Stevie Johnson,Justin Hunter,9400,26.690857143,26.690857143,1
+4484,Marques Colston,Nick Williams,Justin Hunter,9200,24.459666667,24.459666667,1
+4494,Jaron Brown,Nick Williams,Justin Hunter,9000,20.585666667,20.585666667,1

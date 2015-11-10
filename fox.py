@@ -10,13 +10,11 @@ import numpy as np
 week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-refreshes projections)
 week = str(week)
 
-#dk_file = 'DKweek6salaries.xlsx'#change every week
 dk_file = "DKweek" +week +"salaries.xlsx"
-
 csv_output = "fox-week" + week + ".csv"
 excel_output = "fox-week" + week + ".xlsx"
 csv_output_2 = "fox-week" + week + "-2" + ".csv"
-data = [['player','status','pass_tds','pass_yards','pass_att','omp','int','rush_tds','rush_yards','rush_att','rec_tds','rec_yards','rec','2-pt','def_td','fl','fan_pts','punt_td','kick_td',]]
+data = [['player','status','pass_tds','pass_yards','pass_att','comp','int','rush_tds','rush_yards','rush_att','rec_tds','rec_yards','rec','2-pt','def_td','fl','fan_pts','punt_td','kick_td',]]
 
 url_format = 'http://www.foxsports.com/fantasy/football/commissioner/Research/Projections.aspx?page={page_num}&position=-1&split=4'
 

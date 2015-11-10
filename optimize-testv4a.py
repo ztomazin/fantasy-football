@@ -12,7 +12,7 @@ import sys
 score = 'average'
 
 data_set = 'aggregate-week8.csv'
-csv_output = score + 'fin-line-up-8.csv'
+csv_output = score + 'fin-line-up-8-steve.csv'
 
 #getting the data
 df = pd.read_csv(data_set)
