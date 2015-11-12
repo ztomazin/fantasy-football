@@ -23,6 +23,8 @@ def clean(file_name):
 	df.replace('NaN',0, inplace=True)
 	return df
 
+#---------------------------------------------
+
 def def_clean(df):
 	import pandas as pd
 	import numpy as np
@@ -38,6 +40,7 @@ def def_clean(df):
 	df.replace('NaN',0, inplace=True)
 	return df
 
+#---------------------------------------------
 
 def scoring(site,file_name):
 	import pandas as pd
@@ -63,6 +66,7 @@ def scoring(site,file_name):
 	df_final = df[["player",site]]
 	return df_final
 
+#---------------------------------------------
 
 #this is to score defense and not done, yet
 def def_scoring(df):
@@ -86,7 +90,7 @@ def def_scoring(df):
 	df_final = df[['player','pts_against','def_pts']]
 	return df_final
 
-	#df.head()
+#---------------------------------------------
 
 def get_player(file_name,dk_file,score_cutoff):
 	import pandas as pd
@@ -111,6 +115,8 @@ def get_player(file_name,dk_file,score_cutoff):
 	  	i += 1
 	return df
 
+#---------------------------------------------
+
 def segment_df(df,score,pos_list):
 	import pandas as pd
 	import numpy as np
@@ -120,6 +126,51 @@ def segment_df(df,score,pos_list):
 	df = df[['Name','Salary',score]]
 	return df 
 
+#---------------------------------------------
+
+def exclude_teams(df):
+	import pandas as pd
+	import numpy as np
+	import FF_scoring 
+	import easygui as eg
+
+	teams = pd.unique(df.teamAbbrev.ravel()) #getting a list of teams for the week 
+	question = "Select teams to exclude"
+	title = "Select teams"
+	listOfOptions = teams
+	choice = eg.multchoicebox(question , title, listOfOptions)
+	print choice
+	cont = raw_input("Exclude these teams (if none are showing, there are none selected)? (y/n)")
+	cont = str(cont)
+	if cont == 'y':
+		df = df[~df.teamAbbrev.isin(choice)] #removing the teams
+	else:
+		df = FF_scoring.exclude_teams(df)
+	return df
+
+#------------------------------------
+
+def exclude_players(df):
+	import pandas as pd
+	import numpy as np
+	import FF_scoring 
+	import easygui as eg
+
+	players = pd.unique(df.Name.ravel()) #getting a list of teams for the week 
+	question = "Select players to exclude"
+	title = "Select players"
+	listOfOptions = players
+	choice = eg.multchoicebox(question , title, listOfOptions)
+	print choice
+	cont = raw_input("Exclude these players (if none are showing, there are none selected)? (y/n)")
+	cont = str(cont)
+	if cont == 'y':
+		df = df[~df.Name.isin(choice)] #removing the teams
+	else:
+		df = FF_scoring.exclude_teams(df)
+	return df
+
+#---------------------------------------------
 
 def optimal_players(df,score,mult):
 	import pandas as pd
@@ -151,8 +202,9 @@ def optimal_players(df,score,mult):
 	df = df[df.max_score == 1]
 	return df
 
+#---------------------------------------------
 
-def optimize_lineup(score,df): 
+def optimize_lineup(score,df,mult): 
 	import pandas as pd
 	import numpy as np
 	import csv
@@ -299,7 +351,7 @@ def optimize_lineup(score,df):
 							total_score = data[2] + data[6] + data[11] + data[14] + data[17] + data[20]
 							data[21]=total_salary
 							data[22]=total_score
-							if total_score >= .97* max_score and total_salary <= max_sal:			
+							if total_score >= mult* max_score and total_salary <= max_sal:			
 								lu.append(data)
 								if total_score > max_score:
 									max_score = total_score
@@ -319,5 +371,7 @@ def optimize_lineup(score,df):
 	df = pd.DataFrame(lu, columns=lu_headings[0])
 	df['Unique_flex'] = np.where((df['FLEX']==df['RB1']) |(df['FLEX']==df['RB2']) |(df['FLEX']==df['WR1']) | (df['FLEX']==df['WR2']) | (df['FLEX']==df['WR3']) | (df['FLEX']==df['TE']), 0, 1)
 	df = df[df.Unique_flex == 1]
+	df.sort_values(by='score', ascending=False, inplace=True) 
+
 
 	return df

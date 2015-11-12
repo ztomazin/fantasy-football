@@ -1,3 +1,5 @@
+#http://games.espn.go.com/ffl/leaders?&startIndex=0&scoringPeriodId=9&seasonId=2015
+
 import urllib2
 import csv
 from bs4 import BeautifulSoup # latest version bs4
@@ -68,11 +70,13 @@ df = FF_scoring.get_player(csv_output,dk_file,86)
 df_agg = pd.read_csv(agg)
 df = pd.merge(df_agg, df, how='left', left_on='Name', right_on = 'dk_name')
 
+df = df[['Name','Position','Salary','GameInfo','AvgPointsPerGame','teamAbbrev','fftoday','nfl','cbs','fleaflicker','espn','fox','fire','average','max','min','range','rel_range','final']]
 
-df = df.drop('Unnamed: 0_x', 1)
-df = df.drop('Unnamed: 0_y', 1)
-df = df.drop('player', 1)
-df = df.drop('dk_name', 1)
+
+#df = df.drop('Unnamed: 0_x', 1)
+#df = df.drop('Unnamed: 0_y', 1)
+#df = df.drop('player', 1)
+#df = df.drop('dk_name', 1)
 #df = s1.drop(s1.columns[['Unnamed: 0_y','player','dk_name']], axis=1, inplace=True)
 
 df.to_csv(csv_output)

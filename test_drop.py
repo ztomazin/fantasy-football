@@ -6,6 +6,7 @@ from datetime import datetime
 import FF_scoring 
 from openpyxl import load_workbook
 import itertools
+import easygui as eg
 
 week = raw_input("Which week?")
 week = str(week)
@@ -16,16 +17,22 @@ df = pd.read_csv(data_set)
 
 start_time = datetime.now()
 
+df = FF_scoring.exclude_teams(df)
+df = FF_scoring.exclude_players(df)
 
-team_list_1 = ['Atl','Buf','Car','Chi','Cin']
-team_list_2 = ['Atl','Buf']
 
-print len(df)
-df_in = df[df.teamAbbrev.isin(team_list_1)]
-print len(df_in)
+#print len(df_out)
 
-df_out = df_in[~df_in.teamAbbrev.isin(team_list_2)]
-print len(df_out)
+#print teams
+#team_list_1 = ['Atl','Buf','Car','Chi','Cin']
+#team_list_2 = ['Atl','Buf']
+
+#print len(df)
+#df_in = df[df.teamAbbrev.isin(team_list_1)]
+#print len(df_in)
+
+#df_out = df_in[~df_in.teamAbbrev.isin(team_list_2)]
+#print len(df_out)
 
 
 #excel_out = 'lineups-week' + week + '.xlsx'
