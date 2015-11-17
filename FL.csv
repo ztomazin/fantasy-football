@@ -1,256 +1,287 @@
 player,pos,team,bye,opp,rush_att,rush_yards,rush_tds,rec,tar,rec_yards,rec_tds,fl,misc_yard,misc_td,punt_td,kick_td,fan_pts,own,2-pt,pass_yards,pass_tds,int
 
 
-Antonio Brown,WR,PIT,11,OAKSun 1:00,0,2,0,9,9,117,1,0,119,1,0,0,19.9,98%
-Devonta Freeman,RB,ATL,10,@SFSun 4:05,24,88,1,4,4,37,0,0,125,1,0,0,18.5,92%
-Odell Beckham,WR,NYG,11,@TBSun 4:05,1,5,0,8,8,113,1,0,118,1,0,0,17.8,95%
-Dez Bryant,WR,DAL,6,PHISun 8:30,0,0,0,7,7,111,1,0,111,1,0,0,17.1,95%
-A.J. Green,WR,CIN,7,CLE,0,2,0,7,7,109,1,0,111,1,0,0,17.1,98%
-Eddie Lacy,RB,GB,7,@CARSun 1:00,20,93,1,3,3,27,0,1,120,1,0,0,17,96%
-Julio Jones,WR,ATL,10,@SFSun 4:05,0,1,0,7,7,107,1,0,108,1,0,0,16.8,98%
-Adrian Peterson,RB,MIN,5,STLSun 1:00,24,109,1,3,3,18,0,1-1,127,1,0,0,16.7,98%
-Demaryius Thomas,WR,DEN,7,@INDSun 4:25,0,0,0,7,7,102,1,0,102,1,0,0,16.2,98%
-Amari Cooper,WR,OAK,6,@PITSun 1:00,0,0,0,8,8,101,1,0,101,1,0,0,16.1,90%
-Randall Cobb,WR,GB,7,@CARSun 1:00,1,7,0,7,7,91,1,0,98,1,0,0,15.8,97%
-Mike Evans,WR,TB,6,NYGSun 4:05,0,0,0,7,7,95,1,0,95,1,0,0,15.5,91%
-Danny Woodhead,RB,SD,10,CHIMon 8:30,11,45,0,3,3,48,1,0,93,1,0,0,15.3,86%
-Todd Gurley,RB,STL,6,@MINSun 1:00,18,86,1,2,2,15,0,1,101,1,0,0,15.1,90%
-Emmanuel Sanders,WR,DEN,7,@INDSun 4:25,1,3,0,6,6,86,1,0,89,1,0,0,14.9,96%
-Rob Gronkowski,TE,NE,4,WASSun 1:00,0,0,0,6,6,89,1,0,89,1,0,0,14.9,98%
-Chris Ivory,RB,NYJ,5,JACSun 1:00,19,77,1,2,2,12,0,1,89,1,0,0,13.9,94%
-T.J. Yeldon,RB,JAC,8,@NYJSun 1:00,15,64,1,2,2,15,0,0,79,1,0,0,13.9,85%
-Jeremy Langford,RB,CHI,7,@SDMon 8:30,12,50,1,3,3,28,0,0,78,1,0,0,13.8,51%
-Eric Decker,WR,NYJ,5,JACSun 1:00,0,0,0,6,6,78,1,0,78,1,0,0,13.8,87%
+Antonio Brown,WR,PIT,11,CLESun 1:00,0,2,0,9,9,114,1,0,116,1,0,0,19.6,98%
+Adrian Peterson,RB,MIN,5,@OAKSun 4:05,25,112,1,3,3,18,0,1,130,1,0,0,18,98%
+Dez Bryant,WR,DAL,6,@TBSun 1:00,0,0,0,7,7,110,1,0,110,1,0,0,17,96%
+Jeremy Langford,RB,CHI,7,@STLSun 1:00,16,66,1,4,4,38,0,0,104,1,0,0,16.4,61%
+Amari Cooper,WR,OAK,6,MINSun 4:05,0,0,0,8,8,98,1,0,98,1,0,0,15.8,90%
+Odell Beckham,WR,NYG,11,NESun 4:25,1,4,0,6,6,94,1,0,98,1,0,0,15.8,95%
+Randall Cobb,WR,GB,7,DETSun 1:00,1,6,0,7,7,91,1,0,97,1,0,0,15.7,97%
+A.J. Green,WR,CIN,7,HOUMon 8:30,0,1,0,6,6,92,1,0,93,1,0,0,15.3,98%
+Mike Evans,WR,TB,6,DALSun 1:00,0,0,0,7,7,93,1,0,93,1,0,0,15.3,91%
+Todd Gurley,RB,STL,6,CHISun 1:00,18,85,1,2,2,16,0,1,101,1,0,0,15.1,90%
+Justin Forsett,RB,BAL,9,JACSun 1:00,19,77,1,3,3,20,0,1,97,1,0,0,14.7,94%
+Alshon Jeffery,WR,CHI,7,@STLSun 1:00,0,2,0,6,6,85,1,0,87,1,0,0,14.7,95%
+DeAndre Hopkins,WR,HOU,9,@CINMon 8:30,0,0,0,7,7,87,1,0,87,1,0,0,14.7,95%
+Rob Gronkowski,TE,NE,4,@NYGSun 4:25,0,0,0,6,6,87,1,0,87,1,0,0,14.7,98%
+Jimmy Graham,TE,SEA,9,ARISun 8:30,0,0,0,7,7,83,1,0,83,1,0,0,14.3,97%
+Eddie Lacy,RB,GB,7,DETSun 1:00,15,62,1,2,2,20,0,0,82,1,0,0,14.2,94%
+Jonathan Stewart,RB,CAR,5,@TENSun 1:00,15,67,1,2,2,14,0,0,81,1,0,0,14.1,90%
+T.J. Yeldon,RB,JAC,8,@BALSun 1:00,15,65,1,2,2,15,0,0,80,1,0,0,14,85%
+DeMarco Murray,RB,PHI,8,MIASun 1:00,14,64,1,2,2,14,0,0,78,1,0,0,13.8,97%
+Marshawn Lynch,RB,SEA,9,ARISun 8:30,15,64,1,2,2,13,0,0,77,1,0,0,13.7,98%
  Previous1234567Next 
 
 
-Dion Lewis,RB,NE,4,WASSun 1:00,14,50,1,5,5,27,0,0,77,1,0,0,13.7,82%
-Alshon Jeffery,WR,CHI,7,@SDMon 8:30,0,2,0,6,6,74,1,0,76,1,0,0,13.6,95%
-DeMarco Murray,RB,PHI,8,@DALSun 8:30,14,62,1,2,2,14,0,0,76,1,0,0,13.6,97%
-Ronnie Hillman,RB,DEN,7,@INDSun 4:25,8,51,1,2,2,24,0,0,75,1,0,0,13.5,80%
-Tyler Eifert,TE,CIN,7,CLE,0,0,0,6,6,74,1,0,74,1,0,0,13.4,88%
-Stefon Diggs,WR,MIN,5,STLSun 1:00,0,0,0,6,6,73,1,0,73,1,0,0,13.3,68%
-Giovani Bernard,RB,CIN,7,CLE,13,54,1,4,4,28,0,1,82,1,0,0,13.2,92%
-T.Y. Hilton,WR,IND,10,DENSun 4:25,0,2,0,5,5,70,1,0,72,1,0,0,13.2,96%
-C.J. Spiller,RB,NO,11,TENSun 1:00,10,47,1,2,2,24,0,0,71,1,0,0,13.1,71%
-Brandon Marshall,WR,NYJ,5,JACSun 1:00,0,0,0,6,6,71,1,0,71,1,0,0,13.1,97%
-Julian Edelman,WR,NE,4,WASSun 1:00,1,2,0,6,6,69,1,0,71,1,0,0,13.1,96%
-Mike Wallace,WR,MIN,5,STLSun 1:00,0,2,0,5,5,67,1,0,69,1,0,0,12.9,64%
-Brandin Cooks,WR,NO,11,TENSun 1:00,1,8,0,6,6,60,1,0,68,1,0,0,12.8,89%
-Doug Martin,RB,TB,6,NYGSun 4:05,14,58,1,1,1,9,0,0,67,1,0,0,12.7,94%
-Martavis Bryant,WR,PIT,11,OAKSun 1:00,1,3,0,5,5,63,1,0,66,1,0,0,12.6,88%
-Delanie Walker,TE,TEN,4,@NOSun 1:00,0,0,0,5,5,66,1,0,66,1,0,0,12.6,78%
-Martellus Bennett,TE,CHI,7,@SDMon 8:30,0,0,0,6,6,66,1,0,66,1,0,0,12.6,90%
-Gary Barnidge,TE,CLE,11,@CIN,0,0,0,7,7,65,1,0,65,1,0,0,12.5,80%
-Darren McFadden,RB,DAL,6,PHISun 8:30,21,67,1,1,1,7,0,1,74,1,0,0,12.4,87%
-James Jones,WR,GB,7,@CARSun 1:00,0,0,0,5,5,64,1,0,64,1,0,0,12.4,85%
+Chris Ivory,RB,NYJ,5,BUF,18,75,1,2,2,12,0,1,87,1,0,0,13.7,94%
+Tyler Eifert,TE,CIN,7,HOUMon 8:30,0,0,0,6,6,77,1,0,77,1,0,0,13.7,89%
+Ronnie Hillman,RB,DEN,7,KCSun 4:25,8,51,1,2,2,24,0,0,75,1,0,0,13.5,76%
+Demaryius Thomas,WR,DEN,7,KCSun 4:25,0,0,0,5,5,72,1,0,72,1,0,0,13.2,98%
+Stefon Diggs,WR,MIN,5,@OAKSun 4:05,0,0,0,6,6,72,1,0,72,1,0,0,13.2,69%
+Giovani Bernard,RB,CIN,7,HOUMon 8:30,12,51,1,4,4,29,0,1,80,1,0,0,13,92%
+Julian Edelman,WR,NE,4,@NYGSun 4:25,1,2,0,6,6,68,1,0,70,1,0,0,13,96%
+Doug Baldwin,WR,SEA,9,ARISun 8:30,0,1,0,6,6,69,1,0,70,1,0,0,13,28%
+C.J. Spiller,RB,NO,11,@WASSun 1:00,9,44,1,2,2,25,0,0,69,1,0,0,12.9,68%
+Brandin Cooks,WR,NO,11,@WASSun 1:00,1,7,0,6,6,62,1,0,69,1,0,0,12.9,90%
+Brandon Marshall,WR,NYJ,5,BUF,0,0,0,6,6,68,1,0,68,1,0,0,12.8,97%
+Martellus Bennett,TE,CHI,7,@STLSun 1:00,0,0,0,6,6,68,1,0,68,1,0,0,12.8,90%
+Mike Wallace,WR,MIN,5,@OAKSun 4:05,0,2,0,5,5,66,1,0,68,1,0,0,12.8,62%
+Gary Barnidge,TE,CLE,11,@PITSun 1:00,0,0,0,7,7,67,1,0,67,1,0,0,12.7,80%
+Lamar Miller,RB,MIA,5,@PHISun 1:00,13,54,1,2,2,12,0,0,66,1,0,0,12.6,95%
+Darren McFadden,RB,DAL,6,@TBSun 1:00,21,68,1,1,1,7,0,1,75,1,0,0,12.5,89%
+Martavis Bryant,WR,PIT,11,CLESun 1:00,1,3,0,5,5,62,1,0,65,1,0,0,12.5,88%
+Greg Olsen,TE,CAR,5,@TENSun 1:00,0,0,0,5,5,65,1,0,65,1,0,0,12.5,97%
+Doug Martin,RB,TB,6,DALSun 1:00,14,56,1,1,1,8,0,0,64,1,0,0,12.4,94%
+Latavius Murray,RB,OAK,6,MINSun 4:05,12,56,1,1,1,8,0,0,64,1,0,0,12.4,91%
  Previous1234567Next 
 
 
-LeSean McCoy,RB,BUF,8,MIASun 1:00,15,61,1,2,2,12,0,1,73,1,0,0,12.3,97%
-Lamar Miller,RB,MIA,5,@BUFSun 1:00,12,52,1,2,2,11,0,0,63,1,0,0,12.3,95%
-Allen Hurns,WR,JAC,8,@NYJSun 1:00,0,0,0,5,5,63,1,0,63,1,0,0,12.3,74%
-Greg Olsen,TE,CAR,5,GBSun 1:00,0,0,0,5,5,63,1,0,63,1,0,0,12.3,97%
-Mark Ingram,RB,NO,11,TENSun 1:00,13,55,1,2,2,7,0,0,62,1,0,0,12.2,96%
-Duke Johnson,RB,CLE,11,@CIN,9,32,1,3,3,30,0,0,62,1,0,0,12.2,64%
-Allen Robinson,WR,JAC,8,@NYJSun 1:00,0,0,0,5,5,60,1,0,60,1,0,0,12,89%
-Jason Witten,TE,DAL,6,PHISun 8:30,0,0,0,5,5,60,1,0,60,1,0,0,12,92%
-Anquan Boldin,WR,SF,10,ATLSun 4:05,0,0,0,5,5,59,1,0,59,1,0,0,11.9,65%
-Marvin Jones,WR,CIN,7,CLE,0,0,0,4,4,58,1,0,58,1,0,0,11.8,58%
-Brandon LaFell,WR,NE,4,WASSun 1:00,0,2,0,5,5,56,1,0,58,1,0,0,11.8,52%
-Marques Colston,WR,NO,11,TENSun 1:00,0,0,0,5,5,57,1,0,57,1,0,0,11.7,58%
-Pierre Garcon,WR,WAS,8,@NESun 1:00,0,0,0,5,5,57,1,0,57,1,0,0,11.7,64%
-Austin Seferian-Jenkins,TE,TB,6,NYGSun 4:05,0,0,0,5,5,57,1,0,57,1,0,0,11.7,51%
-Travis Benjamin,WR,CLE,11,@CIN,0,2,0,4,4,54,1,0,56,1,0,0,11.6,79%
-Jarvis Landry,WR,MIA,5,@BUFSun 1:00,0,2,0,5,5,53,1,0,55,1,0,0,11.5,89%
-Jordan Reed,TE,WAS,8,@NESun 1:00,0,0,0,5,5,54,1,0,54,1,0,0,11.4,64%
-Latavius Murray,RB,OAK,6,@PITSun 1:00,12,55,1,1,1,8,0,1,63,1,0,0,11.3,92%
-Michael Crabtree,WR,OAK,6,@PITSun 1:00,0,0,0,4,4,53,1,0,53,1,0,0,11.3,74%
-Antonio Andrews,RB,TEN,4,@NOSun 1:00,9,39,1,2,2,14,0,0,53,1,0,0,11.3,39%
+James Jones,WR,GB,7,DETSun 1:00,0,0,0,5,5,64,1,0,64,1,0,0,12.4,84%
+Allen Hurns,WR,JAC,8,@BALSun 1:00,0,0,0,5,5,64,1,0,64,1,0,0,12.4,77%
+Delanie Walker,TE,TEN,4,CARSun 1:00,0,0,0,5,5,64,1,0,64,1,0,0,12.4,82%
+Jeremy Maclin,WR,KC,9,@DENSun 4:25,0,0,0,5,5,62,1,0,62,1,0,0,12.2,89%
+Larry Fitzgerald,WR,ARI,9,@SEASun 8:30,0,0,0,5,5,61,1,0,61,1,0,0,12.1,97%
+DeSean Jackson,WR,WAS,8,NOSun 1:00,0,2,0,4,4,58,1,0,60,1,0,0,12,75%
+Marvin Jones,WR,CIN,7,HOUMon 8:30,0,0,0,5,5,60,1,0,60,1,0,0,12,60%
+Allen Robinson,WR,JAC,8,@BALSun 1:00,0,0,0,5,5,60,1,0,60,1,0,0,12,89%
+Mark Ingram,RB,NO,11,@WASSun 1:00,12,51,1,2,2,8,0,0,59,1,0,0,11.9,96%
+Marques Colston,WR,NO,11,@WASSun 1:00,0,0,0,5,5,59,1,0,59,1,0,0,11.9,58%
+Jarvis Landry,WR,MIA,5,@PHISun 1:00,0,2,0,5,5,57,1,0,59,1,0,0,11.9,89%
+Jason Witten,TE,DAL,6,@TBSun 1:00,0,0,0,5,5,59,1,0,59,1,0,0,11.9,92%
+Travis Benjamin,WR,CLE,11,@PITSun 1:00,0,2,0,4,4,56,1,0,58,1,0,0,11.8,76%
+Brandon LaFell,WR,NE,4,@NYGSun 4:25,0,2,0,5,5,55,1,0,57,1,0,0,11.7,56%
+Austin Seferian-Jenkins,TE,TB,6,DALSun 1:00,0,0,0,5,5,55,1,0,55,1,0,0,11.5,50%
+Jordan Reed,TE,WAS,8,NOSun 1:00,0,0,0,5,5,54,1,0,54,1,0,0,11.4,68%
+LeGarrette Blount,RB,NE,4,@NYGSun 4:25,12,50,1,1,1,2,0,0,52,1,0,0,11.2,89%
+Antonio Andrews,RB,TEN,4,CARSun 1:00,9,38,1,2,2,14,0,0,52,1,0,0,11.2,48%
+Sammy Watkins,WR,BUF,8,@NYJ,0,2,0,4,4,50,1,0,52,1,0,0,11.2,83%
+Travis Kelce,TE,KC,9,@DENSun 4:25,0,0,0,5,5,52,1,0,52,1,0,0,11.2,93%
  Previous1234567Next 
 
 
-Shane Vereen,RB,NYG,11,@TBSun 4:05,6,24,1,3,3,28,0,0,52,1,0,0,11.2,73%
-LeGarrette Blount,RB,NE,4,WASSun 1:00,12,49,1,1,1,2,0,0,51,1,0,0,11.1,85%
-Frank Gore,RB,IND,10,DENSun 4:25,10,41,1,1,1,9,0,0,50,1,0,0,11,96%
-Rueben Randle,WR,NYG,11,@TBSun 4:05,0,0,0,4,4,50,1,0,50,1,0,0,11,51%
-Sammy Watkins,WR,BUF,8,MIASun 1:00,0,2,0,4,4,48,1,0,50,1,0,0,11,76%
-Richard Rodgers,TE,GB,7,@CARSun 1:00,0,0,0,4,4,50,1,0,50,1,0,0,11,33%
-Julius Thomas,TE,JAC,8,@NYJSun 1:00,0,0,0,5,5,49,1,0,49,1,0,0,10.9,76%
-Donte Moncrief,WR,IND,10,DENSun 4:25,0,3,0,4,4,45,1,0,48,1,0,0,10.8,68%
-Jacob Tamme,TE,ATL,10,@SFSun 4:05,0,0,0,4,4,47,1,0,47,1,0,0,10.7,27%
-Rishard Matthews,WR,MIA,5,@BUFSun 1:00,0,0,0,4,4,45,1,0,45,1,0,0,10.5,63%
-Jeremy Hill,RB,CIN,7,CLE,20,97,0,2,2,17,0,1,114,0,0,0,10.4,92%
-Davante Adams,WR,GB,7,@CARSun 1:00,0,0,0,4,4,44,1,0,44,1,0,0,10.4,55%
-Ladarius Green,TE,SD,10,CHIMon 8:30,0,0,0,4,4,43,1,0,43,1,0,0,10.3,49%
-Antonio Gates,TE,SD,10,CHIMon 8:30,0,0,0,4,4,42,1,0,42,1,0,0,10.2,81%
-Charles Clay,TE,BUF,8,MIASun 1:00,0,0,0,5,5,39,1,0,39,1,0,0,9.9,58%
-Matt Jones,RB,WAS,8,@NESun 1:00,10,43,1,2,2,9,0,1-1,52,1,0,0,9.2,52%
-Steve Johnson,WR,SD,10,CHIMon 8:30,0,0,0,3,3,31,1,0,31,1,0,0,9.1,50%
-Owen Daniels,TE,DEN,7,@INDSun 4:25,0,0,0,3,3,31,1,0,31,1,0,0,9.1,32%
-Jonathan Stewart,RB,CAR,5,GBSun 1:00,14,63,0,2,2,13,0,0,76,0,0,0,7.6,90%
-Malcom Floyd,WR,SD,10,CHIMon 8:30,0,0,0,5,5,75,0,0,75,0,0,0,7.5,52%
+Alfred Morris,RB,WAS,8,NOSun 1:00,10,46,1,1,1,5,0,0,51,1,0,0,11.1,67%
+Michael Crabtree,WR,OAK,6,MINSun 4:05,0,0,0,4,4,51,1,0,51,1,0,0,11.1,83%
+David Cobb,RB,TEN,4,CARSun 1:00,8,39,1,1,1,11,0,0,50,1,0,0,11,41%
+Pierre Garcon,WR,WAS,8,NOSun 1:00,0,0,0,4,4,50,1,0,50,1,0,0,11,64%
+Richard Rodgers,TE,GB,7,DETSun 1:00,0,0,0,5,5,50,1,0,50,1,0,0,11,41%
+Julius Thomas,TE,JAC,8,@BALSun 1:00,0,0,0,5,5,49,1,0,49,1,0,0,10.9,74%
+Rishard Matthews,WR,MIA,5,@PHISun 1:00,0,0,0,4,4,48,1,0,48,1,0,0,10.8,63%
+Taylor Gabriel,WR,CLE,11,@PITSun 1:00,0,0,0,3,3,46,1,0,46,1,0,0,10.6,2%
+Davante Adams,WR,GB,7,DETSun 1:00,0,0,0,4,4,44,1,0,44,1,0,0,10.4,58%
+Eric Ebron,TE,DET,9,@GBSun 1:00,0,0,0,4,4,44,1,0,44,1,0,0,10.4,41%
+John Brown,WR,ARI,9,@SEASun 8:30,0,0,0,3,3,40,1,0,40,1,0,0,10,81%
+Charles Clay,TE,BUF,8,@NYJ,0,0,0,5,5,40,1,0,40,1,0,0,10,55%
+Owen Daniels,TE,DEN,7,KCSun 4:25,0,0,0,4,4,36,1,0,36,1,0,0,9.6,36%
+Matt Jones,RB,WAS,8,NOSun 1:00,10,47,1,2,2,9,0,1-1,56,1,0,0,9.6,52%
+Brandon Coleman,WR,NO,11,@WASSun 1:00,0,0,0,3,3,35,1,0,35,1,0,0,9.5,9%
+DeAngelo Williams,RB,PIT,11,CLESun 1:00,27,85,0,2,2,8,0,0,93,0,0,0,9.3,90%
+Brian Quick,WR,STL,6,CHISun 1:00,0,0,0,3,3,33,1,0,33,1,0,0,9.3,8%
+Karlos Williams,RB,BUF,8,@NYJ,8,29,1,1,1,2,0,0,31,1,0,0,9.1,66%
+Jeremy Hill,RB,CIN,7,HOUMon 8:30,19,91,0,2,2,17,0,1-1,108,0,0,0,8.8,91%
+James White,RB,NE,4,@NYGSun 4:25,8,36,0,5,5,42,0,0,78,0,0,0,7.8,38%
  Previous1234567Next 
 
 
-Darren Sproles,RB,PHI,8,@DALSun 8:30,6,31,0,5,5,40,0,0,71,0,0,0,7.1,61%
-DeAngelo Williams,RB,PIT,11,OAKSun 1:00,20,60,0,1,1,6,0,0,66,0,0,0,6.6,87%
-Ryan Mathews,RB,PHI,8,@DALSun 8:30,14,58,0,2,2,16,0,1,74,0,0,0,6.4,81%
-Dexter McCluster,RB,TEN,4,@NOSun 1:00,8,36,0,4,4,27,0,0,63,0,0,0,6.3,16%
-Willie Snead,WR,NO,11,TENSun 1:00,0,0,0,4,4,62,0,0,62,0,0,0,6.2,51%
-Jordan Matthews,WR,PHI,8,@DALSun 8:30,0,0,0,5,5,61,0,0,61,0,0,0,6.1,80%
-Kyle Rudolph,TE,MIN,5,STLSun 1:00,0,0,0,6,6,59,0,0,59,0,0,0,5.9,43%
-Charles Sims,RB,TB,6,NYGSun 4:05,8,39,0,2,2,17,0,0,56,0,0,0,5.6,58%
-Jamison Crowder,WR,WAS,8,@NESun 1:00,0,3,0,5,5,51,0,0,54,0,0,0,5.4,10%
-Heath Miller,TE,PIT,11,OAKSun 1:00,0,0,0,6,6,54,0,0,54,0,0,0,5.4,46%
-Zach Ertz,TE,PHI,8,@DALSun 8:30,0,0,0,5,5,53,0,0,53,0,0,0,5.3,38%
-Tavon Austin,WR,STL,6,@MINSun 1:00,3,25,0,3,3,27,0,0,52,0,0,0,5.2,69%
-Jordan Cameron,TE,MIA,5,@BUFSun 1:00,0,0,0,5,5,51,0,0,51,0,0,0,5.1,62%
-Harry Douglas,WR,TEN,4,@NOSun 1:00,0,0,0,4,4,50,0,0,50,0,0,0,5,5%
-Marqise Lee,WR,JAC,8,@NYJSun 1:00,0,1,0,4,4,48,0,0,49,0,0,0,4.9,6%
-Isaiah Crowell,RB,CLE,11,@CIN,13,50,0,2,2,8,0,1,58,0,0,0,4.8,71%
-Mohamed Sanu,WR,CIN,7,CLE,1,3,0,4,4,44,0,0,47,0,0,0,4.7,14%
-Bilal Powell,RB,NYJ,5,JACSun 1:00,7,30,0,2,2,17,0,0,47,0,0,0,4.7,19%
-Alfred Morris,RB,WAS,8,@NESun 1:00,10,42,0,1,1,5,0,0,47,0,0,0,4.7,69%
-Darrius Heyward-Bey,WR,PIT,11,OAKSun 1:00,0,0,0,4,4,47,0,0,47,0,0,0,4.7,9%
+Darren Sproles,RB,PHI,8,MIASun 1:00,6,32,0,5,5,39,0,0,71,0,0,0,7.1,60%
+James Starks,RB,GB,7,DETSun 1:00,12,50,0,3,3,21,0,0,71,0,0,0,7.1,66%
+Calvin Johnson,WR,DET,9,@GBSun 1:00,0,0,0,5,5,71,0,0,71,0,0,0,7.1,98%
+Ryan Mathews,RB,PHI,8,MIASun 1:00,14,60,0,2,2,15,0,1,75,0,0,0,6.5,84%
+Duke Johnson,RB,CLE,11,@PITSun 1:00,9,32,0,3,3,31,0,0,63,0,0,0,6.3,65%
+Willie Snead,WR,NO,11,@WASSun 1:00,0,0,0,4,4,63,0,0,63,0,0,0,6.3,55%
+Dexter McCluster,RB,TEN,4,CARSun 1:00,8,35,0,4,4,26,0,0,61,0,0,0,6.1,16%
+Jordan Matthews,WR,PHI,8,MIASun 1:00,0,0,0,5,5,60,0,0,60,0,0,0,6,84%
+Kyle Rudolph,TE,MIN,5,@OAKSun 4:05,0,0,0,6,6,59,0,0,59,0,0,0,5.9,42%
+Golden Tate,WR,DET,9,@GBSun 1:00,0,2,0,5,5,57,0,0,59,0,0,0,5.9,67%
+Emmanuel Sanders,WR,DEN,7,KCSun 4:25,0,2,0,4,4,56,0,0,58,0,0,0,5.8,96%
+Charcandrick West,RB,KC,9,@DENSun 4:25,15,53,0,2,2,14,0,1,67,0,0,0,5.7,66%
+Jamison Crowder,WR,WAS,8,NOSun 1:00,0,4,0,5,5,52,0,0,56,0,0,0,5.6,11%
+Andre Ellington,RB,ARI,9,@SEASun 8:30,9,38,0,2,2,16,0,0,54,0,0,0,5.4,71%
+Charles Sims,RB,TB,6,DALSun 1:00,8,37,0,2,2,17,0,0,54,0,0,0,5.4,58%
+Jordan Cameron,TE,MIA,5,@PHISun 1:00,0,0,0,5,5,54,0,0,54,0,0,0,5.4,58%
+Tavon Austin,WR,STL,6,CHISun 1:00,3,24,0,3,3,29,0,0,53,0,0,0,5.3,71%
+Benjamin Watson,TE,NO,11,@WASSun 1:00,0,0,0,7,7,53,0,0,53,0,0,0,5.3,63%
+Heath Miller,TE,PIT,11,CLESun 1:00,0,0,0,6,6,53,0,0,53,0,0,0,5.3,43%
+Chris Johnson,RB,ARI,9,@SEASun 8:30,10,40,0,2,2,12,0,0,52,0,0,0,5.2,88%
  Previous2345678Next 
 
 
-Fozzy Whittaker,RB,CAR,5,GBSun 1:00,7,31,0,2,2,14,0,0,45,0,0,0,4.5,2%
-Ted Ginn,WR,CAR,5,GBSun 1:00,0,0,0,3,3,45,0,0,45,0,0,0,4.5,34%
-Denard Robinson,RB,JAC,8,@NYJSun 1:00,8,35,0,1,1,9,0,0,44,0,0,0,4.4,27%
-DeSean Jackson,WR,WAS,8,@NESun 1:00,0,1,0,3,3,43,0,0,44,0,0,0,4.4,73%
-Jeremy Kerley,WR,NYJ,5,JACSun 1:00,0,2,0,4,4,42,0,0,44,0,0,0,4.4,3%
-Jared Cook,TE,STL,6,@MINSun 1:00,0,0,0,4,4,42,0,0,42,0,0,0,4.2,15%
-Zac Stacy,RB,NYJ,5,JACSun 1:00,6,29,0,2,2,12,0,0,41,0,0,0,4.1,10%
-C.J. Anderson,RB,DEN,7,@INDSun 4:25,7,32,0,1,1,9,0,0,41,0,0,0,4.1,82%
-Jarius Wright,WR,MIN,5,STLSun 1:00,1,6,0,3,3,35,0,0,41,0,0,0,4.1,2%
-James White,RB,NE,4,WASSun 1:00,4,18,0,3,3,22,0,0,40,0,0,0,4,19%
-Christine Michael,RB,DAL,6,PHISun 8:30,9,35,0,1,1,3,0,0,38,0,0,0,3.8,30%
-Danny Amendola,WR,NE,4,WASSun 1:00,0,0,0,4,4,38,0,0,38,0,0,0,3.8,27%
-Terrance Williams,WR,DAL,6,PHISun 8:30,0,0,0,3,3,38,0,0,38,0,0,0,3.8,54%
-Melvin Gordon,RB,SD,10,CHIMon 8:30,8,32,0,1,1,5,0,0,37,0,0,0,3.7,74%
-Ty Montgomery,WR,GB,7,@CARSun 1:00,0,0,0,3,3,37,0,0,37,0,0,0,3.7,11%
-Scott Chandler,TE,NE,4,WASSun 1:00,0,0,0,3,3,37,0,0,37,0,0,0,3.7,6%
-Roy Helu,RB,OAK,6,@PITSun 1:00,4,18,0,2,2,19,0,0,37,0,0,0,3.7,13%
-Kenny Britt,WR,STL,6,@MINSun 1:00,0,1,0,2,2,35,0,0,36,0,0,0,3.6,11%
-Robert Woods,WR,BUF,8,MIASun 1:00,0,0,0,4,4,36,0,0,36,0,0,0,3.6,19%
-Charles Johnson,WR,MIN,5,STLSun 1:00,0,1,0,3,3,35,0,0,36,0,0,0,3.6,35%
+Zach Ertz,TE,PHI,8,MIASun 1:00,0,0,0,5,5,52,0,0,52,0,0,0,5.2,38%
+David Johnson,RB,ARI,9,@SEASun 8:30,7,34,0,2,2,17,0,0,51,0,0,0,5.1,60%
+Shane Vereen,RB,NYG,11,NESun 4:25,6,23,0,3,3,28,0,0,51,0,0,0,5.1,74%
+Alfred Blue,RB,HOU,9,@CINMon 8:30,10,42,0,1,1,8,0,0,50,0,0,0,5,63%
+Rueben Randle,WR,NYG,11,NESun 4:25,0,0,0,4,4,50,0,0,50,0,0,0,5,54%
+Marqise Lee,WR,JAC,8,@BALSun 1:00,0,1,0,4,4,48,0,0,49,0,0,0,4.9,6%
+De'Anthony Thomas,WR,KC,9,@DENSun 4:25,5,23,0,4,4,26,0,0,49,0,0,0,4.9,4%
+Harry Douglas,WR,TEN,4,CARSun 1:00,0,0,0,4,4,48,0,0,48,0,0,0,4.8,5%
+Mohamed Sanu,WR,CIN,7,HOUMon 8:30,1,3,0,4,4,45,0,0,48,0,0,0,4.8,15%
+Isaiah Crowell,RB,CLE,11,@PITSun 1:00,13,49,0,2,2,8,0,1,57,0,0,0,4.7,71%
+Ka'Deem Carey,RB,CHI,7,@STLSun 1:00,8,34,0,2,2,13,0,0,47,0,0,0,4.7,4%
+Ted Ginn,WR,CAR,5,@TENSun 1:00,0,0,0,3,3,47,0,0,47,0,0,0,4.7,32%
+LeSean McCoy,RB,BUF,8,@NYJ,10,38,0,1,1,8,0,0,46,0,0,0,4.6,97%
+Fozzy Whittaker,RB,CAR,5,@TENSun 1:00,8,32,0,2,2,14,0,0,46,0,0,0,4.6,2%
+Darrius Heyward-Bey,WR,PIT,11,CLESun 1:00,0,0,0,3,3,46,0,0,46,0,0,0,4.6,8%
+Cecil Shorts,WR,HOU,9,@CINMon 8:30,0,0,0,4,4,46,0,0,46,0,0,0,4.6,14%
+Denard Robinson,RB,JAC,8,@BALSun 1:00,8,35,0,1,1,9,0,0,44,0,0,0,4.4,26%
+Jeremy Kerley,WR,NYJ,5,BUF,0,2,0,4,4,41,0,0,43,0,0,0,4.3,3%
+Joique Bell,RB,DET,9,@GBSun 1:00,9,33,0,2,2,9,0,0,42,0,0,0,4.2,52%
+Eric Decker,WR,NYJ,5,BUF,0,0,0,3,3,42,0,0,42,0,0,0,4.2,87%
  Previous3456789Next 
 
 
-Kenny Stills,WR,MIA,5,@BUFSun 1:00,0,0,0,3,3,36,0,0,36,0,0,0,3.6,35%
-Stevan Ridley,RB,NYJ,5,JACSun 1:00,9,31,0,1,1,4,0,0,35,0,0,0,3.5,11%
-Cordarrelle Patterson,WR,MIN,5,STLSun 1:00,2,11,0,2,2,24,0,0,35,0,0,0,3.5,25%
-Bobby Rainey,RB,TB,6,NYGSun 4:05,4,18,0,2,2,16,0,0,34,0,0,0,3.4,5%
-Tre Mason,RB,STL,6,@MINSun 1:00,6,27,0,1,1,7,0,0,34,0,0,0,3.4,42%
-Brandon Coleman,WR,NO,11,TENSun 1:00,0,0,0,3,3,34,0,0,34,0,0,0,3.4,9%
-Vernon Davis,TE,DEN,7,@INDSun 4:25,0,0,0,3,3,34,0,0,34,0,0,0,3.4,52%
-Greg Jennings,WR,MIA,5,@BUFSun 1:00,0,0,0,4,4,33,0,0,33,0,0,0,3.3,8%
-Josh Huff,WR,PHI,8,@DALSun 8:30,0,0,0,3,3,33,0,0,33,0,0,0,3.3,4%
-Clay Harbor,TE,JAC,8,@NYJSun 1:00,0,0,0,4,4,33,0,0,33,0,0,0,3.3,1%
-Brian Quick,WR,STL,6,@MINSun 1:00,0,0,0,3,3,32,0,0,32,0,0,0,3.2,9%
-Corey Brown,WR,CAR,5,GBSun 1:00,1,4,0,3,3,28,0,0,32,0,0,0,3.2,4%
-Marcedes Lewis,TE,JAC,8,@NYJSun 1:00,0,0,0,3,3,32,0,0,32,0,0,0,3.2,2%
-Torrey Smith,WR,SF,10,ATLSun 4:05,2,0,0,2,2,31,0,0,31,0,0,0,3.1,63%
-Rashad Jennings,RB,NYG,11,@TBSun 4:05,6,23,0,1,1,7,0,0,30,0,0,0,3,82%
-Andre Roberts,WR,WAS,8,@NESun 1:00,0,1,0,2,2,29,0,0,30,0,0,0,3,2%
-Mychal Rivera,TE,OAK,6,@PITSun 1:00,0,0,0,3,3,30,0,0,30,0,0,0,3,7%
-Andre Williams,RB,NYG,11,@TBSun 4:05,5,25,0,1,1,4,0,0,29,0,0,0,2.9,38%
-Andre Caldwell,WR,DEN,7,@INDSun 4:25,0,0,0,2,2,29,0,0,29,0,0,0,2.9,0%
-Justin Hunter,WR,TEN,4,@NOSun 1:00,0,0,0,2,2,29,0,0,29,0,0,0,2.9,6%
+Jarius Wright,WR,MIN,5,@OAKSun 4:05,1,7,0,3,3,35,0,0,42,0,0,0,4.2,2%
+C.J. Anderson,RB,DEN,7,KCSun 4:25,7,32,0,1,1,9,0,0,41,0,0,0,4.1,81%
+Andrew Hawkins,WR,CLE,11,@PITSun 1:00,0,1,0,3,3,40,0,0,41,0,0,0,4.1,6%
+Ameer Abdullah,RB,DET,9,@GBSun 1:00,7,29,0,1,1,11,0,0,40,0,0,0,4,56%
+Kenny Stills,WR,MIA,5,@PHISun 1:00,0,0,0,3,3,39,0,0,39,0,0,0,3.9,35%
+Kenny Britt,WR,STL,6,CHISun 1:00,0,1,0,2,2,38,0,0,39,0,0,0,3.9,11%
+Theo Riddick,RB,DET,9,@GBSun 1:00,5,22,0,2,2,16,0,0,38,0,0,0,3.8,28%
+Christine Michael,RB,DAL,6,@TBSun 1:00,9,35,0,1,1,3,0,0,38,0,0,0,3.8,26%
+Thomas Rawls,RB,SEA,9,ARISun 8:30,8,37,0,0,0,1,0,0,38,0,0,0,3.8,24%
+Danny Amendola,WR,NE,4,@NYGSun 4:25,0,0,0,4,4,38,0,0,38,0,0,0,3.8,27%
+Chris Givens,WR,BAL,9,JACSun 1:00,0,0,0,3,3,38,0,0,38,0,0,0,3.8,5%
+Robert Woods,WR,BUF,8,@NYJ,0,0,0,4,4,38,0,0,38,0,0,0,3.8,18%
+Jaelen Strong,WR,HOU,9,@CINMon 8:30,0,0,0,3,3,38,0,0,38,0,0,0,3.8,9%
+Michael Floyd,WR,ARI,9,@SEASun 8:30,0,0,0,4,4,37,0,0,37,0,0,0,3.7,68%
+Terrance Williams,WR,DAL,6,@TBSun 1:00,0,0,0,3,3,37,0,0,37,0,0,0,3.7,52%
+Ty Montgomery,WR,GB,7,DETSun 1:00,0,0,0,3,3,37,0,0,37,0,0,0,3.7,11%
+Charles Johnson,WR,MIN,5,@OAKSun 4:05,0,1,0,3,3,35,0,0,36,0,0,0,3.6,34%
+Marlon Brown,WR,BAL,9,JACSun 1:00,0,0,0,3,3,36,0,0,36,0,0,0,3.6,2%
+Scott Chandler,TE,NE,4,@NYGSun 4:25,0,0,0,3,3,36,0,0,36,0,0,0,3.6,6%
+Greg Jennings,WR,MIA,5,@PHISun 1:00,0,0,0,4,4,35,0,0,35,0,0,0,3.5,7%
  Previous45678910Next 
 
 
-Dorial Green-Beckham,WR,TEN,4,@NOSun 1:00,0,0,0,2,2,29,0,0,29,0,0,0,2.9,35%
-Robert Turbin,RB,CLE,11,@CIN,4,16,0,1,1,12,0,0,28,0,0,0,2.8,17%
-Coby Fleener,TE,IND,10,DENSun 4:25,0,0,0,3,3,28,0,0,28,0,0,0,2.8,56%
-Stedman Bailey,WR,STL,6,@MINSun 1:00,1,2,0,3,3,25,0,0,27,0,0,0,2.7,4%
-Jeff Cumberland,TE,NYJ,5,JACSun 1:00,0,0,0,3,3,27,0,0,27,0,0,0,2.7,1%
-Mike Tolbert,RB,CAR,5,GBSun 1:00,4,13,0,2,2,14,0,0,27,0,0,0,2.7,5%
-Toby Gerhart,RB,JAC,8,@NYJSun 1:00,5,18,0,1,1,8,0,0,26,0,0,0,2.6,4%
-Aaron Dobson,WR,NE,4,WASSun 1:00,0,0,0,2,2,26,0,0,26,0,0,0,2.6,5%
-Devin Funchess,WR,CAR,5,GBSun 1:00,0,0,0,2,2,26,0,0,26,0,0,0,2.6,14%
-Matt Asiata,RB,MIN,5,STLSun 1:00,5,18,0,1,1,7,0,0,25,0,0,0,2.5,8%
-Jonas Gray,RB,MIA,5,@BUFSun 1:00,5,23,0,0,0,2,0,0,25,0,0,0,2.5,26%
-Dwayne Allen,TE,IND,10,DENSun 4:25,0,0,0,2,2,25,0,0,25,0,0,0,2.5,25%
-Gavin Escobar,TE,DAL,6,PHISun 8:30,0,0,0,2,2,25,0,0,25,0,0,0,2.5,3%
-Dan Herron,RB,BUF,8,MIASun 1:00,4,17,0,1,1,7,0,0,24,0,0,0,2.4,20%
-Ka'Deem Carey,RB,CHI,7,@SDMon 8:30,4,17,0,1,1,7,0,0,24,0,0,0,2.4,3%
-Andre Johnson,WR,IND,10,DENSun 4:25,0,0,0,2,2,24,0,0,24,0,0,0,2.4,69%
-Cole Beasley,WR,DAL,6,PHISun 8:30,0,0,0,2,2,24,0,0,24,0,0,0,2.4,7%
-Nelson Agholor,WR,PHI,8,@DALSun 8:30,0,0,0,2,2,24,0,0,24,0,0,0,2.4,35%
-Brandon Bolden,RB,NE,4,WASSun 1:00,4,17,0,1,1,6,0,0,23,0,0,0,2.3,19%
-Anthony Fasano,TE,TEN,4,@NOSun 1:00,0,0,0,2,2,23,0,0,23,0,0,0,2.3,4%
+Cordarrelle Patterson,WR,MIN,5,@OAKSun 4:05,2,11,0,2,2,24,0,0,35,0,0,0,3.5,25%
+Stevan Ridley,RB,NYJ,5,BUF,8,30,0,1,1,4,0,0,34,0,0,0,3.4,11%
+Tre Mason,RB,STL,6,CHISun 1:00,6,27,0,1,1,7,0,0,34,0,0,0,3.4,41%
+Corey Brown,WR,CAR,5,@TENSun 1:00,1,4,0,3,3,30,0,0,34,0,0,0,3.4,7%
+Bobby Rainey,RB,TB,6,DALSun 1:00,4,17,0,2,2,16,0,0,33,0,0,0,3.3,5%
+Clay Harbor,TE,JAC,8,@BALSun 1:00,0,0,0,4,4,33,0,0,33,0,0,0,3.3,1%
+Josh Huff,WR,PHI,8,MIASun 1:00,0,0,0,3,3,32,0,0,32,0,0,0,3.2,4%
+Marcedes Lewis,TE,JAC,8,@BALSun 1:00,0,0,0,3,3,32,0,0,32,0,0,0,3.2,2%
+Vernon Davis,TE,DEN,7,KCSun 4:25,0,0,0,3,3,32,0,0,32,0,0,0,3.2,50%
+Maxx Williams,TE,BAL,9,JACSun 1:00,0,0,0,3,3,32,0,0,32,0,0,0,3.2,10%
+Rashad Jennings,RB,NYG,11,NESun 4:25,6,22,0,1,1,7,0,0,29,0,0,0,2.9,80%
+Mychal Rivera,TE,OAK,6,MINSun 4:05,0,0,0,3,3,29,0,0,29,0,0,0,2.9,7%
+Andre Williams,RB,NYG,11,NESun 4:25,5,24,0,1,1,4,0,0,28,0,0,0,2.8,38%
+Mike Tolbert,RB,CAR,5,@TENSun 1:00,4,13,0,2,2,15,0,0,28,0,0,0,2.8,5%
+Andre Caldwell,WR,DEN,7,KCSun 4:25,0,0,0,2,2,28,0,0,28,0,0,0,2.8,0%
+Brian Hartline,WR,CLE,11,@PITSun 1:00,0,0,0,3,3,28,0,0,28,0,0,0,2.8,7%
+Justin Hunter,WR,TEN,4,CARSun 1:00,0,0,0,2,2,28,0,0,28,0,0,0,2.8,6%
+Dorial Green-Beckham,WR,TEN,4,CARSun 1:00,0,0,0,2,2,28,0,0,28,0,0,0,2.8,41%
+Virgil Green,TE,DEN,7,KCSun 4:25,0,0,0,3,3,28,0,0,28,0,0,0,2.8,3%
+Toby Gerhart,RB,JAC,8,@BALSun 1:00,5,19,0,1,1,8,0,0,27,0,0,0,2.7,4%
  Previous567891011Next 
 
 
-Jerick McKinnon,RB,MIN,5,STLSun 1:00,3,14,0,1,1,8,0,0,22,0,0,0,2.2,28%
-Jerricho Cotchery,WR,CAR,5,GBSun 1:00,0,0,0,2,2,22,0,0,22,0,0,0,2.2,4%
-Bryan Walters,WR,JAC,8,@NYJSun 1:00,0,0,0,2,2,22,0,0,22,0,0,0,2.2,1%
-Virgil Green,TE,DEN,7,@INDSun 4:25,0,0,0,2,2,22,0,0,22,0,0,0,2.2,4%
-Benny Cunningham,RB,STL,6,@MINSun 1:00,3,13,0,3,3,19,0,1,32,0,0,0,2.2,8%
-Roddy White,WR,ATL,10,@SFSun 4:05,0,0,0,2,2,21,0,0,21,0,0,0,2.1,52%
-Marquess Wilson,WR,CHI,7,@SDMon 8:30,0,0,0,2,2,21,0,0,21,0,0,0,2.1,9%
-Chris Thompson,RB,WAS,8,@NESun 1:00,2,9,0,2,2,11,0,0,20,0,0,0,2,10%
-Tevin Coleman,RB,ATL,10,@SFSun 4:05,4,18,0,1,1,2,0,0,20,0,0,0,2,50%
-Terron Ward,RB,ATL,10,@SFSun 4:05,3,12,0,1,1,7,0,0,19,0,0,0,1.9,1%
-James Starks,RB,GB,7,@CARSun 1:00,3,14,0,1,1,5,0,0,19,0,0,0,1.9,40%
-Markus Wheaton,WR,PIT,11,OAKSun 1:00,0,1,0,1,1,18,0,0,19,0,0,0,1.9,34%
-Ed Dickson,TE,CAR,5,GBSun 1:00,0,0,0,2,2,19,0,0,19,0,0,0,1.9,1%
-Josh Robinson,RB,IND,10,DENSun 4:25,4,16,0,1,1,2,0,0,18,0,0,0,1.8,6%
-Rod Streater,WR,OAK,6,@PITSun 1:00,0,0,0,1,1,18,0,0,18,0,0,0,1.8,2%
-Taylor Gabriel,WR,CLE,11,@CIN,0,0,0,2,2,18,0,0,18,0,0,0,1.8,2%
-Kevin White,WR,CHI,7,@SDMon 8:30,0,0,0,2,2,18,0,0,18,0,0,0,1.8,20%
-Jay Ajayi,RB,MIA,5,@BUFSun 1:00,2,9,0,1,1,8,0,0,17,0,0,0,1.7,24%
-Dontrelle Inman,WR,SD,10,CHIMon 8:30,0,0,0,2,2,17,0,0,17,0,0,0,1.7,4%
-Orleans Darkwa,RB,NYG,11,@TBSun 4:05,3,15,0,0,0,1,0,0,16,0,0,0,1.6,12%
- Previous67891011Next 
+Knile Davis,RB,KC,9,@DENSun 4:25,6,19,0,1,1,8,0,0,27,0,0,0,2.7,35%
+Devin Funchess,WR,CAR,5,@TENSun 1:00,0,0,0,2,2,27,0,0,27,0,0,0,2.7,17%
+Garrett Graham,TE,HOU,9,@CINMon 8:30,0,0,0,3,3,27,0,0,27,0,0,0,2.7,4%
+Matt Asiata,RB,MIN,5,@OAKSun 4:05,5,19,0,1,1,7,0,0,26,0,0,0,2.6,8%
+Jason Avant,WR,KC,9,@DENSun 4:25,0,0,0,3,3,26,0,0,26,0,0,0,2.6,1%
+Jermaine Kearse,WR,SEA,9,ARISun 8:30,0,1,0,2,2,25,0,0,26,0,0,0,2.6,9%
+Aaron Dobson,WR,NE,4,@NYGSun 4:25,0,0,0,2,2,25,0,0,25,0,0,0,2.5,4%
+Brent Celek,TE,PHI,8,MIASun 1:00,0,0,0,3,3,25,0,0,25,0,0,0,2.5,6%
+Gavin Escobar,TE,DAL,6,@TBSun 1:00,0,0,0,2,2,25,0,0,25,0,0,0,2.5,3%
+Nate Washington,WR,HOU,9,@CINMon 8:30,0,0,0,2,2,24,0,0,24,0,0,0,2.4,39%
+Nelson Agholor,WR,PHI,8,MIASun 1:00,0,0,0,2,2,24,0,0,24,0,0,0,2.4,34%
+Dan Herron,RB,BUF,8,@NYJ,4,16,0,1,1,7,0,0,23,0,0,0,2.3,19%
+Benny Cunningham,RB,STL,6,CHISun 1:00,3,13,0,3,3,20,0,1,33,0,0,0,2.3,8%
+Jerick McKinnon,RB,MIN,5,@OAKSun 4:05,3,15,0,1,1,8,0,0,23,0,0,0,2.3,28%
+Jerricho Cotchery,WR,CAR,5,@TENSun 1:00,0,0,0,2,2,23,0,0,23,0,0,0,2.3,4%
+Andre Roberts,WR,WAS,8,NOSun 1:00,0,1,0,2,2,22,0,0,23,0,0,0,2.3,2%
+Cole Beasley,WR,DAL,6,@TBSun 1:00,0,0,0,2,2,23,0,0,23,0,0,0,2.3,15%
+Brandon Bolden,RB,NE,4,@NYGSun 4:25,4,17,0,1,1,5,0,0,22,0,0,0,2.2,32%
+Bryan Walters,WR,JAC,8,@BALSun 1:00,0,0,0,2,2,22,0,0,22,0,0,0,2.2,2%
+Anthony Fasano,TE,TEN,4,CARSun 1:00,0,0,0,2,2,22,0,0,22,0,0,0,2.2,4%
+ Previous6789101112Next 
 
 
-Cameron Artis-Payne,RB,CAR,5,GBSun 1:00,3,12,0,1,1,4,0,0,16,0,0,0,1.6,8%
-Riley Cooper,WR,PHI,8,@DALSun 8:30,0,0,0,1,1,16,0,0,16,0,0,0,1.6,9%
-Andre Holmes,WR,OAK,6,@PITSun 1:00,0,0,0,1,1,16,0,0,16,0,0,0,1.6,4%
-Devin Smith,WR,NYJ,5,JACSun 1:00,0,0,0,1,1,16,0,0,16,0,0,0,1.6,5%
-Benjamin Watson,TE,NO,11,TENSun 1:00,0,0,0,2,2,16,0,0,16,0,0,0,1.6,61%
-Chris Gragg,TE,BUF,8,MIASun 1:00,0,0,0,2,2,16,0,0,16,0,0,0,1.6,0%
-Bishop Sankey,RB,TEN,4,@NOSun 1:00,3,12,0,1,1,3,0,0,15,0,0,0,1.5,49%
-Miles Austin,WR,PHI,8,@DALSun 8:30,0,0,0,1,1,15,0,0,15,0,0,0,1.5,6%
-Bruce Ellington,WR,SF,10,ATLSun 4:05,0,1,0,1,1,14,0,0,15,0,0,0,1.5,2%
-Damien Williams,RB,MIA,5,@BUFSun 1:00,2,9,0,1,1,5,0,0,14,0,0,0,1.4,18%
-Dwayne Harris,WR,NYG,11,@TBSun 4:05,0,0,0,1,1,14,0,0,14,0,0,0,1.4,14%
-Chris Hogan,WR,BUF,8,MIASun 1:00,0,0,0,1,1,14,0,0,14,0,0,0,1.4,4%
-Karlos Williams,RB,BUF,8,MIASun 1:00,3,12,0,0,0,1,0,0,13,0,0,0,1.3,46%
-Brent Celek,TE,PHI,8,@DALSun 8:30,0,0,0,1,1,13,0,0,13,0,0,0,1.3,6%
-Derek Carrier,TE,WAS,8,@NESun 1:00,0,0,0,2,2,13,0,0,13,0,0,0,1.3,2%
-Garrett Celek,TE,SF,10,ATLSun 4:05,0,0,0,2,2,13,0,0,13,0,0,0,1.3,2%
-Brandon Myers,TE,TB,6,NYGSun 4:05,0,0,0,2,2,12,0,0,12,0,0,0,1.2,2%
-Marcel Reece,RB,OAK,6,@PITSun 1:00,1,4,0,1,1,6,0,0,10,0,0,0,1,11%
-Jeff Janis,WR,GB,7,@CARSun 1:00,0,0,0,1,1,9,0,0,9,0,0,0,0.9,4%
-Cody Latimer,WR,DEN,7,@INDSun 4:25,0,0,0,1,1,8,0,0,8,0,0,0,0.8,28%
- Previous7891011Next 
+Marquess Wilson,WR,CHI,7,@STLSun 1:00,0,0,0,2,2,21,0,0,21,0,0,0,2.1,9%
+Lance Kendricks,TE,STL,6,CHISun 1:00,0,0,0,2,2,21,0,0,21,0,0,0,2.1,2%
+Chris Thompson,RB,WAS,8,NOSun 1:00,2,9,0,2,2,11,0,0,20,0,0,0,2,10%
+Javorius Allen,RB,BAL,9,JACSun 1:00,5,20,0,2,2,10,0,1,30,0,0,0,2,10%
+Ed Dickson,TE,CAR,5,@TENSun 1:00,0,0,0,2,2,20,0,0,20,0,0,0,2,1%
+Jeff Cumberland,TE,NYJ,5,BUF,0,0,0,2,2,20,0,0,20,0,0,0,2,1%
+Jordan Norwood,WR,DEN,7,KCSun 4:25,0,0,0,2,2,19,0,0,19,0,0,0,1.9,0%
+Markus Wheaton,WR,PIT,11,CLESun 1:00,0,1,0,1,1,18,0,0,19,0,0,0,1.9,33%
+Kevin White,WR,CHI,7,@STLSun 1:00,0,0,0,2,2,19,0,0,19,0,0,0,1.9,20%
+Jared Cook,TE,STL,6,CHISun 1:00,0,0,0,2,2,19,0,0,19,0,0,0,1.9,14%
+Jermaine Gresham,TE,ARI,9,@SEASun 8:30,0,0,0,2,2,19,0,0,19,0,0,0,1.9,5%
+Tyler Lockett,WR,SEA,9,ARISun 8:30,0,1,0,2,2,17,0,0,18,0,0,0,1.8,19%
+Jay Ajayi,RB,MIA,5,@PHISun 1:00,2,9,0,1,1,9,0,0,18,0,0,0,1.8,28%
+Rod Streater,WR,OAK,6,MINSun 4:05,0,0,0,1,1,18,0,0,18,0,0,0,1.8,2%
+Fred Jackson,RB,SEA,9,ARISun 8:30,2,8,0,1,1,9,0,0,17,0,0,0,1.7,19%
+Cameron Artis-Payne,RB,CAR,5,@TENSun 1:00,3,12,0,1,1,4,0,0,16,0,0,0,1.6,8%
+Riley Cooper,WR,PHI,8,MIASun 1:00,0,0,0,1,1,16,0,0,16,0,0,0,1.6,9%
+Andre Holmes,WR,OAK,6,MINSun 4:05,0,0,0,1,1,16,0,0,16,0,0,0,1.6,3%
+DeVante Parker,WR,MIA,5,@PHISun 1:00,0,0,0,1,1,16,0,0,16,0,0,0,1.6,15%
+Devin Smith,WR,NYJ,5,BUF,0,0,0,1,1,16,0,0,16,0,0,0,1.6,5%
+ Previous78910111213Next 
 
 
-Sammie Coates,WR,PIT,11,OAKSun 1:00,0,0,0,1,1,8,0,0,8,0,0,0,0.8,4%
-Justin Hardy,WR,ATL,10,@SFSun 4:05,0,0,0,1,1,8,0,0,8,0,0,0,0.8,4%
-Zach Miller,TE,CHI,7,@SDMon 8:30,0,0,0,1,1,8,0,0,8,0,0,0,0.8,0%
-Chase Ford,TE,MIN,5,STLSun 1:00,0,0,0,1,1,8,0,0,8,0,0,0,0.8,0%
-Dwayne Bowe,WR,CLE,11,@CIN,0,0,0,1,1,7,0,0,7,0,0,0,0.7,9%
-Ryan Grant,WR,WAS,8,@NESun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
-Lance Kendricks,TE,STL,6,@MINSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,2%
-Dion Sims,TE,MIA,5,@BUFSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
-Josh Hill,TE,NO,11,TENSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,10%
-Tyler Kroft,TE,CIN,7,CLE,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
-Clive Walford,TE,OAK,6,@PITSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,6%
-MyCole Pruitt,TE,MIN,5,STLSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
-Juwan Thompson,RB,DEN,7,@INDSun 4:25,1,5,0,0,0,1,0,0,6,0,0,0,0.6,3%
-Jake Stoneburner,TE,MIA,5,@BUFSun 1:00,0,0,0,1,1,6,0,0,6,0,0,0,0.6,1%
-Kennard Backman,TE,GB,7,@CARSun 1:00,0,0,0,1,1,6,0,0,6,0,0,0,0.6,0%
-Anthony Dixon,RB,BUF,8,MIASun 1:00,1,4,0,0,0,1,0,0,5,0,0,0,0.5,3%
-Bernard Pierce,RB,JAC,8,@NYJSun 1:00,1,4,0,0,0,1,0,0,5,0,0,0,0.5,5%
-John Kuhn,RB,GB,7,@CARSun 1:00,1,3,0,0,0,1,0,0,4,0,0,0,0.4,0%
- Previous891011Next 
-[None]
- Previous91011Next 
-[None]
- Previous1011Next 
+Keith Mumphery,WR,HOU,9,@CINMon 8:30,0,0,0,2,2,16,0,0,16,0,0,0,1.6,1%
+Chris Gragg,TE,BUF,8,@NYJ,0,0,0,2,2,16,0,0,16,0,0,0,1.6,0%
+Bishop Sankey,RB,TEN,4,CARSun 1:00,3,12,0,1,1,3,0,0,15,0,0,0,1.5,47%
+Orleans Darkwa,RB,NYG,11,NESun 4:25,3,14,0,0,0,1,0,0,15,0,0,0,1.5,9%
+Miles Austin,WR,PHI,8,MIASun 1:00,0,0,0,1,1,15,0,0,15,0,0,0,1.5,6%
+Chris Hogan,WR,BUF,8,@NYJ,0,0,0,1,1,15,0,0,15,0,0,0,1.5,3%
+Rhett Ellison,TE,MIN,5,@OAKSun 4:05,0,0,0,2,2,15,0,0,15,0,0,0,1.5,0%
+Luke Willson,TE,SEA,9,ARISun 8:30,0,0,0,2,2,15,0,0,15,0,0,0,1.5,2%
+Timothy Wright,TE,DET,9,@GBSun 1:00,0,0,0,1,1,15,0,0,15,0,0,0,1.5,2%
+Jesse James,TE,PIT,11,CLESun 1:00,0,0,0,1,1,15,0,0,15,0,0,0,1.5,1%
+Stepfan Taylor,RB,ARI,9,@SEASun 8:30,2,9,0,1,1,5,0,0,14,0,0,0,1.4,1%
+Damien Williams,RB,MIA,5,@PHISun 1:00,2,9,0,1,1,5,0,0,14,0,0,0,1.4,17%
+Dwayne Harris,WR,NYG,11,NESun 4:25,0,0,0,1,1,14,0,0,14,0,0,0,1.4,14%
+Crockett Gillmore,TE,BAL,9,JACSun 1:00,0,0,0,1,1,14,0,0,14,0,0,0,1.4,19%
+Chris Polk,RB,HOU,9,@CINMon 8:30,2,9,0,1,1,4,0,0,13,0,0,0,1.3,17%
+Chris Matthews,WR,SEA,9,ARISun 8:30,0,0,0,2,2,13,0,0,13,0,0,0,1.3,2%
+Derek Carrier,TE,WAS,8,NOSun 1:00,0,0,0,2,2,13,0,0,13,0,0,0,1.3,1%
+Nick Boyle,TE,BAL,9,JACSun 1:00,0,0,0,1,1,13,0,0,13,0,0,0,1.3,0%
+Brandon Myers,TE,TB,6,DALSun 1:00,0,0,0,2,2,12,0,0,12,0,0,0,1.2,2%
+Marcel Reece,RB,OAK,6,MINSun 4:05,1,4,0,1,1,6,0,0,10,0,0,0,1,14%
+ Previous8910111213Next 
+
+
+Darren Fells,TE,ARI,9,@SEASun 8:30,0,0,0,1,1,10,0,0,10,0,0,0,1,5%
+Jeff Janis,WR,GB,7,DETSun 1:00,0,0,0,1,1,9,0,0,9,0,0,0,0.9,3%
+Albert Wilson,WR,KC,9,@DENSun 4:25,0,0,0,1,1,9,0,0,9,0,0,0,0.9,3%
+Dwayne Bowe,WR,CLE,11,@PITSun 1:00,0,0,0,1,1,8,0,0,8,0,0,0,0.8,9%
+Cody Latimer,WR,DEN,7,KCSun 4:25,0,0,0,1,1,8,0,0,8,0,0,0,0.8,27%
+Sammie Coates,WR,PIT,11,CLESun 1:00,0,0,0,1,1,8,0,0,8,0,0,0,0.8,4%
+J.J. Nelson,WR,ARI,9,@SEASun 8:30,0,0,0,1,1,8,0,0,8,0,0,0,0.8,1%
+Zach Miller,TE,CHI,7,@STLSun 1:00,0,0,0,1,1,8,0,0,8,0,0,0,0.8,0%
+Dion Sims,TE,MIA,5,@PHISun 1:00,0,0,0,1,1,8,0,0,8,0,0,0,0.8,1%
+Lance Moore,WR,DET,9,@GBSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,6%
+Paul Richardson,WR,SEA,9,ARISun 8:30,0,0,0,1,1,7,0,0,7,0,0,0,0.7,2%
+Ryan Grant,WR,WAS,8,NOSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
+Chris Conley,WR,KC,9,@DENSun 4:25,0,0,0,1,1,7,0,0,7,0,0,0,0.7,5%
+Josh Hill,TE,NO,11,@WASSun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,10%
+Jake Stoneburner,TE,MIA,5,@PHISun 1:00,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
+Tyler Kroft,TE,CIN,7,HOUMon 8:30,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
+Clive Walford,TE,OAK,6,MINSun 4:05,0,0,0,1,1,7,0,0,7,0,0,0,0.7,6%
+MyCole Pruitt,TE,MIN,5,@OAKSun 4:05,0,0,0,1,1,7,0,0,7,0,0,0,0.7,1%
+Rex Burkhead,RB,CIN,7,HOUMon 8:30,1,4,0,0,0,2,0,0,6,0,0,0,0.6,0%
+Juwan Thompson,RB,DEN,7,KCSun 4:25,1,5,0,0,0,1,0,0,6,0,0,0,0.6,3%
+ Previous910111213Next 
+
+
+Kennard Backman,TE,GB,7,DETSun 1:00,0,0,0,1,1,6,0,0,6,0,0,0,0.6,0%
+Cedric Peerman,RB,CIN,7,HOUMon 8:30,1,4,0,0,0,1,0,0,5,0,0,0,0.5,0%
+Anthony Dixon,RB,BUF,8,@NYJ,1,4,0,0,0,1,0,0,5,0,0,0,0.5,3%
+Bernard Pierce,RB,JAC,8,@BALSun 1:00,1,4,0,0,0,1,0,0,5,0,0,0,0.5,5%
+Jonathan Grimes,RB,HOU,9,@CINMon 8:30,1,4,0,0,0,1,0,0,5,0,0,0,0.5,14%
+John Kuhn,RB,GB,7,DETSun 1:00,1,2,0,0,0,1,0,0,3,0,0,0,0.3,0%
+Kamar Aiken,WR,BAL,9,JACSun 1:00,0,0,0,3,3,3,0,0,3,0,0,0,0.3,29%
+ Previous10111213Next 

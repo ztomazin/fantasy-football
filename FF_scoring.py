@@ -68,6 +68,25 @@ def scoring(site,file_name):
 
 #---------------------------------------------
 
+def fd_scoring(site,file_name):
+	import pandas as pd
+	import numpy as np
+
+	df = pd.read_csv(file_name)
+	
+	num_col = ['pass_yards','pass_tds','int','rush_yards','rush_tds','rec','rec_yards','rec_tds','fan_pts','punt_td','kick_td','fl','2-pt']
+	col = 0 #starting string
+	for col in range(0,13):
+		df[num_col[col]] = df[num_col[col]].convert_objects(convert_numeric=True)
+		col +=1
+	df.replace('NaN',0, inplace=True)
+	
+	df[site] = df["pass_yards"]*.04 + df["pass_tds"]*4 - df["int"] + df["rush_yards"]*.1 + df["rush_tds"]*6 + df["rec"]*.05 + df["rec_yards"]*.1 + df["rec_tds"]*6 + df["punt_td"]*6 + df["kick_td"]*6 - df["fl"]*2 + df["2-pt"]*2
+
+	df_final = df[["player",site]]
+	return df_final
+#---------------------------------------------
+
 #this is to score defense and not done, yet
 def def_scoring(df):
 	import pandas as pd
@@ -371,7 +390,11 @@ def optimize_lineup(score,df,mult):
 	df = pd.DataFrame(lu, columns=lu_headings[0])
 	df['Unique_flex'] = np.where((df['FLEX']==df['RB1']) |(df['FLEX']==df['RB2']) |(df['FLEX']==df['WR1']) | (df['FLEX']==df['WR2']) | (df['FLEX']==df['WR3']) | (df['FLEX']==df['TE']), 0, 1)
 	df = df[df.Unique_flex == 1]
-	df.sort_values(by='score', ascending=False, inplace=True) 
+	df.sort_values(by='score', ascending=False, inplace=True)
+	df = df.reset_index(drop=True) 
+	df = df[['QB','RB1','RB2','WR1','WR2','WR3','TE','FLEX','DST','salary','score']]
+	df = df.transpose()
+
 
 
 	return df
