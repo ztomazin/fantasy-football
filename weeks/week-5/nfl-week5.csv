@@ -1,0 +1,476 @@
+,Unnamed: 0,player,opp,pass_yards,pass_tds,int,rush_yards,rush_tds,rec_yards,rec_tds,fum_td,2-pt,fl,fan_pts,rec,punt_td,kick_td
+0,0,Drew Brees QB - NO View News View Videos,@PHI,322.0,3.0,1.0,3.0,0.0,0.0,0.0,0,0,0.0,23.18,0.0,0,0
+1,1,Aaron Rodgers QB - GB View News View Videos,STL,315.0,2.0,0.0,16.0,0.0,0.0,0.0,0,0,0.0,22.2,0.0,0,0
+2,2,Eddie Lacy RB - GB View News View Videos,STL,0.0,0.0,0.0,113.0,1.0,34.0,0.0,0,0,0.0,20.7,3.4,0,0
+3,3,Russell Wilson QB - SEA View News View Videos,@CIN,208.0,1.0,1.0,40.0,1.0,0.0,0.0,0,0,0.0,20.32,0.0,0,0
+4,4,Tom Brady QB - NE View News View Videos,@DAL,299.0,2.0,0.0,3.0,0.0,0.0,0.0,0,0,0.0,20.26,0.0,0,0
+5,5,Le'Veon Bell RB - PIT View Videos,@SD,0.0,0.0,0.0,91.0,1.0,46.0,0.0,0,0,0.0,19.7,4.6,0,0
+6,6,Matt Ryan QB - ATL View News View Videos,WAS,319.0,2.0,1.0,7.0,0.0,0.0,0.0,0,0,0.0,19.46,0.0,0,0
+7,7,Matt Forte RB - CHI View Videos,@KC,0.0,0.0,0.0,89.0,1.0,45.0,0.0,0,0,0.0,19.4,4.5,0,0
+8,8,Carson Palmer QB - ARI View News View Videos,@DET,301.0,2.0,1.0,3.0,0.0,0.0,0.0,0,0,0.0,18.34,0.0,0,0
+9,9,Philip Rivers QB - SD,PIT,290.0,2.0,1.0,2.0,0.0,0.0,0.0,0,0,0.0,17.8,0.0,0,0
+10,10,Devonta Freeman RB - ATL View News View Videos,WAS,0.0,0.0,0.0,81.0,1.0,35.0,0.0,0,0,0.0,17.6,3.5,0,0
+11,11,Matthew Stafford QB - DET View News View Videos,ARI,273.0,2.0,1.0,5.0,0.0,0.0,0.0,0,0,0.0,17.42,0.0,0,0
+12,12,Julio Jones WR - ATL View News View Videos,WAS,0.0,0.0,0.0,1.0,0.0,112.0,1.0,0,0,0.0,17.3,11.2,0,0
+13,13,Nick Foles QB - STL View Videos,@GB,271.0,2.0,1.0,3.0,0.0,0.0,0.0,0,0,0.0,17.14,0.0,0,0
+14,14,Brandon Weeden QB - DAL View News View Videos,NE,271.0,2.0,1.0,2.0,0.0,0.0,0.0,0,0,0.0,17.04,0.0,0,0
+15,15,Joe Flacco QB - BAL View News View Videos,CLE,262.0,2.0,1.0,5.0,0.0,0.0,0.0,0,0,0.0,16.98,0.0,0,0
+16,16,Jay Cutler QB - CHI View News View Videos,@KC,246.0,2.0,1.0,9.0,0.0,0.0,0.0,0,0,0.0,16.74,0.0,0,0
+17,17,Alex Smith QB - KC View Videos,CHI,229.0,2.0,1.0,14.0,0.0,0.0,0.0,0,0,0.0,16.56,0.0,0,0
+18,18,Sam Bradford QB - PHI View News View Videos,NO,253.0,2.0,1.0,3.0,0.0,0.0,0.0,0,0,0.0,16.42,0.0,0,0
+19,19,Jamaal Charles RB - KC View News View Videos,CHI,0.0,0.0,0.0,76.0,1.0,26.0,0.0,0,0,0.0,16.2,2.6,0,0
+20,20,Peyton Manning QB - DEN View News View Videos,@OAK,257.0,2.0,1.0,-1.0,0.0,0.0,0.0,0,0,0.0,16.18,0.0,0,0
+21,21,Demaryius Thomas WR - DEN View News View Videos,@OAK,0.0,0.0,0.0,0.0,0.0,101.0,1.0,0,0,0.0,16.1,10.1,0,0
+22,22,Eli Manning QB - NYG View Videos,SF,249.0,2.0,1.0,1.0,0.0,0.0,0.0,0,0,0.0,16.06,0.0,0,0
+23,23,Blake Bortles QB - JAC View Videos,@TB,198.0,2.0,1.0,21.0,0.0,0.0,0.0,0,0,0.0,16.02,0.0,0,0
+24,24,Randall Cobb WR - GB View News View Videos,STL,0.0,0.0,0.0,7.0,0.0,92.0,1.0,0,0,0.0,15.9,9.2,0,0
+25,25,Antonio Brown WR - PIT View Videos,@SD,0.0,0.0,0.0,2.0,0.0,96.0,1.0,0,0,0.0,15.8,9.6,0,0
+26,26,Amari Cooper WR - OAK,DEN,0.0,0.0,0.0,0.0,0.0,98.0,1.0,0,0,0.0,15.8,9.8,0,0
+27,27,Jeremy Hill RB - CIN View News,SEA,0.0,0.0,0.0,83.0,1.0,15.0,0.0,0,0,0.0,15.8,1.5,0,0
+28,28,Emmanuel Sanders WR - DEN View News View Videos,@OAK,0.0,0.0,0.0,3.0,0.0,95.0,1.0,0,0,0.0,15.8,9.5,0,0
+29,29,Marcus Mariota QB - TEN View News View Videos,BUF,223.0,2.0,2.0,27.0,0.0,0.0,0.0,0,0,0.0,15.62,0.0,0,0
+30,30,Mike Evans WR - TB View News,JAC,0.0,0.0,0.0,0.0,0.0,94.0,1.0,0,0,0.0,15.4,9.4,0,0
+31,31,Rob Gronkowski TE - NE View News View Videos,@DAL,0.0,0.0,0.0,0.0,0.0,85.0,1.0,0,0,0.0,14.5,8.5,0,0
+32,32,Mark Ingram RB - NO View News,@PHI,0.0,0.0,0.0,74.0,1.0,11.0,0.0,0,0,0.0,14.5,1.1,0,0
+33,33,Jameis Winston QB - TB View News View Videos,JAC,195.0,2.0,1.0,6.0,0.0,0.0,0.0,0,0,0.0,14.4,0.0,0,0
+34,34,T.J. Yeldon RB - JAC View News,@TB,0.0,0.0,0.0,69.0,1.0,15.0,0.0,0,0,0.0,14.4,1.5,0,0
+35,35,Calvin Johnson WR - DET View News View Videos,ARI,0.0,0.0,0.0,0.0,0.0,83.0,1.0,0,0,0.0,14.3,8.3,0,0
+36,36,Arian Foster RB - HOU,IND,0.0,0.0,0.0,64.0,1.0,18.0,0.0,0,0,0.0,14.2,1.8,0,0
+37,37,Keenan Allen WR - SD,PIT,0.0,0.0,0.0,0.0,0.0,81.0,1.0,0,0,0.0,14.1,8.1,0,0
+38,38,DeAndre Hopkins WR - HOU,IND,0.0,0.0,0.0,0.0,0.0,81.0,1.0,0,0,0.0,14.1,8.1,0,0
+39,39,Jordan Matthews WR - PHI View News,NO,0.0,0.0,0.0,0.0,0.0,79.0,1.0,0,0,0.0,13.9,7.9,0,0
+40,40,C.J. Anderson RB - DEN View News View Videos,@OAK,0.0,0.0,0.0,59.0,1.0,17.0,0.0,0,0,0.0,13.6,1.7,0,0
+41,41,Marques Colston WR - NO View News,@PHI,0.0,0.0,0.0,0.0,0.0,76.0,1.0,0,0,0.0,13.6,7.6,0,0
+42,42,Ronnie Hillman RB - DEN View News,@OAK,0.0,0.0,0.0,51.0,1.0,24.0,0.0,0,0,0.0,13.5,2.4,0,0
+43,43,Doug Martin RB - TB View News View Videos,JAC,0.0,0.0,0.0,65.0,1.0,10.0,0.0,0,0,0.0,13.5,1.0,0,0
+44,44,Terrance Williams WR - DAL View Videos,NE,0.0,0.0,0.0,0.0,0.0,75.0,1.0,0,0,0.0,13.5,7.5,0,0
+45,45,Jimmy Graham TE - SEA View News View Videos,@CIN,0.0,0.0,0.0,0.0,0.0,73.0,1.0,0,0,0.0,13.3,7.3,0,0
+46,46,Pierre Garcon WR - WAS View News View Videos,@ATL,0.0,0.0,0.0,0.0,0.0,72.0,1.0,0,0,0.0,13.2,7.2,0,0
+47,47,Tyler Eifert TE - CIN View News View Videos,SEA,0.0,0.0,0.0,0.0,0.0,71.0,1.0,0,0,0.0,13.1,7.1,0,0
+48,48,Andre Ellington RB - ARI View News View Videos,@DET,0.0,0.0,0.0,49.0,1.0,22.0,0.0,0,0,0.0,13.1,2.2,0,0
+49,49,Brandin Cooks WR - NO View News View Videos,@PHI,0.0,0.0,0.0,7.0,0.0,62.0,1.0,0,0,0.0,12.9,6.2,0,0
+50,50,Julian Edelman WR - NE View News View Videos,@DAL,0.0,0.0,0.0,2.0,0.0,66.0,1.0,0,0,0.0,12.8,6.6,0,0
+51,51,Frank Gore RB - IND,@HOU,0.0,0.0,0.0,56.0,1.0,12.0,0.0,0,0,0.0,12.8,1.2,0,0
+52,52,Alshon Jeffery WR - CHI IA View News View Videos,@KC,0.0,0.0,0.0,2.0,0.0,66.0,1.0,0,0,0.0,0.0,6.6,0,0
+53,53,Mike Vick QB - PIT View Videos,@SD,172.0,1.0,1.0,39.0,0.0,0.0,0.0,0,0,0.0,12.78,0.0,0,0
+54,54,Odell Beckham WR - NYG View Videos,SF,0.0,0.0,0.0,3.0,0.0,64.0,1.0,0,0,0.0,12.7,6.4,0,0
+55,55,Justin Forsett RB - BAL View News View Videos,CLE,0.0,0.0,0.0,54.0,1.0,13.0,0.0,0,0,0.0,12.7,1.3,0,0
+56,56,A.J. Green WR - CIN View News View Videos,SEA,0.0,0.0,0.0,1.0,0.0,66.0,1.0,0,0,0.0,12.7,6.6,0,0
+57,57,Joseph Randle RB - DAL View News,NE,0.0,0.0,0.0,56.0,1.0,11.0,0.0,0,0,0.0,12.7,1.1,0,0
+58,58,Martellus Bennett TE - CHI View Videos,@KC,0.0,0.0,0.0,0.0,0.0,66.0,1.0,0,0,0.0,12.6,6.6,0,0
+59,59,Zach Ertz TE - PHI View Videos,NO,0.0,0.0,0.0,0.0,0.0,66.0,1.0,0,0,0.0,12.6,6.6,0,0
+60,60,Todd Gurley RB - STL View Videos,@GB,0.0,0.0,0.0,55.0,1.0,11.0,0.0,0,0,0.0,12.6,1.1,0,0
+61,61,Jeremy Maclin WR - KC View Videos,CHI,0.0,0.0,0.0,0.0,0.0,66.0,1.0,0,0,0.0,12.6,6.6,0,0
+62,62,Sammy Watkins WR - BUF IA View News View Videos,@TEN,0.0,0.0,0.0,2.0,0.0,64.0,1.0,0,0,0.0,0.0,6.4,0,0
+63,63,Melvin Gordon RB - SD,PIT,0.0,0.0,0.0,56.0,1.0,8.0,0.0,0,0,0.0,12.4,0.8,0,0
+64,64,Delanie Walker TE - TEN,BUF,0.0,0.0,0.0,0.0,0.0,63.0,1.0,0,0,0.0,12.3,6.3,0,0
+65,65,Josh McCown QB - CLE View News View Videos,@BAL,226.0,1.0,1.0,12.0,0.0,0.0,0.0,0,0,0.0,12.24,0.0,0,0
+66,66,Allen Robinson WR - JAC View Videos,@TB,0.0,0.0,0.0,0.0,0.0,61.0,1.0,0,0,0.0,12.1,6.1,0,0
+67,67,Golden Tate WR - DET View News View Videos,ARI,0.0,0.0,0.0,2.0,0.0,59.0,1.0,0,0,0.0,12.1,5.9,0,0
+68,68,Percy Harvin WR - BUF View Videos,@TEN,0.0,0.0,0.0,9.0,0.0,51.0,1.0,0,0,0.0,12.0,5.1,0,0
+69,69,Dion Lewis RB - NE View News View Videos,@DAL,0.0,0.0,0.0,39.0,1.0,21.0,0.0,0,0,0.0,12.0,2.1,0,0
+70,70,Latavius Murray RB - OAK View News,DEN,0.0,0.0,0.0,52.0,1.0,8.0,0.0,0,0,0.0,12.0,0.8,0,0
+71,71,Rashad Jennings RB - NYG View Videos,SF,0.0,0.0,0.0,45.0,1.0,14.0,0.0,0,0,0.0,11.9,1.4,0,0
+72,72,Andy Dalton QB - CIN View News View Videos,SEA,223.0,1.0,1.0,9.0,0.0,0.0,0.0,0,0,0.0,11.82,0.0,0,0
+73,73,Anquan Boldin WR - SF View Videos,@NYG,0.0,0.0,0.0,0.0,0.0,58.0,1.0,0,0,0.0,11.8,5.8,0,0
+74,74,Larry Fitzgerald WR - ARI View News View Videos,@DET,0.0,0.0,0.0,0.0,0.0,58.0,1.0,0,0,0.0,11.8,5.8,0,0
+75,75,Allen Hurns WR - JAC View News View Videos,@TB,0.0,0.0,0.0,0.0,0.0,57.0,1.0,0,0,0.0,11.7,5.7,0,0
+76,76,Carlos Hyde RB - SF,@NYG,0.0,0.0,0.0,50.0,1.0,7.0,0.0,0,0,0.0,11.7,0.7,0,0
+77,77,James Jones WR - GB View News View Videos,STL,0.0,0.0,0.0,0.0,0.0,57.0,1.0,0,0,0.0,11.7,5.7,0,0
+78,78,Matt Hasselbeck QB - IND View News View Videos,@HOU,234.0,1.0,1.0,3.0,0.0,0.0,0.0,0,0,0.0,11.66,0.0,0,0
+79,79,Isaiah Crowell RB - CLE View News View Videos,@BAL,0.0,0.0,0.0,48.0,1.0,8.0,0.0,0,0,0.0,11.6,0.8,0,0
+80,80,Larry Donnell TE - NYG,SF,0.0,0.0,0.0,0.0,0.0,56.0,1.0,0,0,0.0,11.6,5.6,0,0
+81,81,Tyrod Taylor QB - BUF View News View Videos,@TEN,176.0,1.0,1.0,25.0,0.0,0.0,0.0,0,0,0.0,11.54,0.0,0,0
+82,82,Travis Kelce TE - KC View News,CHI,0.0,0.0,0.0,0.0,0.0,55.0,1.0,0,0,0.0,11.5,5.5,0,0
+83,83,Bishop Sankey RB - TEN,BUF,0.0,0.0,0.0,45.0,1.0,9.0,0.0,0,0,0.0,11.4,0.9,0,0
+84,84,Vincent Jackson WR - TB View News View Videos,JAC,0.0,0.0,0.0,0.0,0.0,53.0,1.0,0,0,0.0,11.3,5.3,0,0
+85,85,Michael Crabtree WR - OAK View News View Videos,DEN,0.0,0.0,0.0,0.0,0.0,51.0,1.0,0,0,0.0,11.1,5.1,0,0
+86,86,Richard Rodgers TE - GB View Videos,STL,0.0,0.0,0.0,0.0,0.0,51.0,1.0,0,0,0.0,11.1,5.1,0,0
+87,87,LeGarrette Blount RB - NE View News View Videos,@DAL,0.0,0.0,0.0,48.0,1.0,2.0,0.0,0,0,0.0,11.0,0.2,0,0
+88,88,Donte Moncrief WR - IND,@HOU,0.0,0.0,0.0,3.0,0.0,47.0,1.0,0,0,0.0,11.0,4.7,0,0
+89,89,Alfred Morris RB - WAS View News View Videos,@ATL,0.0,0.0,0.0,44.0,1.0,5.0,0.0,0,0,0.0,10.9,0.5,0,0
+90,90,Rueben Randle WR - NYG,SF,0.0,0.0,0.0,0.0,0.0,49.0,1.0,0,0,0.0,10.9,4.9,0,0
+91,91,Steve Smith WR - BAL IA View News View Videos,CLE,0.0,0.0,0.0,0.0,0.0,49.0,1.0,0,0,0.0,0.0,4.9,0,0
+92,92,Colin Kaepernick QB - SF View Videos,@NYG,186.0,1.0,2.0,33.0,0.0,0.0,0.0,0,0,0.0,10.74,0.0,0,0
+93,93,DeMarco Murray RB - PHI View News View Videos,NO,0.0,0.0,0.0,39.0,1.0,8.0,0.0,0,0,0.0,10.7,0.8,0,0
+94,94,Cole Beasley WR - DAL View Videos,NE,0.0,0.0,0.0,0.0,0.0,46.0,1.0,0,0,0.0,10.6,4.6,0,0
+95,95,Malcom Floyd WR - SD Q View Videos,PIT,0.0,0.0,0.0,0.0,0.0,46.0,1.0,0,0,0.0,10.6,4.6,0,0
+96,96,Michael Floyd WR - ARI View Videos,@DET,0.0,0.0,0.0,0.0,0.0,46.0,1.0,0,0,0.0,10.6,4.6,0,0
+97,97,Davante Adams WR - GB IA View News,STL,0.0,0.0,0.0,0.0,0.0,45.0,1.0,0,0,0.0,0.0,4.5,0,0
+98,98,John Brown WR - ARI View News View Videos,@DET,0.0,0.0,0.0,0.0,0.0,43.0,1.0,0,0,0.0,10.3,4.3,0,0
+99,99,Ladarius Green TE - SD View Videos,PIT,0.0,0.0,0.0,0.0,0.0,42.0,1.0,0,0,0.0,10.2,4.2,0,0
+100,100,De'Anthony Thomas RB - KC View Videos,CHI,0.0,0.0,0.0,20.0,0.0,22.0,1.0,0,0,0.0,10.2,2.2,0,0
+101,101,Martavis Bryant WR - PIT EXE View News,@SD,0.0,0.0,0.0,2.0,0.0,39.0,1.0,0,0,0.0,10.1,3.9,0,0
+102,102,Charles Clay TE - BUF View News,@TEN,0.0,0.0,0.0,0.0,0.0,41.0,1.0,0,0,0.0,10.1,4.1,0,0
+103,103,Ryan Mallett QB - HOU View Videos,IND,184.0,1.0,1.0,5.0,0.0,0.0,0.0,0,0,0.0,9.86,0.0,0,0
+104,104,Gary Barnidge TE - CLE View News View Videos,@BAL,0.0,0.0,0.0,0.0,0.0,37.0,1.0,0,0,0.0,9.7,3.7,0,0
+105,105,T.Y. Hilton WR - IND View Videos,@HOU,0.0,0.0,0.0,3.0,0.0,94.0,0.0,0,0,0.0,9.7,9.4,0,0
+106,106,Eddie Royal WR - CHI IA View News View Videos,@KC,0.0,0.0,0.0,0.0,0.0,37.0,1.0,0,0,0.0,0.0,3.7,0,0
+107,107,Derek Carr QB - OAK View Videos,DEN,178.0,1.0,1.0,3.0,0.0,0.0,0.0,0,0,0.0,9.42,0.0,0,0
+108,108,Matt Jones RB - WAS View News View Videos,@ATL,0.0,0.0,0.0,45.0,1.0,9.0,0.0,0,0,1.0,9.4,0.9,0,0
+109,109,Kirk Cousins QB - WAS View News View Videos,@ATL,174.0,1.0,1.0,4.0,0.0,0.0,0.0,0,0,0.0,9.36,0.0,0,0
+110,110,Heath Miller TE - PIT View Videos,@SD,0.0,0.0,0.0,0.0,0.0,33.0,1.0,0,0,0.0,9.3,3.3,0,0
+111,111,Owen Daniels TE - DEN View News View Videos,@OAK,0.0,0.0,0.0,0.0,0.0,31.0,1.0,0,0,0.0,9.1,3.1,0,0
+112,112,Antonio Gates TE - SD View Videos,PIT,0.0,0.0,0.0,0.0,0.0,31.0,1.0,0,0,0.0,9.1,3.1,0,0
+113,113,Coby Fleener TE - IND View News,@HOU,0.0,0.0,0.0,0.0,0.0,29.0,1.0,0,0,0.0,8.9,2.9,0,0
+114,114,Darren Sproles RB - PHI View Videos,NO,0.0,0.0,0.0,33.0,0.0,41.0,0.0,0,0,0.0,7.4,4.1,0,0
+115,115,Dexter McCluster RB - TEN,BUF,0.0,0.0,0.0,33.0,0.0,26.0,0.0,0,0,0.0,5.9,2.6,0,0
+116,116,Travis Benjamin WR - CLE View News View Videos,@BAL,0.0,0.0,0.0,2.0,0.0,56.0,0.0,0,0,0.0,5.8,5.6,0,0
+117,117,Giovani Bernard RB - CIN View News View Videos,SEA,0.0,0.0,0.0,37.0,0.0,20.0,0.0,0,0,0.0,5.7,2.0,0,0
+118,118,Tre Mason RB - STL,@GB,0.0,0.0,0.0,46.0,0.0,11.0,0.0,0,0,0.0,5.7,1.1,0,0
+119,119,Ryan Mathews RB - PHI View News View Videos,NO,0.0,0.0,0.0,45.0,0.0,12.0,0.0,0,0,0.0,5.7,1.2,0,0
+120,120,Charles Sims RB - TB View News View Videos,JAC,0.0,0.0,0.0,38.0,0.0,17.0,0.0,0,0,0.0,5.5,1.7,0,0
+121,121,Roy Helu RB - OAK View Videos,DEN,0.0,0.0,0.0,26.0,0.0,27.0,0.0,0,0,0.0,5.3,2.7,0,0
+122,122,Tavon Austin WR - STL View Videos,@GB,0.0,0.0,0.0,25.0,0.0,27.0,0.0,0,0,0.0,5.2,2.7,0,0
+123,123,David Johnson RB - ARI View News View Videos,@DET,0.0,0.0,0.0,33.0,0.0,18.0,0.0,0,0,0.0,5.1,1.8,0,0
+124,124,Danny Woodhead RB - SD View Videos,PIT,0.0,0.0,0.0,25.0,0.0,26.0,0.0,0,0,0.0,5.1,2.6,0,0
+125,125,Shane Vereen RB - NYG View Videos,SF,0.0,0.0,0.0,23.0,0.0,27.0,0.0,0,0,0.0,5.0,2.7,0,0
+126,126,Kendall Wright WR - TEN View News View Videos,BUF,0.0,0.0,0.0,3.0,0.0,46.0,0.0,0,0,0.0,4.9,4.6,0,0
+127,127,Darrius Heyward-Bey WR - PIT View Videos,@SD,0.0,0.0,0.0,0.0,0.0,46.0,0.0,0,0,0.0,4.6,4.6,0,0
+128,128,C.J. Spiller RB - NO View Videos,@PHI,0.0,0.0,0.0,30.0,0.0,16.0,0.0,0,0,0.0,4.6,1.6,0,0
+129,129,Duke Johnson RB - CLE View News View Videos,@BAL,0.0,0.0,0.0,31.0,0.0,14.0,0.0,0,0,0.0,4.5,1.4,0,0
+130,130,Mohamed Sanu WR - CIN View Videos,SEA,0.0,0.0,0.0,3.0,0.0,42.0,0.0,0,0,0.0,4.5,4.2,0,0
+131,131,Jacquizz Rodgers RB - CHI View News,@KC,0.0,0.0,0.0,27.0,0.0,17.0,0.0,0,0,0.0,4.4,1.7,0,0
+132,132,Doug Baldwin WR - SEA View News View Videos,@CIN,0.0,0.0,0.0,1.0,0.0,42.0,0.0,0,0,0.0,4.3,4.2,0,0
+133,133,Andrew Hawkins WR - CLE View Videos,@BAL,0.0,0.0,0.0,1.0,0.0,40.0,0.0,0,0,0.0,4.1,4.0,0,0
+134,134,Leonard Hankerson WR - ATL View News View Videos,WAS,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0,0,0.0,4.0,4.0,0,0
+135,135,Marvin Jones WR - CIN View Videos,SEA,0.0,0.0,0.0,0.0,0.0,40.0,0.0,0,0,0.0,4.0,4.0,0,0
+136,136,Ameer Abdullah RB - DET View News View Videos,ARI,0.0,0.0,0.0,28.0,0.0,11.0,0.0,0,0,0.0,3.9,1.1,0,0
+137,137,Harry Douglas WR - TEN View Videos,BUF,0.0,0.0,0.0,0.0,0.0,39.0,0.0,0,0,0.0,3.9,3.9,0,0
+138,138,Jeremy Langford RB - CHI,@KC,0.0,0.0,0.0,25.0,0.0,14.0,0.0,0,0,0.0,3.9,1.4,0,0
+139,139,Jaelen Strong WR - HOU View Videos,IND,0.0,0.0,0.0,0.0,0.0,39.0,0.0,0,0,0.0,3.9,3.9,0,0
+140,140,Robert Woods WR - BUF View News View Videos,@TEN,0.0,0.0,0.0,0.0,0.0,38.0,0.0,0,0,0.0,3.8,3.8,0,0
+141,141,Danny Amendola WR - NE View News View Videos,@DAL,0.0,0.0,0.0,0.0,0.0,37.0,0.0,0,0,0.0,3.7,3.7,0,0
+142,142,Chris Givens WR - BAL,CLE,0.0,0.0,0.0,0.0,0.0,37.0,0.0,0,0,0.0,3.7,3.7,0,0
+143,143,Ty Montgomery WR - GB View News View Videos,STL,0.0,0.0,0.0,0.0,0.0,37.0,0.0,0,0,0.0,3.7,3.7,0,0
+144,144,Theo Riddick RB - DET View Videos,ARI,0.0,0.0,0.0,21.0,0.0,16.0,0.0,0,0,0.0,3.7,1.6,0,0
+145,145,Kenny Britt WR - STL View News View Videos,@GB,0.0,0.0,0.0,1.0,0.0,35.0,0.0,0,0,0.0,3.6,3.5,0,0
+146,146,Jacoby Jones WR - SD Q,PIT,0.0,0.0,0.0,2.0,0.0,34.0,0.0,0,0,0.0,3.6,3.4,0,0
+147,147,Marlon Brown WR - BAL View Videos,CLE,0.0,0.0,0.0,0.0,0.0,35.0,0.0,0,0,0.0,3.5,3.5,0,0
+148,148,Scott Chandler TE - NE View Videos,@DAL,0.0,0.0,0.0,0.0,0.0,35.0,0.0,0,0,0.0,3.5,3.5,0,0
+149,149,Brandon Coleman WR - NO View Videos,@PHI,0.0,0.0,0.0,0.0,0.0,35.0,0.0,0,0,0.0,3.5,3.5,0,0
+150,150,Dwayne Harris WR - NYG,SF,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0,0,0.0,3.4,3.4,0,0
+151,151,Josh Huff WR - PHI View News View Videos,NO,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0,0,0.0,3.4,3.4,0,0
+152,152,Bobby Rainey RB - TB View Videos,JAC,0.0,0.0,0.0,18.0,0.0,16.0,0.0,0,0,0.0,3.4,1.6,0,0
+153,153,Jason Witten TE - DAL View News View Videos,NE,0.0,0.0,0.0,0.0,0.0,34.0,0.0,0,0,0.0,3.4,3.4,0,0
+154,154,Jermaine Kearse WR - SEA View Videos,@CIN,0.0,0.0,0.0,1.0,0.0,32.0,0.0,0,0,0.0,3.3,3.2,0,0
+155,155,Terrance West RB - TEN IA,BUF,0.0,0.0,0.0,28.0,0.0,5.0,0.0,0,0,0.0,0.0,0.5,0,0
+156,156,Marcedes Lewis TE - JAC View News View Videos,@TB,0.0,0.0,0.0,0.0,0.0,32.0,0.0,0,0,0.0,3.2,3.2,0,0
+157,157,Willie Snead WR - NO View News View Videos,@PHI,0.0,0.0,0.0,0.0,0.0,32.0,0.0,0,0,0.0,3.2,3.2,0,0
+158,158,Dri Archer RB - PIT,@SD,0.0,0.0,0.0,18.0,0.0,13.0,0.0,0,0,0.0,3.1,1.3,0,0
+159,159,Alfred Blue RB - HOU,IND,0.0,0.0,0.0,26.0,0.0,5.0,0.0,0,0,0.0,3.1,0.5,0,0
+160,160,Benny Cunningham RB - STL View Videos,@GB,0.0,0.0,0.0,13.0,0.0,18.0,0.0,0,0,0.0,3.1,1.8,0,0
+161,161,Chris Polk RB - HOU,IND,0.0,0.0,0.0,22.0,0.0,9.0,0.0,0,0,0.0,3.1,0.9,0,0
+162,162,Brian Quick WR - STL View Videos,@GB,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0,0,0.0,3.1,3.1,0,0
+163,163,Torrey Smith WR - SF View Videos,@NYG,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0,0,0.0,3.1,3.1,0,0
+164,164,Maxx Williams TE - BAL,CLE,0.0,0.0,0.0,0.0,0.0,31.0,0.0,0,0,0.0,3.1,3.1,0,0
+165,165,Andre Roberts WR - WAS View Videos,@ATL,0.0,0.0,0.0,1.0,0.0,29.0,0.0,0,0,0.0,3.0,2.9,0,0
+166,166,Andre Caldwell WR - DEN,@OAK,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0,0,0.0,2.9,2.9,0,0
+167,167,Darren McFadden RB - DAL View News View Videos,NE,0.0,0.0,0.0,26.0,0.0,3.0,0.0,0,0,0.0,2.9,0.3,0,0
+168,168,Mychal Rivera TE - OAK,DEN,0.0,0.0,0.0,0.0,0.0,29.0,0.0,0,0,0.0,2.9,2.9,0,0
+169,169,Lorenzo Taliaferro RB - BAL IA View News,CLE,0.0,0.0,0.0,23.0,0.0,6.0,0.0,0,0,0.0,0.0,0.6,0,0
+170,170,Toby Gerhart RB - JAC,@TB,0.0,0.0,0.0,20.0,0.0,8.0,0.0,0,0,0.0,2.8,0.8,0,0
+171,171,Garrett Graham TE - HOU View Videos,IND,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0,0,0.0,2.8,2.8,0,0
+172,172,Dorial Green-Beckham WR - TEN,BUF,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0,0,0.0,2.8,2.8,0,0
+173,173,Brian Hartline WR - CLE View News View Videos,@BAL,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0,0,0.0,2.8,2.8,0,0
+174,174,Jeff Janis WR - GB,STL,0.0,0.0,0.0,0.0,0.0,28.0,0.0,0,0,0.0,2.8,2.8,0,0
+175,175,Andre Williams RB - NYG,SF,0.0,0.0,0.0,24.0,0.0,4.0,0.0,0,0,0.0,2.8,0.4,0,0
+176,176,DeAngelo Williams RB - PIT,@SD,0.0,0.0,0.0,25.0,0.0,3.0,0.0,0,0,0.0,2.8,0.3,0,0
+177,177,Stedman Bailey WR - STL View Videos,@GB,0.0,0.0,0.0,2.0,0.0,25.0,0.0,0,0,0.0,2.7,2.5,0,0
+178,178,Justin Hunter WR - TEN View Videos,BUF,0.0,0.0,0.0,0.0,0.0,27.0,0.0,0,0,0.0,2.7,2.7,0,0
+179,179,Jason Avant WR - KC View Videos,CHI,0.0,0.0,0.0,0.0,0.0,26.0,0.0,0,0,0.0,2.6,2.6,0,0
+180,180,Brent Celek TE - PHI View Videos,NO,0.0,0.0,0.0,0.0,0.0,26.0,0.0,0,0,0.0,2.6,2.6,0,0
+181,181,Nelson Agholor WR - PHI View News View Videos,NO,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0,0,0.0,2.5,2.5,0,0
+182,182,Aaron Dobson WR - NE IA View News,@DAL,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0,0,0.0,0.0,2.5,0,0
+183,183,Gavin Escobar TE - DAL,NE,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0,0,0.0,2.5,2.5,0,0
+184,184,Andre Johnson WR - IND,@HOU,0.0,0.0,0.0,0.0,0.0,25.0,0.0,0,0,0.0,2.5,2.5,0,0
+185,185,Ka'Deem Carey RB - CHI,@KC,0.0,0.0,0.0,17.0,0.0,7.0,0.0,0,0,0.0,2.4,0.7,0,0
+186,186,Jared Cook TE - STL View Videos,@GB,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0,0,0.0,2.4,2.4,0,0
+187,187,Knile Davis RB - KC,CHI,0.0,0.0,0.0,17.0,0.0,7.0,0.0,0,0,0.0,2.4,0.7,0,0
+188,188,Levine Toilolo TE - ATL,WAS,0.0,0.0,0.0,0.0,0.0,24.0,0.0,0,0,0.0,2.4,2.4,0,0
+189,189,Timothy Wright TE - DET View Videos,ARI,0.0,0.0,0.0,0.0,0.0,23.0,0.0,0,0,0.0,2.3,2.3,0,0
+190,190,Brandon Bolden RB - NE,@DAL,0.0,0.0,0.0,17.0,0.0,5.0,0.0,0,0,0.0,2.2,0.5,0,0
+191,191,Branden Oliver RB - SD,PIT,0.0,0.0,0.0,12.0,0.0,10.0,0.0,0,0,0.0,2.2,1.0,0,0
+192,192,Julius Thomas TE - JAC View News View Videos,@TB,0.0,0.0,0.0,0.0,0.0,22.0,0.0,0,0,0.0,2.2,2.2,0,0
+193,193,Roddy White WR - ATL View News View Videos,WAS,0.0,0.0,0.0,0.0,0.0,22.0,0.0,0,0,0.0,2.2,2.2,0,0
+194,194,Reggie Bush RB - SF View Videos,@NYG,0.0,0.0,0.0,27.0,0.0,14.0,0.0,0,0,1.0,2.1,1.4,0,0
+195,195,Anthony Fasano TE - TEN View Videos,BUF,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0,0,0.0,2.1,2.1,0,0
+196,196,Chris Johnson RB - ARI View News View Videos,@DET,0.0,0.0,0.0,16.0,0.0,5.0,0.0,0,0,0.0,2.1,0.5,0,0
+197,197,Christine Michael RB - DAL,NE,0.0,0.0,0.0,19.0,0.0,2.0,0.0,0,0,0.0,2.1,0.2,0,0
+198,198,Marquess Wilson WR - CHI View Videos,@KC,0.0,0.0,0.0,0.0,0.0,21.0,0.0,0,0,0.0,2.1,2.1,0,0
+199,199,Jermaine Gresham TE - ARI,@DET,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0,0,0.0,2.0,2.0,0,0
+200,200,Clay Harbor TE - JAC,@TB,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0,0,0.0,2.0,2.0,0,0
+201,201,Jordan Norwood WR - DEN,@OAK,0.0,0.0,0.0,0.0,0.0,20.0,0.0,0,0,0.0,2.0,2.0,0,0
+202,202,Dwayne Allen TE - IND,@HOU,0.0,0.0,0.0,0.0,0.0,19.0,0.0,0,0,0.0,1.9,1.9,0,0
+203,203,Josh Robinson RB - IND,@HOU,0.0,0.0,0.0,16.0,0.0,3.0,0.0,0,0,0.0,1.9,0.3,0,0
+204,204,James Starks RB - GB,STL,0.0,0.0,0.0,14.0,0.0,5.0,0.0,0,0,0.0,1.9,0.5,0,0
+205,205,Terron Ward RB - ATL,WAS,0.0,0.0,0.0,12.0,0.0,7.0,0.0,0,0,0.0,1.9,0.7,0,0
+206,206,Markus Wheaton WR - PIT P,@SD,0.0,0.0,0.0,1.0,0.0,18.0,0.0,0,0,0.0,1.9,1.8,0,0
+207,207,James White RB - NE,@DAL,0.0,0.0,0.0,9.0,0.0,10.0,0.0,0,0,0.0,1.9,1.0,0,0
+208,208,Taylor Gabriel WR - CLE View Videos,@BAL,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0,0,0.0,1.8,1.8,0,0
+209,209,Tyler Lockett WR - SEA View Videos,@CIN,0.0,0.0,0.0,1.0,0.0,17.0,0.0,0,0,0.0,1.8,1.7,0,0
+210,210,Rod Streater WR - OAK IA,DEN,0.0,0.0,0.0,0.0,0.0,18.0,0.0,0,0,0.0,0.0,1.8,0,0
+211,211,Riley Cooper WR - PHI View Videos,NO,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0,0,0.0,1.7,1.7,0,0
+212,212,Phillip Dorsett WR - IND View News,@HOU,0.0,0.0,0.0,0.0,0.0,17.0,0.0,0,0,0.0,1.7,1.7,0,0
+213,213,Fred Jackson RB - SEA View News View Videos,@CIN,0.0,0.0,0.0,8.0,0.0,9.0,0.0,0,0,0.0,1.7,0.9,0,0
+214,214,Miles Austin WR - PHI View Videos,NO,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0,0,0.0,1.6,1.6,0,0
+215,215,Andre Holmes WR - OAK View Videos,DEN,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0,0,0.0,1.6,1.6,0,0
+216,216,Ricardo Lockette WR - SEA,@CIN,0.0,0.0,0.0,1.0,0.0,15.0,0.0,0,0,0.0,1.6,1.5,0,0
+217,217,Benjamin Watson TE - NO View Videos,@PHI,0.0,0.0,0.0,0.0,0.0,16.0,0.0,0,0,0.0,1.6,1.6,0,0
+218,218,Chris Hogan WR - BUF View News View Videos,@TEN,0.0,0.0,0.0,0.0,0.0,15.0,0.0,0,0,0.0,1.5,1.5,0,0
+219,219,Jamison Crowder WR - WAS View News View Videos,@ATL,0.0,0.0,0.0,1.0,0.0,13.0,0.0,0,0,0.0,1.4,1.3,0,0
+220,220,Bruce Ellington WR - SF View Videos,@NYG,0.0,0.0,0.0,1.0,0.0,13.0,0.0,0,0,0.0,1.4,1.3,0,0
+221,221,Stepfan Taylor RB - ARI,@DET,0.0,0.0,0.0,8.0,0.0,6.0,0.0,0,0,0.0,1.4,0.6,0,0
+222,222,Luke Willson TE - SEA View Videos,@CIN,0.0,0.0,0.0,0.0,0.0,14.0,0.0,0,0,0.0,1.4,1.4,0,0
+223,223,C.J. Fiedorowicz TE - HOU,IND,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0,0,0.0,1.3,1.3,0,0
+224,224,Chris Matthews WR - SEA,@CIN,0.0,0.0,0.0,0.0,0.0,13.0,0.0,0,0,0.0,1.3,1.3,0,0
+225,225,Brandon Myers TE - TB View News,JAC,0.0,0.0,0.0,0.0,0.0,12.0,0.0,0,0,0.0,1.2,1.2,0,0
+226,226,Khiry Robinson RB - NO,@PHI,0.0,0.0,0.0,9.0,0.0,2.0,0.0,0,0,0.0,1.1,0.2,0,0
+227,227,Darren Fells TE - ARI View News View Videos,@DET,0.0,0.0,0.0,0.0,0.0,10.0,0.0,0,0,0.0,1.0,1.0,0,0
+228,228,Marcel Reece RB - OAK View Videos,DEN,0.0,0.0,0.0,4.0,0.0,6.0,0.0,0,0,0.0,1.0,0.6,0,0
+229,229,Albert Wilson WR - KC IA View News,CHI,0.0,0.0,0.0,0.0,0.0,9.0,0.0,0,0,0.0,0.0,0.9,0,0
+230,230,Sammie Coates WR - PIT,@SD,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0,0,0.0,0.8,0.8,0,0
+231,231,Chris Conley WR - KC,CHI,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0,0,0.0,0.8,0.8,0,0
+232,232,Justin Hardy WR - ATL IA,WAS,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0,0,0.0,0.0,0.8,0,0
+233,233,J.J. Nelson WR - ARI IA View News,@DET,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0,0,0.0,0.0,0.8,0,0
+234,234,Jacob Tamme TE - ATL View News View Videos,WAS,0.0,0.0,0.0,0.0,0.0,8.0,0.0,0,0,0.0,0.8,0.8,0,0
+235,235,Antonio Andrews RB - TEN View Videos,BUF,0.0,0.0,0.0,4.0,0.0,3.0,0.0,0,0,0.0,0.7,0.3,0,0
+236,236,Dwayne Bowe WR - CLE IA View News View Videos,@BAL,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.0,0.7,0,0
+237,237,Josh Hill TE - NO,@PHI,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.7,0.7,0,0
+238,238,Rob Housler TE - CLE,@BAL,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.7,0.7,0,0
+239,239,Lance Kendricks TE - STL View Videos,@GB,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.7,0.7,0,0
+240,240,Lance Moore WR - DET View Videos,ARI,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.7,0.7,0,0
+241,241,Paul Richardson WR - SEA PUP View Videos,@CIN,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.0,0.7,0,0
+242,242,Robert Turbin RB - CLE IA View News,@BAL,0.0,0.0,0.0,4.0,0.0,3.0,0.0,0,0,0.0,0.0,0.3,0,0
+243,243,Clive Walford TE - OAK View Videos,DEN,0.0,0.0,0.0,0.0,0.0,7.0,0.0,0,0,0.0,0.7,0.7,0,0
+244,244,Javorius Allen RB - BAL View News View Videos,CLE,0.0,0.0,0.0,4.0,0.0,2.0,0.0,0,0,0.0,0.6,0.2,0,0
+245,245,Kennard Backman TE - GB,STL,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0,0,0.0,0.6,0.6,0,0
+246,246,Tyler Kroft TE - CIN,SEA,0.0,0.0,0.0,0.0,0.0,6.0,0.0,0,0,0.0,0.6,0.6,0,0
+247,247,Bernard Pierce RB - JAC,@TB,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0,0,0.0,0.6,0.1,0,0
+248,248,Juwan Thompson RB - DEN,@OAK,0.0,0.0,0.0,5.0,0.0,1.0,0.0,0,0,0.0,0.6,0.1,0,0
+249,249,Anthony Dixon RB - BUF View News,@TEN,0.0,0.0,0.0,4.0,0.0,1.0,0.0,0,0,0.0,0.5,0.1,0,0
+250,250,Kamar Aiken WR - BAL View News View Videos,CLE,0.0,0.0,0.0,0.0,0.0,3.0,0.0,0,0,0.0,0.3,0.3,0,0
+251,251,Jarryd Hayne RB - SF,@NYG,0.0,0.0,0.0,3.0,0.0,0.0,0.0,0,0,0.0,0.3,0.0,0,0
+252,252,John Kuhn RB - GB View Videos,STL,0.0,0.0,0.0,2.0,0.0,1.0,0.0,0,0,0.0,0.3,0.1,0,0
+253,253,Matt Barkley QB - ARI IA,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+254,254,E.J. Bibbs TE - CLE IA,@BAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+255,255,Donald Brown RB - SD,PIT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+256,256,Rex Burkhead RB - CIN View Videos,SEA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+257,257,Matt Cassel QB - DAL,NE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+258,258,Jimmy Clausen QB - CHI View News,@KC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+259,259,Kellen Clemens QB - SD,PIT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+260,260,Tevin Coleman RB - ATL View News View Videos,WAS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+261,261,Chase Daniel QB - KC,CHI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+262,262,Austin Davis QB - CLE IA,@BAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+263,263,Blaine Gabbert QB - SF,@NYG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+264,264,Jimmy Garoppolo QB - NE,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+265,265,Mike Glennon QB - TB,JAC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+266,266,Robert Griffin III QB - WAS IA,@ATL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+267,267,Demetrius Harris TE - KC,CHI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+268,268,Chad Henne QB - JAC,@TB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+269,269,Brian Hoyer QB - HOU View Videos,IND,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+270,270,Tarvaris Jackson QB - SEA,@CIN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+271,271,Jesse James TE - PIT,@SD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+272,272,Case Keenum QB - STL,@GB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+273,273,Brandon LaFell WR - NE PUP View News,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+274,274,EJ Manuel QB - BUF,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+275,275,Johnny Manziel QB - CLE,@BAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+276,276,Marc Mariani WR - CHI,@KC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+277,277,Vince Mayle WR - DAL View Videos,NE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+278,278,Luke McCown QB - NO,@PHI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+279,279,Colt McCoy QB - WAS,@ATL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+280,280,Matt McGloin QB - OAK,DEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+281,281,Zach Mettenberger QB - TEN,BUF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+282,282,Tony Moeaki TE - ATL,WAS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+283,283,Denarius Moore WR - BUF View Videos,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+284,284,Dan Orlovsky QB - DET View News View Videos,ARI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+285,285,Brock Osweiler QB - DEN,@OAK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+286,286,Cedric Peerman RB - CIN,SEA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+287,287,Dennis Pitta TE - BAL PUP View Videos,CLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+288,288,Thomas Rawls RB - SEA View Videos,@CIN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+289,289,Mark Sanchez QB - PHI,NO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+290,290,Matt Schaub QB - BAL,CLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+291,291,Austin Seferian-Jenkins TE - TB IA View News,JAC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+292,292,Drew Stanton QB - ARI,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+293,293,Brandon Tate WR - CIN,SEA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+294,294,Zurlon Tipton RB - IND,@HOU,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+295,295,Jordan Todman RB - PIT,@SD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+296,296,Griff Whalen WR - IND,@HOU,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+297,297,Kevin White WR - CHI PUP,@KC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+298,298,Charlie Whitehurst QB - TEN IA,BUF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+299,299,Jared Abbrederis WR - GB,STL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+300,300,Jay Ajayi RB - MIA IR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+301,301,Seyi Ajirotutu WR - PHI,NO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+302,302,Mario Alford WR - CIN IA,SEA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+303,303,RaShaun Allen TE - SEA,@CIN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+304,304,Jace Amaro TE - NYJ IR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+305,305,Derek Anderson QB - CAR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+306,306,Rory Anderson TE - SF IR,@NYG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+307,307,Cameron Artis-Payne RB - CAR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+308,308,Matt Asiata RB - MIN,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+309,309,David Ausberry TE - OAK,DEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+310,310,Donnie Avery WR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+311,311,Billy Bajema TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+312,312,Edwin Baker RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+313,313,Jon Baldwin WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+314,314,Montee Ball RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+315,315,Jake Ballard TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+316,316,Vick Ballard RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+317,317,Joe Banyard RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+318,318,Kenjon Barner RB - PHI IA View News,NO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+319,319,Jackie Battle RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+320,320,Blake Bell TE - SF,@NYG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+321,321,Joique Bell RB - DET IA,ARI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+322,322,Kenny Bell WR - TB IR,JAC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+323,323,Josh Bellamy WR - CHI View News View Videos,@KC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+324,324,Kelvin Benjamin WR - CAR IR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+325,325,Earl Bennett WR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+326,326,Brenton Bersin WR - CAR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+327,327,Davone Bess WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+328,328,Justin Blackmon WR - JAC SUS,@TB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+329,329,Tommy Bohanon RB - NYJ,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+330,330,Brandon Bostick TE - ARI,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+331,331,Josh Boyce WR - NE IR,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+332,332,Jarrett Boykin WR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+333,333,Nick Boyle TE - BAL,CLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+334,334,Ahmad Bradshaw RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+335,335,LaVon Brazill WR SUS View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+336,336,Teddy Bridgewater QB - MIN,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+337,337,Andre Brown RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+338,338,Bryce Brown RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+339,339,Corey Brown WR - CAR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+340,340,Da'Ron Brown WR - KC,CHI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+341,341,Jaron Brown WR - ARI,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+342,342,Justin Brown WR IR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+343,343,Malcolm Brown RB - STL,@GB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+344,344,Mike Brown WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+345,345,Ronnie Brown RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+346,346,Vincent Brown WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+347,347,Ryan Broyles WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+348,348,Dez Bryant WR - DAL IA View News View Videos,NE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+349,349,Nate Burleson WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+350,350,Isaiah Burse WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+351,351,Michael Burton RB - DET,ARI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+352,352,Stephen Burton WR IR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+353,353,Trey Burton TE - PHI,NO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+354,354,Michael Bush RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+355,355,Brice Butler WR - DAL IA,NE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+356,356,Jeremy Butler WR - BAL,CLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+357,357,Nate Byham TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+358,358,Travaris Cadet RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+359,359,Jordan Cameron TE - MIA View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+360,360,Michael Campanaro WR - BAL IR View Videos,CLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+361,361,Jason Campbell QB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+362,362,John Carlson TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+363,363,Derek Carrier TE - WAS View Videos,@ATL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+364,364,DeAndre Carter WR - OAK,DEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+365,365,Duron Carter WR - IND,@HOU,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+366,366,James Casey TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+367,367,Garrett Celek TE - SF,@NYG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+368,368,Orson Charles TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+369,369,Tashard Choice RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+370,370,Gerald Christian TE - ARI IR,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+371,371,Dallas Clark TE View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+372,372,Kaelin Clay WR - DET,ARI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+373,373,Tyler Clutts RB - DAL,NE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+374,374,David Cobb RB - TEN IR,BUF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+375,375,Chase Coffman TE - TEN IA,BUF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+376,376,Derrick Coleman RB - SEA View Videos,@CIN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+377,377,Austin Collie WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+378,378,Jed Collins RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+379,379,Kevin Cone WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+380,380,John Conner RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+381,381,Josh Cooper WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+382,382,Jerricho Cotchery WR - CAR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+383,383,Michael Cox RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+384,384,Tom Crabtree TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+385,385,Josh Cribbs WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+386,386,Juron Criner WR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+387,387,John Crockett RB - GB,STL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+388,388,Victor Cruz WR - NYG IA View Videos,SF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+389,389,Jeff Cumberland TE - NYJ,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+390,390,Jerome Cunningham TE - NYG IA,SF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+391,391,Justice Cunningham TE - STL,@GB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+392,392,B.J. Daniels WR - SEA,@CIN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+393,393,Orleans Darkwa RB - NYG,SF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+394,394,Devante Davis WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+395,395,Dominique Davis QB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+396,396,Drew Davis WR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+397,397,Fred Davis TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+398,398,Geremy Davis WR - NYG,SF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+399,399,Kellen Davis TE - NYJ,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+400,400,Mike Davis RB - SF IA,@NYG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+401,401,Vernon Davis TE - SF IA,@NYG,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+402,402,Andre Debose WR - OAK IR,DEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+403,403,Eric Decker WR - NYJ,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+404,404,Jeff Demps RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+405,405,A.J. Derby TE - NE IR,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+406,406,James Develin RB - NE IR,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+407,407,Dorin Dickerson TE - TEN IR,BUF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+408,408,Ed Dickson TE - CAR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+409,409,Stefon Diggs WR - MIN,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+410,410,Patrick DiMarco RB - ATL,WAS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+411,411,Kevin Dorsey WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+412,412,Tandon Doss WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+413,413,Jack Doyle TE - IND,@HOU,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+414,414,Shaun Draughn RB - CLE IA View News,@BAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+415,415,Jim Dray TE - CLE,@BAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+416,416,Joel Dreessen TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+417,417,Lance Dunbar RB - DAL IR,NE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+418,418,Kris Durham WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+419,419,Jonathan Dwyer RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+420,420,Michael Dyer RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+421,421,Marcus Easley WR - BUF,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+422,422,Eric Ebron TE - DET IA,ARI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+423,423,Armanti Edwards WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+424,424,Pat Edwards WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+425,425,Michael Egnew TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+426,426,Rhett Ellison TE - MIN,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+427,427,Quincy Enunwa WR - NYJ,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+428,428,David Fales QB - CHI IA,@KC,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+429,429,Joseph Fauria TE - ARI NWT View Videos,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+430,430,Daniel Fells TE - NYG IR,SF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+431,431,Jerome Felton RB - BUF,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+432,432,Jermichael Finley TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+433,433,Ryan Fitzpatrick QB - NYJ View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+434,434,Matt Flynn QB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+435,435,Chase Ford TE - MIN View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+436,436,Jacoby Ford WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+437,437,Bennie Fowler WR - DEN View Videos,@OAK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+438,438,Jalston Fowler RB - TEN View Videos,BUF,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+439,439,Johnathan Franklin RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+440,440,Josh Freeman QB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+441,441,Isaac Fruechte WR - MIN,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+442,442,Corey Fuller WR - DET View Videos,ARI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+443,443,Devin Funchess WR - CAR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+444,444,Tyler Gaffney RB - NE IR,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+445,445,Clyde Gates WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+446,446,Brandon Gibson WR - NE IR View Videos,@DAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+447,447,Mike Gillislee RB - ARI,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+448,448,Crockett Gillmore TE - BAL IA,CLE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+449,449,Ted Ginn WR - CAR View Videos,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+450,450,Brittan Golden WR - ARI,@DET,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+451,451,Mike Goodson RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+452,452,Marquise Goodwin WR - BUF View News,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+453,453,Josh Gordon WR - CLE SUS View Videos,@BAL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+454,454,Richard Gordon TE,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+455,455,Bruce Gradkowski QB - PIT IR,@SD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+456,456,Chris Gragg TE - BUF,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+457,457,Ray Graham RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+458,458,T.J. Graham WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+459,459,Corey Grant RB - JAC View Videos,@TB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+460,460,Ryan Grant WR - WAS View Videos,@ATL,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+461,461,Cyrus Gray RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+462,462,Jonas Gray RB - MIA,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+463,463,MarQueis Gray TE - BUF IR,@TEN,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+464,464,Garrett Grayson QB - NO IA,@PHI,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+465,465,Alex Green RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+466,466,Virgil Green TE - DEN,@OAK,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+467,467,BenJarvus Green-Ellis RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+468,468,Rashad Greene WR - JAC IR,@TB,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+469,469,Shonn Greene RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+470,470,Marion Grice RB,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+471,471,Ryan Griffin TE - HOU IR,IND,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+472,472,Xavier Grimble TE - PIT,@SD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+473,473,Jonathan Grimes RB - HOU IA,IND,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0
+474,474,Derek Hagan WR,Bye,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0,0,0.0,0.0,0.0,0,0

@@ -1,4 +1,3 @@
-#def nfl_scrape(week)
 
 import urllib2
 import urllib
@@ -12,9 +11,9 @@ import FF_scoring
 week = raw_input("Which week?")
 week = str(week)
 
-dk_file = "DKweek" +week +"salaries.xlsx"
-csv_output = "nfl-week" + week + ".csv"
-csv_output_2 = "nfl-week" + week + "-2" + ".csv"
+#dk_file = "DKweek" +week +"salaries.xlsx"
+csv_output = "weeks/week-" +week + "/nfl-week" + week + ".csv"
+csv_output_2 = "weeks/week-" +week + "/nfl-week" + week + "-2" + ".csv"
 url_format = "http://fantasy.nfl.com/research/projections?offset={offset}&position=O&sort=projectedPts&statCategory=projectedStats&statSeason=2015&statType=weekProjectedStats&statWeek={week}"
 data = [['player','opp','pass_yards','pass_tds','int','rush_yards','rush_tds','rec_yards','rec_tds','fum_td','2-pt','fl','fan_pts']]
 
@@ -45,12 +44,14 @@ df['rec']=0
 df['punt_td']=0
 df['kick_td']=0
 df.to_csv(csv_output)
+
+#--------------------------------------------------
+
 df = FF_scoring.clean(csv_output)
 
 df.replace('-',0, inplace=True)
 df['rec']=df['rec_yards']/10  #nfl doesn't do receptions, so I assume a 10 yards/rec
-df.to_csv(csv_output)
-df = FF_scoring.scoring('nfl',csv_output)
+
 
 i = 0
 row_num = len(df)
@@ -62,8 +63,13 @@ for i in range(0,row_num):
 	df['player'][i] = new_player
 	i = i+ 1
 
-df_2 = df[(df['nfl'] > 0)]  # How do I drop all zero scores?
-df_2.to_csv(csv_output_2)
-df = FF_scoring.get_player(csv_output_2,dk_file,86)
-df.to_csv(csv_output_2)
+df.to_csv(csv_output)
+
+#----------------------------leaving this here
+
+#df = FF_scoring.scoring('nfl',csv_output)
+#df_2 = df[(df['nfl'] > 0)]  # How do I drop all zero scores?
+#df_2.to_csv(csv_output_2)
+#df = FF_scoring.get_player(csv_output_2,dk_file,86)
+#df.to_csv(csv_output_2)
 

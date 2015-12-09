@@ -11,10 +11,10 @@ week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-ref
 week = str(week)
 
 #dk_file = 'DKweek6salaries.xlsx' #change every week
-dk_file = "DKweek" +week +"salaries.xlsx"
-csv_output = "espn-week" + week + ".csv"
-excel_output = "espn-week" + week + ".xlsx"
-csv_output_2 = "espn-week" + week + "-2" + ".csv"
+#dk_file = "DKweek" +week +"salaries.xlsx"
+csv_output = "weeks/week-" +week + "/espn-week" + week + ".csv"
+#excel_output = "espn-week" + week + ".xlsx"
+csv_output_2 = "weeks/week-" +week + "/espn-week" + week + "-2" + ".csv"
 data = [['player','opp','status','comp/att','pass_yards','pass_tds','int','rush_att','rush_yards','rush_tds','rec','rec_yards','rec_tds','fan_pts','punt_td','kick_td','fl','2-pt']]
 first_half = "http://games.espn.go.com/ffl/tools/projections?startIndex="
 page_num = 1
@@ -43,26 +43,33 @@ for page_num in range(1,14):
 #print data
 
 
-espn = FF_scoring.scoring('espn',csv_output)
-df_espn = pd.DataFrame(espn)
+#espn = FF_scoring.scoring('espn',csv_output)
+#df_espn = pd.DataFrame(espn)
 
+
+df = pd.read_csv(csv_output)
 
 i = 0
-row_num = len(df_espn)
+row_num = len(df)
 
 for i in range(0,row_num):
-	f1 = df_espn['player'][i].split(',') # split() only once
+	f1 = df['player'][i].split(',') # split() only once
 	new_player = f1[0]
-	df_espn['player'][i] = new_player
+	df['player'][i] = new_player
 	i = i+ 1
 
+df.to_csv(csv_output)
 
-df_espn_2 = df_espn[(df_espn['espn'] > 1)]  # cleaning low scores
+#-----keepfornow-----this is in dk_scoring---
 
-df_espn_2.to_csv(csv_output_2)
 
-df = FF_scoring.get_player(csv_output_2,dk_file,86)
-df.to_csv(csv_output_2)
+#df = FF_scoring.scoring('espn',csv_output)
+#df_espn_2 = df[(df['espn'] > 1)]  # cleaning low scores
+
+#df_espn_2.to_csv(csv_output_2)
+
+#df = FF_scoring.get_player(csv_output_2,dk_file,86)
+#df.to_csv(csv_output_2)
 
 
 #this fucking works

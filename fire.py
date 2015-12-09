@@ -1,3 +1,4 @@
+
 #modifying to enable numberfire
 #http://www.numberfire.com/nfl/fantasy/fantasy-football-ppr-projections
 
@@ -12,11 +13,11 @@ week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-ref
 week = str(week)
 
 #dk_file = 'DKweek6salaries.xlsx' #change every week
-dk_file = "DKweek" +week +"salaries.xlsx"
+#dk_file = "DKweek" +week +"salaries.xlsx"
 
-csv_output = "fire-week" + week + ".csv"
-excel_output = "fire-week" + week + ".xlsx"
-csv_output_2 = "fire-week" + week + "-2" + ".csv"
+csv_output = "weeks/week-" +week + "/fire-week" + week + ".csv"
+#excel_output = "fire-week" + week + ".xlsx"
+csv_output_2 = "weeks/week-" +week + "/fire-week" + week + "-2" + ".csv"
 
 data = [['player','opp','opp_rank','overall_rank','pos_rank','pass_yards','pass_tds','int','rush_att','rush_yards','rush_tds','rec','rec_yards','rec_tds','fan_pts','fanduel_pts','fanduel_cost','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','2-pt','fl','punt_td','kick_td',]]
 url = 'http://www.numberfire.com/nfl/fantasy/fantasy-football-ppr-projections'
@@ -36,8 +37,10 @@ a.writerows(data)
 b.close()
 
 
-fire = FF_scoring.scoring('fire',csv_output)
-df = pd.DataFrame(fire)
+#fire = FF_scoring.scoring('fire',csv_output)
+#df = pd.DataFrame(fire)
+
+df = pd.read_csv(csv_output)
 
 i = 0
 row_num = len(df)
@@ -48,11 +51,13 @@ for i in range(0,row_num):
 	df['player'][i] = new_player
 	i = i+ 1
 
-#print df
+df.to_csv(csv_output)
 
-df_2 = df[(df['fire'] > 1)]  # cleaning low scores
-df_2.to_csv(csv_output_2)
+#--------------------------leave for now
 
-df = FF_scoring.get_player(csv_output_2,dk_file,86)
-df.to_csv(csv_output_2)
+#df = FF_scoring.scoring('fire',csv_output)
+#df_2 = df[(df['fire'] > 1)]  # cleaning low scores
+#df_2.to_csv(csv_output_2)
+#df = FF_scoring.get_player(csv_output_2,dk_file,86)
+#df.to_csv(csv_output_2)
 

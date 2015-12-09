@@ -1,5 +1,3 @@
-#this work 10-8 needs to be cleaned up
-
 
 
 import urllib2
@@ -14,9 +12,9 @@ week = str(week)
 
 url_format = "http://fantasynews.cbssports.com/fantasyfootball/stats/weeklyprojections/{position}/{week}/avg/standard?&print_rows=9999"
 
-dk_file = "DKweek" +week +"salaries.xlsx"
-csv_output = "CBS-week" + week + ".csv"
-csv_output_2 = "CBS-week" + week + "-2"+ ".csv"
+#dk_file = "DKweek" +week +"salaries.xlsx"
+csv_output = "weeks/week-" + week + "/CBS-week" + week + ".csv"
+csv_output_2 = "weeks/week-" + week + "/CBS-week" + week + "-2"+ ".csv"
 
 data_QB = [['player','pass_att','comp','pass_yards','pass_tds','int','comp-%','pass_yards/att','rush_att','rush_yards','rush_avg','rush_tds','fl','fan_pts','rec','rec_yards','rec_tds','punt_td','kick_td','2-pt']]
 data_RB = [['player','rush_att','rush_yards','rush_avg','rush_tds','rec','rec_yards','avg_yards/rec','rec_tds','fl','fan_pts','punt_td','kick_td','2-pt','pass_yards','pass_tds','int']]
@@ -45,7 +43,8 @@ for pos_num in range(0,1):
 	b.close()
 	pos_num = pos_num+1
 
-df_qb = FF_scoring.scoring('cbs',csv_pos)
+df_qb = pd.read_csv(csv_pos)
+#df_qb = FF_scoring.scoring('cbs',csv_pos)
 
 # this is for RB
 
@@ -67,8 +66,9 @@ for pos_num in range(1,2):
 	a.writerows(data_RB)
 	b.close()
 	pos_num = pos_num+1
-	
-df_rb = FF_scoring.scoring('cbs',csv_pos)
+
+df_rb = pd.read_csv(csv_pos)	
+#df_rb = FF_scoring.scoring('cbs',csv_pos)
 
 # this is for WR
 
@@ -91,7 +91,8 @@ for pos_num in range(2,3):
 	b.close()
 	pos_num = pos_num+1
 
-df_wr = FF_scoring.scoring('cbs',csv_pos)
+df_wr = pd.read_csv(csv_pos)
+#df_wr = FF_scoring.scoring('cbs',csv_pos)
 
 # this is for TE
 
@@ -114,10 +115,13 @@ for pos_num in range(3,4):
 	b.close()
 	pos_num = pos_num+1
 
-df_te = FF_scoring.scoring('cbs',csv_pos)
+df_te = pd.read_csv(csv_pos)
+#df_te = FF_scoring.scoring('cbs',csv_pos)
 
 ### bring it all together
 df = pd.concat([df_qb,df_rb,df_wr,df_te], axis=0, ignore_index=True)
+#df.to_csv(csv_output)
+#df = FF_scoring.scoring('cbs',csv_output)
 
 #cleaning up the names for matching
 i = 0
@@ -128,7 +132,11 @@ for i in range(0,row_num):
 	df['player'][i] = new_player
 	i = i+ 1
 
-df_2 = df[(df['cbs'] > 1)]  # How do I drop all the super low scores?
-df_2.to_csv(csv_output_2)
-df = FF_scoring.get_player(csv_output_2,dk_file,86)
-df.to_csv(csv_output_2)
+df.to_csv(csv_output)
+
+#-----keepfornow-----this is in dk_scoring---
+#df = FF_scoring.scoring('cbs',csv_output)
+#df_2 = df[(df['cbs'] > 1)]  # How do I drop all the super low scores?
+#df_2.to_csv(csv_output_2)
+#df = FF_scoring.get_player(csv_output_2,dk_file,86)
+#df.to_csv(csv_output_2)

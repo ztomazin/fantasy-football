@@ -11,11 +11,18 @@ import numpy as np
 week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-refreshes projections)
 week = str(week)
 
-excel_doc = 'Week ' + week +'.xlsx' 
-csv_output = "finalscore-week" + week + ".csv"
-#csv_output_2 = "finalscore-week" + week + "-2.csv"
-dk_file = 'DKweek'+week+'salaries.xlsx' #change every week
-agg = "aggregate-week" + week + ".csv"
+csv_output = "weeks/week-" +week + "/finalscore-week" + week + ".csv"
+csv_output_dk = "weeks/week-" +week + "/finalscore-week" + week + "-dk.csv"
+csv_output_fd = "weeks/week-" +week + "/finalscore-week" + week + "-fd.csv"
+agg_dk = "weeks/week-" +week + "/aggregate-week" + week + "dk.csv"
+agg_fd = "weeks/week-" +week + "/aggregate-week" + week + "fd.csv"
+dk_file = "weeks/week-" +week + "/DKweek" +week +"salaries.xlsx"  #weekly salary file
+fd_file = "weeks/week-" +week + "/FDweek" +week +"salaries.xlsx"  #weekly salary file
+
+
+#excel_doc = 'Week ' + week +'.xlsx' 
+#dk_file = 'DKweek'+week+'salaries.xlsx' #change every week
+#agg = "aggregate-week" + week + ".csv"
 
 url_format = "http://games.espn.go.com/ffl/leaders?&startIndex={index}&scoringPeriodId={week}&seasonId=2015"
 page_num = 1
@@ -46,32 +53,60 @@ for page_num in range(1,20):
 #print data
 
 
-final = FF_scoring.scoring('final',csv_output)
-df_fin = pd.DataFrame(final)
+#-------------------------------------------------
+
+
+#final = FF_scoring.scoring('final',csv_output)
+#df_fin = pd.DataFrame(final)
 
 # cleaning the names for easier fuzzy logic
+#----------------------------
+df = pd.read_csv(csv_output)
+
 i = 0
-row_num = len(df_fin)
+row_num = len(df)
 
 for i in range(0,row_num):
-	f1 = df_fin['player'][i].split(',') # split() only once
+	f1 = df['player'][i].split(',') # split() only once
 	new_player = f1[0]
-	df_fin['player'][i] = new_player
+	df['player'][i] = new_player
 	i = i+ 1
 
+df.to_csv(csv_output)
 
-df_fin_2 = df_fin[(df_fin['final'] > 0)]  # cleaning low scores
-df_fin_2.to_csv(csv_output)
+#-------------------------------
 
-df = FF_scoring.get_player(csv_output,dk_file,86)
+df_dk = FF_scoring.scoring('final',csv_output)
+df_fd = FF_scoring.fd_scoring('final',csv_output)
+
+df_dk_2 = df_dk[(df_dk['final'] > 1)]  # cleaning low scores
+df_fd_2 = df_fd[(df_fd['final'] > 1)]  # cleaning low scores
+
+df_dk_2.to_csv(csv_output_dk)
+df_fd_2.to_csv(csv_output_fd)
+
+df_dk = FF_scoring.get_player(csv_output_dk,dk_file,86)
+df_fd = FF_scoring.get_player(csv_output_fd,fd_file,86)
+
+df_dk.to_csv(csv_output_dk)
+df_fd.to_csv(csv_output_fd)
+
+
+#-----------------------
 
 
 #accumulating with aggregate scores
-df_agg = pd.read_csv(agg)
-df = pd.merge(df_agg, df, how='left', left_on='Name', right_on = 'dk_name')
+df_agg_dk = pd.read_csv(agg_dk)
+df_agg_fd = pd.read_csv(agg_fd)
 
-df = df[['Name','Position','Salary','GameInfo','AvgPointsPerGame','teamAbbrev','fftoday','nfl','cbs','fleaflicker','espn','fox','fire','average','max','min','range','rel_range','final']]
+df_dk = pd.merge(df_agg_dk, df_dk, how='left', left_on='Name', right_on = 'dk_name')
+df_fd = pd.merge(df_agg_fd, df_fd, how='left', left_on='Name', right_on = 'dk_name')
 
+df_dk = df_dk[['Name','Position','Salary','GameInfo','AvgPointsPerGame','teamAbbrev','fftoday','nfl','cbs','fleaflicker','espn','fire','average','max','min','range','rel_range','upside','final']]
+df_fd = df_fd[['Id','Name','Position','Salary','Game','FPPG','teamAbbrev','fftoday','nfl','cbs','fleaflicker','espn','fire','average','max','min','range','rel_range','upside','final']]
+
+df_dk.to_csv(csv_output_dk)
+df_fd.to_csv(csv_output_fd)
 
 #df = df.drop('Unnamed: 0_x', 1)
 #df = df.drop('Unnamed: 0_y', 1)
@@ -79,5 +114,5 @@ df = df[['Name','Position','Salary','GameInfo','AvgPointsPerGame','teamAbbrev','
 #df = df.drop('dk_name', 1)
 #df = s1.drop(s1.columns[['Unnamed: 0_y','player','dk_name']], axis=1, inplace=True)
 
-df.to_csv(csv_output)
+#df.to_csv(csv_output)
 #this fucking works

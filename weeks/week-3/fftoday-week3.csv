@@ -1,0 +1,294 @@
+Passing,Rushing,Fantasy
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Comp,Att,Yard,TD,INT,Att,Yard,TD,FFPts
+Tom Brady,NE,JAC,25,37,275,3,0,0,0,0,25.8
+Russell Wilson,SEA,CHI,20,31,240,1,0,7,35,1,25.5
+Aaron Rodgers,GB,KC,22,35,280,2,0,4,25,0,24.5
+Andrew Luck,IND,@TEN,24,40,285,2,0,5,20,0,24.3
+Cam Newton,CAR,NO,20,31,230,2,1,7,40,0,23.5
+Ryan Tannehill,MIA,BUF,24,37,275,2,0,4,15,0,23.3
+Ben Roethlisberger,PIT,@STL,24,35,300,2,0,0,0,0,23.0
+Nick Foles,STL,PIT,22,37,265,2,0,2,10,0,22.3
+Carson Palmer,ARI,SF,22,36,275,2,0,1,5,0,22.3
+Matt Ryan,ATL,@DAL,23,36,275,2,0,1,5,0,22.3
+Blake Bortles,JAC,@NE,20,32,240,2,1,3,20,0,22.0
+Marcus Mariota,TEN,IND,20,32,230,2,0,5,25,0,22.0
+Philip Rivers,SD,@MIN,22,35,280,2,0,0,0,0,22.0
+Peyton Manning,DEN,@DET,22,34,270,2,1,0,0,0,21.5
+Ryan Mallett,HOU,TB,22,37,255,2,1,2,5,0,21.3
+Eli Manning,NYG,WAS,22,34,265,2,1,0,0,0,21.3
+Jameis Winston,TB,@HOU,19,33,240,2,1,2,10,0,21.0
+Joe Flacco,BAL,CIN,23,38,240,2,1,2,5,0,20.5
+Colin Kaepernick,SF,@ARI,21,36,240,1,0,8,30,0,19.0
+Alex Smith,KC,@GB,24,36,255,1,0,3,15,0,18.3
+Tyrod Taylor,BUF,@MIA,17,30,210,1,1,7,35,0,18.0
+Derek Carr,OAK,@CLE,20,34,255,1,1,3,10,0,17.8
+Sam Bradford,PHI,@NYJ,21,35,260,1,1,1,5,0,17.5
+Teddy Bridgewater,MIN,SD,20,31,235,1,1,3,15,0,17.3
+Josh McCown,CLE,OAK,20,33,245,1,1,2,10,0,17.3
+Brandon Weeden,DAL,ATL,22,35,245,1,1,2,10,0,17.3
+Drew Brees,NO,@CAR,21,33,250,1,1,2,5,0,17.0
+Andy Dalton,CIN,@BAL,22,35,240,1,1,3,10,0,17.0
+Matthew Stafford,DET,DEN,19,32,245,1,1,1,5,0,16.8
+Kirk Cousins,WAS,@NYG,19,31,230,1,1,2,10,0,16.5
+Jimmy Clausen,CHI,@SEA,20,34,225,1,2,3,10,0,16.3
+Ryan Fitzpatrick,NYJ,PHI,19,31,215,1,1,2,10,0,15.8
+Rushing,Receiving,Fantasy
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Att,Yard,TD,Rec,Yard,TD,FFPts
+Marshawn Lynch,SEA,CHI,26,100,1,2,20,0,18.0
+Le'Veon Bell,PIT,@STL,22,85,1,3,25,0,17.0
+Adrian Peterson,MIN,SD,21,85,1,3,25,0,17.0
+Jamaal Charles,KC,@GB,18,75,1,4,25,0,16.0
+Isaiah Crowell,CLE,OAK,19,70,1,3,20,0,15.0
+Devonta Freeman,ATL,@DAL,16,65,1,3,25,0,15.0
+Carlos Hyde,SF,@ARI,21,75,1,2,15,0,15.0
+Mark Ingram,NO,@CAR,17,65,1,3,25,0,15.0
+LeSean McCoy,BUF,@MIA,16,65,1,3,25,0,15.0
+Latavius Murray,OAK,@CLE,18,70,1,3,20,0,15.0
+James Starks,GB,KC,15,65,1,3,20,0,14.5
+Jonathan Stewart,CAR,NO,17,70,1,2,15,0,14.5
+Jeremy Hill,CIN,@BAL,18,70,1,1,10,0,14.0
+LeGarrette Blount,NE,JAC,19,75,1,0,0,0,13.5
+Melvin Gordon,SD,@MIN,19,65,1,1,10,0,13.5
+Dion Lewis,NE,JAC,8,35,0,6,40,1,13.5
+DeMarco Murray,PHI,@NYJ,14,55,1,3,20,0,13.5
+Joseph Randle,DAL,ATL,16,65,1,1,10,0,13.5
+Ameer Abdullah,DET,DEN,10,40,1,4,30,0,13.0
+David Johnson,ARI,SF,9,40,1,4,25,0,12.5
+Alfred Morris,WAS,@NYG,15,60,1,1,5,0,12.5
+C.J. Anderson,DEN,@DET,14,50,1,2,10,0,12.0
+Matt Forte,CHI,@SEA,18,70,0,6,40,0,11.0
+Justin Forsett,BAL,CIN,18,70,0,3,20,0,9.0
+T.J. Yeldon,JAC,@NE,17,65,0,3,15,0,8.0
+Matt Jones,WAS,@NYG,13,55,0,3,20,0,7.5
+Chris Johnson,ARI,SF,12,60,0,1,10,0,7.0
+Tre Mason,STL,PIT,13,55,0,2,15,0,7.0
+Bishop Sankey,TEN,IND,13,55,0,2,15,0,7.0
+Danny Woodhead,SD,@MIN,8,30,0,6,40,0,7.0
+Chris Ivory,NYJ,PHI,13,55,0,1,10,0,6.5
+Lamar Miller,MIA,BUF,11,50,0,2,15,0,6.5
+Giovani Bernard,CIN,@BAL,8,35,0,4,25,0,6.0
+Frank Gore,IND,@TEN,12,50,0,1,10,0,6.0
+Rashad Jennings,NYG,WAS,13,50,0,2,10,0,6.0
+Doug Martin,TB,@HOU,13,50,0,1,10,0,6.0
+Shane Vereen,NYG,WAS,6,25,0,5,35,0,6.0
+Chris Polk,HOU,TB,10,45,0,1,10,0,5.5
+Bilal Powell,NYJ,PHI,9,35,0,3,20,0,5.5
+Ronnie Hillman,DEN,@DET,11,40,0,2,10,0,5.0
+Benny Cunningham,STL,PIT,6,25,0,3,20,0,4.5
+Lance Dunbar,DAL,ATL,3,10,0,4,35,0,4.5
+Dexter McCluster,TEN,IND,8,25,0,3,20,0,4.5
+Darren Sproles,PHI,@NYJ,3,10,0,4,35,0,4.5
+Joique Bell,DET,DEN,9,30,0,1,10,0,4.0
+Duke Johnson,CLE,OAK,8,30,0,1,5,0,3.5
+Ryan Mathews,PHI,@NYJ,6,25,0,1,10,0,3.5
+Darren McFadden,DAL,ATL,6,30,0,1,5,0,3.5
+C.J. Spiller,NO,@CAR,4,15,0,3,20,0,3.5
+DeAngelo Williams,PIT,@STL,7,25,0,1,10,0,3.5
+Rushing,Receiving,Fantasy
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Att,Yard,TD,Rec,Yard,TD,FFPts
+Alfred Blue,HOU,TB,7,25,0,1,5,0,3.0
+Jerick McKinnon,MIN,SD,6,20,0,1,10,0,3.0
+Theo Riddick,DET,DEN,3,10,0,3,20,0,3.0
+Josh Robinson,IND,@TEN,5,20,0,1,10,0,3.0
+Khiry Robinson,NO,@CAR,8,30,0,0,0,0,3.0
+Charles Sims,TB,@HOU,3,10,0,3,20,0,3.0
+Lorenzo Taliaferro,BAL,CIN,7,20,0,1,10,0,3.0
+Karlos Williams,BUF,@MIA,5,25,0,1,5,0,3.0
+Reggie Bush,SF,@ARI,3,15,0,1,10,0,2.5
+Knile Davis,KC,@GB,5,20,0,1,5,0,2.5
+Fred Jackson,SEA,CHI,3,10,0,2,15,0,2.5
+Jonathan Grimes,HOU,TB,3,15,0,1,5,0,2.0
+Marcel Reece,OAK,@CLE,1,5,0,2,15,0,2.0
+De'Anthony Thomas,KC,@GB,0,0,0,2,20,0,2.0
+Mike Tolbert,CAR,NO,2,10,0,1,10,0,2.0
+Damien Williams,MIA,BUF,2,10,0,1,10,0,2.0
+Jarryd Hayne,SF,@ARI,3,10,0,1,5,0,1.5
+Taiwan Jones,OAK,@CLE,3,15,0,0,0,0,1.5
+Jeremy Langford,CHI,@SEA,3,10,0,1,5,0,1.5
+Jacquizz Rodgers,CHI,@SEA,2,10,0,0,5,0,1.5
+Andre Williams,NYG,WAS,4,15,0,0,0,0,1.5
+Anthony Dixon,BUF,@MIA,1,5,0,1,5,0,1.0
+Toby Gerhart,JAC,@NE,2,10,0,0,0,0,1.0
+Eddie Lacy,GB,KC,2,10,0,0,0,0,1.0
+Bernard Pierce,JAC,@NE,3,10,0,0,0,0,1.0
+Dri Archer,PIT,@STL,1,5,0,0,0,0,0.5
+Receiving,Fantasy
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Rec,Yard,TD,FFPts
+Antonio Brown,PIT,@STL,9,110,1,17.0
+Julio Jones,ATL,@DAL,8,110,1,17.0
+Odell Beckham Jr.,NYG,WAS,8,105,1,16.5
+Julian Edelman,NE,JAC,8,95,1,15.5
+Brandon Marshall,NYJ,PHI,7,90,1,15.0
+DeAndre Hopkins,HOU,TB,8,85,1,14.5
+Demaryius Thomas,DEN,@DET,6,85,1,14.5
+Mike Evans,TB,@HOU,6,80,1,14.0
+Larry Fitzgerald,ARI,SF,7,80,1,14.0
+Jarvis Landry,MIA,BUF,8,80,1,14.0
+Jeremy Maclin,KC,@GB,6,80,1,14.0
+Donte Moncrief,IND,@TEN,6,80,1,14.0
+Allen Robinson,JAC,@NE,6,80,1,14.0
+Emmanuel Sanders,DEN,@DET,6,80,1,14.0
+Keenan Allen,SD,@MIN,6,75,1,13.5
+Randall Cobb,GB,KC,5,75,1,13.5
+Amari Cooper,OAK,@CLE,6,75,1,13.5
+Vincent Jackson,TB,@HOU,5,75,1,13.5
+Steve Johnson,SD,@MIN,6,75,1,13.5
+Steve Smith,BAL,CIN,6,75,1,13.5
+Anquan Boldin,SF,@ARI,6,70,1,13.0
+Calvin Johnson,DET,DEN,5,70,1,13.0
+Kenny Britt,STL,PIT,6,65,1,12.5
+John Brown,ARI,SF,5,65,1,12.5
+Brandin Cooks,NO,@CAR,7,65,1,12.5
+Allen Hurns,JAC,@NE,6,65,1,12.5
+Mike Wallace,MIN,SD,4,65,1,12.5
+Nate Washington,HOU,TB,5,65,1,12.5
+Terrance Williams,DAL,ATL,6,65,1,12.5
+Kendall Wright,TEN,IND,6,65,1,12.5
+Travis Benjamin,CLE,OAK,5,60,1,12.0
+Ted Ginn Jr.,CAR,NO,5,60,1,12.0
+T.Y. Hilton,IND,@TEN,4,55,1,11.5
+Sammy Watkins,BUF,@MIA,5,55,1,11.5
+James Jones,GB,KC,3,45,1,10.5
+A.J. Green,CIN,@BAL,6,70,0,7.0
+Jordan Matthews,PHI,@NYJ,5,70,0,7.0
+Doug Baldwin,SEA,CHI,5,65,0,6.5
+Pierre Garcon,WAS,@NYG,6,65,0,6.5
+Golden Tate,DET,DEN,4,60,0,6.0
+Michael Crabtree,OAK,@CLE,5,55,0,5.5
+Torrey Smith,SF,@ARI,4,55,0,5.5
+Markus Wheaton,PIT,@STL,4,55,0,5.5
+Roddy White,ATL,@DAL,5,55,0,5.5
+Rueben Randle,NYG,WAS,4,50,0,5.0
+Cole Beasley,DAL,ATL,4,45,0,4.5
+Philly Brown,CAR,NO,3,45,0,4.5
+Brandon Coleman,NO,@CAR,4,45,0,4.5
+Percy Harvin,BUF,@MIA,4,45,0,4.5
+Andrew Hawkins,CLE,OAK,4,45,0,4.5
+Receiving,Fantasy
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Rec,Yard,TD,FFPts
+Marvin Jones,CIN,@BAL,4,45,0,4.5
+Rishard Matthews,MIA,BUF,4,45,0,4.5
+Eddie Royal,CHI,@SEA,4,45,0,4.5
+Cecil Shorts,HOU,TB,4,45,0,4.5
+Davante Adams,GB,KC,3,40,0,4.0
+Tavon Austin,STL,PIT,4,40,0,4.0
+Stedman Bailey,STL,PIT,3,40,0,4.0
+Marques Colston,NO,@CAR,3,40,0,4.0
+Harry Douglas,TEN,IND,4,40,0,4.0
+Malcom Floyd,SD,@MIN,4,40,0,4.0
+Andre Johnson,IND,@TEN,3,40,0,4.0
+Charles Johnson,MIN,SD,3,40,0,4.0
+Jermaine Kearse,SEA,CHI,4,40,0,4.0
+Nelson Agholor,PHI,@NYJ,3,35,0,3.5
+Kamar Aiken,BAL,CIN,3,35,0,3.5
+Michael Floyd,ARI,SF,3,35,0,3.5
+Devin Funchess,CAR,NO,3,35,0,3.5
+Ryan Grant,WAS,@NYG,3,35,0,3.5
+Leonard Hankerson,ATL,@DAL,3,35,0,3.5
+Darrius Heyward-Bey,PIT,@STL,3,35,0,3.5
+Phillip Dorsett,IND,@TEN,3,30,0,3.0
+Brian Hartline,CLE,OAK,3,30,0,3.0
+Andre Holmes,OAK,@CLE,2,30,0,3.0
+Greg Jennings,MIA,BUF,3,30,0,3.0
+Tyler Lockett,SEA,CHI,3,30,0,3.0
+Ty Montgomery,GB,KC,2,30,0,3.0
+Louis Murphy,TB,@HOU,2,30,0,3.0
+Andre Roberts,WAS,@NYG,3,30,0,3.0
+Mohamed Sanu,CIN,@BAL,3,30,0,3.0
+Kenny Stills,MIA,BUF,3,30,0,3.0
+Marquess Wilson,CHI,@SEA,2,30,0,3.0
+Robert Woods,BUF,@MIA,2,30,0,3.0
+Jarius Wright,MIN,SD,3,30,0,3.0
+Danny Amendola,NE,JAC,2,25,0,2.5
+Marlon Brown,BAL,CIN,2,25,0,2.5
+Andre Caldwell,DEN,@DET,2,25,0,2.5
+Dwayne Harris,NYG,WAS,2,25,0,2.5
+Marqise Lee,JAC,@NE,2,25,0,2.5
+Albert Wilson,KC,@GB,2,25,0,2.5
+Chris Conley,KC,@GB,2,20,0,2.0
+Aaron Dobson,NE,JAC,2,20,0,2.0
+Taylor Gabriel,CLE,OAK,2,20,0,2.0
+Dorial Green-Beckham,TEN,IND,2,20,0,2.0
+Josh Huff,PHI,@NYJ,2,20,0,2.0
+Justin Hunter,TEN,IND,2,20,0,2.0
+Lance Moore,DET,DEN,2,20,0,2.0
+Quinton Patton,SF,@ARI,2,20,0,2.0
+Jason Avant,KC,@GB,1,15,0,1.5
+Riley Cooper,PHI,@NYJ,1,15,0,1.5
+DeVante Parker,MIA,BUF,1,15,0,1.5
+Receiving,Fantasy
+Chg,"Player
+Sort First: 
+
+
+
+		Last:",Team,Opp,Rec,Yard,TD,FFPts
+Rob Gronkowski,NE,JAC,7,80,1,14.0
+Martellus Bennett,CHI,@SEA,6,65,1,12.5
+Jordan Reed,WAS,@NYG,6,65,1,12.5
+Tyler Eifert,CIN,@BAL,6,60,1,12.0
+Greg Olsen,CAR,NO,6,60,1,12.0
+Jared Cook,STL,PIT,6,55,1,11.5
+Jordan Cameron,MIA,BUF,5,50,1,11.0
+Jimmy Graham,SEA,CHI,5,50,1,11.0
+Heath Miller,PIT,@STL,4,45,1,10.5
+Crockett Gillmore,BAL,CIN,3,40,1,10.0
+Travis Kelce,KC,@GB,6,65,0,6.5
+Jason Witten,DAL,ATL,4,50,0,5.0
+Vernon Davis,SF,@ARI,4,45,0,4.5
+Coby Fleener,IND,@TEN,3,40,0,4.0
+Kyle Rudolph,MIN,SD,4,40,0,4.0
+Charles Clay,BUF,@MIA,3,35,0,3.5
+Larry Donnell,NYG,WAS,3,35,0,3.5
+Eric Ebron,DET,DEN,3,35,0,3.5
+Zach Ertz,PHI,@NYJ,3,35,0,3.5
+Darren Fells,ARI,SF,3,30,0,3.0
+Richard Rodgers,GB,KC,3,30,0,3.0
+Delanie Walker,TEN,IND,3,30,0,3.0
+Gary Barnidge,CLE,OAK,2,25,0,2.5
+Owen Daniels,DEN,@DET,2,25,0,2.5
+Brandon Myers,TB,@HOU,2,25,0,2.5
+Mychal Rivera,OAK,@CLE,2,25,0,2.5
+Jacob Tamme,ATL,@DAL,2,25,0,2.5
+Ben Watson,NO,@CAR,2,25,0,2.5
+Dwayne Allen,IND,@TEN,2,20,0,2.0
+Jeff Cumberland,NYJ,PHI,2,20,0,2.0
+Gavin Escobar,DAL,ATL,2,20,0,2.0
+Anthony Fasano,TEN,IND,2,20,0,2.0
+Garrett Graham,HOU,TB,2,20,0,2.0
+Marcedes Lewis,JAC,@NE,2,20,0,2.0
+Maxx Williams,BAL,CIN,2,20,0,2.0
+Scott Chandler,NE,JAC,1,15,0,1.5
+Josh Hill,NO,@CAR,1,15,0,1.5
+Brent Celek,PHI,@NYJ,1,10,0,1.0
+Kellen Davis,NYJ,PHI,1,10,0,1.0
+Ladarius Green,SD,@MIN,1,10,0,1.0
+Virgil Green,DEN,@DET,1,10,0,1.0
+Levine Toilolo,ATL,@DAL,1,10,0,1.0
+Clive Walford,OAK,@CLE,1,10,0,1.0
+C.J. Fiedorowicz,HOU,TB,0,5,0,0.5

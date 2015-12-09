@@ -4,13 +4,41 @@ import numpy as np
 
 week = raw_input("Which week?")
 week = str(week)
-csv_output = "aggregate-week" + week + ".csv"
+
+
+#--------get the defense--------
+def_csv = "weeks/week-" +week + "/def-week" +week + '-2.csv'
+
+df_def = pd.read_csv(def_csv)
+
+
+csv_dk = "weeks/week-" +week + "/aggregate-week" + week + "dk.csv"
+csv_fd = "weeks/week-" +week + "/aggregate-week" + week + "fd.csv"
+
+dk_file = "weeks/week-" +week + "/DKweek" +week +"salaries.xlsx"
+fd_file = "weeks/week-" +week + "/FDweek" +week +"salaries.xlsx"
 
 
 
+#---------------------
+
+score_list = ['fire','fftoday','fox','fleaflicker','espn','cbs','nfl']
+
+#-----------------------------
+
+s_n = len(score_list)
+
+x=0
+for x in range(0,s_n):
+
+ff_csv = "weeks/week-" +week + "/fftoday-week" + week + "-2.csv"
+df = pd.read_excel(dk_file)
+df_ff = pd.read_csv(ff_csv)
+s1 = pd.merge(df_dk, df_ff, how='left', left_on='Name', right_on = 'dk_name')
 
 
-dk_file = "DKweek" +week +"salaries.xlsx"
+
+#-----------------------------
 
 #each site
 ff_csv = "fftoday-week" + week + "-2.csv"
@@ -20,7 +48,7 @@ nfl_csv = "nfl-week" + week + "-2.csv"
 cbs_csv = "cbs-week" + week + "-2.csv"
 fox_csv = "fox-week" + week + "-2.csv"
 fire_csv = "fire-week" + week + "-2.csv"
-def_csv = 'def-week' +week + '-2.csv'
+
 
 #getting the data
 df_dk = pd.read_excel(dk_file)
@@ -57,6 +85,7 @@ df['max'] = df[['fftoday','nfl','cbs','fleaflicker','espn','fox','fire']].max(ax
 df['min'] = df[['fftoday','nfl','cbs','fleaflicker','espn','fox','fire']].min(axis=1)
 df['range'] = df['max'] - df['min']
 df['rel_range'] = df['range']/df['average']
+df['upside'] = df['max'] -df['average']
 
 df.to_csv(csv_output)
 

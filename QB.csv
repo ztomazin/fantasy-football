@@ -1,36 +1,38 @@
 player,pos,team,bye,opp,comp,pass_att,comp-%,pass_yards,pass_tds,int,QB_rat,rush_att,rush_yards,rush_tds,fan_pts,own-%,fl,rec,rec_yards,rec_tds,punt_td,kick_td,2-pt
 
 
-Aaron Rodgers,QB,GB,7,DETSun 1:00,26,38,68.4,311,3,0,119.5,3,15,0,32.05,99%
-Drew Brees,QB,NO,11,@WASSun 1:00,27,40,67.5,322,3,0,116.9,1,3,0,31.4,98%
-Cam Newton,QB,CAR,5,@TENSun 1:00,19,31,61.3,211,2,0,103,7,35,1,28.05,96%
-Tom Brady,QB,NE,4,@NYGSun 4:25,22,33,66.7,306,2,0,116.5,1,3,0,24.6,98%
-Ryan Tannehill,QB,MIA,5,@PHISun 1:00,25,38,65.8,249,2,0,101.8,3,18,0,24.25,80%
-Russell Wilson,QB,SEA,9,ARISun 8:30,18,28,64.3,214,2,0,111.3,6,39,0,22.6,89%
-Peyton Manning,QB,DEN,7,KCSun 4:25,26,39,66.7,250,2,0,101.4,1,-1,0,22.4,92%
-Landry Jones,QB,PIT,11,CLESun 1:00,17,26,65.4,245,2,0,121.5,1,1,0,22.35,8%
-Marcus Mariota,QB,TEN,4,CARSun 1:00,23,35,65.7,228,2,0,103,5,28,0,22.2,50%
-Joe Flacco,QB,BAL,9,JACSun 1:00,23,37,62.2,269,2,0,102.2,2,5,0,21.95,64%
-Blake Bortles,QB,JAC,8,@BALSun 1:00,24,39,61.5,227,2,0,94.7,3,23,0,21.65,66%
-Josh McCown,QB,CLE,11,@PITSun 1:00,20,34,58.8,241,2,0,100.2,2,13,0,21.35,21%
-Matt Cassel,QB,DAL,6,@TBSun 1:00,16,28,57.1,170,2,0,98.8,1,8,0,21.3,10%
-Nick Foles,QB,STL,6,CHISun 1:00,21,34,61.8,261,2,0,105.1,1,2,0,21.25,26%
-Andy Dalton,QB,CIN,7,HOUMon 8:30,22,35,62.9,242,2,0,102.3,3,10,0,21.1,90%
-Derek Carr,QB,OAK,6,MINSun 4:05,23,38,60.5,251,2,0,97.6,2,5,0,21.05,71%
-Eli Manning,QB,NYG,11,NESun 4:25,22,35,62.9,256,2,0,104,1,1,0,20.9,91%
-Carson Palmer,QB,ARI,9,@SEASun 8:30,20,31,64.5,244,2,0,110.1,1,3,0,20.5,89%
-Teddy Bridgewater,QB,MIN,5,@OAKSun 4:05,19,30,63.3,215,2,0,106.9,3,17,0,20.45,36%
-Jay Cutler,QB,CHI,7,@STLSun 1:00,23,35,65.7,233,2,0,103.6,2,8,0,20.45,47%
+Aaron Rodgers,QB,GB,7,@DET,27,37,27/37,306,3,0,124.4,3,17,1,40,99%
+Tom Brady,QB,NE,4,PHISun 4:25,24,35,24/35,308,4,0,134,1,3,0,32.7,98%
+Matt Ryan,QB,ATL,10,@TBSun 1:00,29,41,29/41,300,3,0,115.9,2,6,0,30.6,94%
+Cam Newton,QB,CAR,5,@NOSun 4:25,19,29,19/29,239,2,0,114,6,41,1,30.05,96%
+Brock Osweiler,QB,DEN,7,@SDSun 4:05,38,23,38/23,300,2,0,147.7,3,13,0,29.3,28%
+Ben Roethlisberger,QB,PIT,11,INDSun 8:30,26,41,26/41,314,2,0,103.1,1,2,0,26.9,94%
+Ryan Fitzpatrick,QB,NYJ,5,@NYGSun 1:00,21,38,21/38,330,2,0,101.9,2,10,0,26.5,38%
+Andy Dalton,QB,CIN,7,@CLESun 1:00,19,32,19/32,255,3,0,116,4,12,0,25.95,89%
+Marcus Mariota,QB,TEN,4,JACSun 1:00,25,37,25/37,247,2,0,104.2,6,24,0,24.75,52%
+Carson Palmer,QB,ARI,9,@STLSun 1:00,25,35,25/35,281,2,0,114.1,1,4,0,24.45,90%
+Drew Brees,QB,NO,11,CARSun 4:25,28,45,28/45,281,2,0,94.8,1,2,0,24.25,98%
+Ryan Tannehill,QB,MIA,5,BALSun 1:00,25,38,25/38,252,2,0,102.1,3,16,0,24.2,80%
+Alex Smith,QB,KC,9,@OAKSun 4:05,25,38,25/38,251,2,0,102,3,14,0,23.95,46%
+Matt Cassel,QB,DAL,6,@WASMon 8:30,15,27,15/27,162,2,0,98.1,1,9,0,23,8%
+Jay Cutler,QB,CHI,7,SFSun 1:00,24,35,24/35,258,2,0,109,2,9,0,21.8,54%
+Derek Carr,QB,OAK,6,KCSun 4:05,23,42,23/42,266,2,0,90,2,5,0,21.8,73%
+Blaine Gabbert,QB,SF,10,@CHISun 1:00,22,36,22/36,238,2,0,99.1,3,14,0,21.3,8%
+Blake Bortles,QB,JAC,8,@TENSun 1:00,20,32,20/32,203,2,0,101.4,4,24,0,20.55,66%
+Eli Manning,QB,NYG,11,NYJSun 1:00,22,38,22/38,244,2,0,94.6,1,1,0,20.3,91%
+Nick Foles,QB,STL,6,ARISun 1:00,20,34,20/34,238,2,0,99.9,1,2,0,20.1,21%
  Previous12Next 
 
 
-Alex Smith,QB,KC,9,@DENSun 4:25,23,34,67.6,216,2,0,104.5,3,13,0,20.1,40%
-Jameis Winston,QB,TB,6,DALSun 1:00,19,30,63.3,192,2,0,103.8,2,6,0,18.2,37%
-Matthew Stafford,QB,DET,9,@GBSun 1:00,23,38,60.5,262,1,0,90,1,6,0,17.7,77%
-Geno Smith,QB,NYJ,5,BUF,10,25,40,104,2,0,79.4,7,25,0,17.7,6%
-Brian Hoyer,QB,HOU,9,@CINMon 8:30,19,28,67.9,226,1,0,104.2,1,3,0,15.6,21%
-Tyrod Taylor,QB,BUF,8,@NYJ,17,27,63,175,1,0,93.9,4,22,0,14.95,48%
-Kirk Cousins,QB,WAS,8,NOSun 1:00,15,23,65.2,173,1,0,102.3,2,5,0,13.15,28%
-Sam Bradford,QB,PHI,8,MIASun 1:00,13,19,68.4,131,1,0,105.4,1,2,0,10.75,50%
-Ryan Fitzpatrick,QB,NYJ,5,BUF,5,10,50,75,1,0,108.3,1,3,0,8.05,30%
+Brian Hoyer,QB,HOU,9,@BUFSun 1:00,18,29,18/29,236,2,0,110.7,1,3,0,20.1,22%
+Jameis Winston,QB,TB,6,ATLSun 1:00,19,30,19/30,189,1,0,92.2,2,6,1,20.05,48%
+Matt Hasselbeck,QB,IND,10,@PITSun 8:30,43,53,43/53,146,2,0,91.7,1,2,0,19.5,13%
+Matthew Stafford,QB,DET,9,GB,24,41,24/41,267,1,0,86.1,2,6,0,17.95,85%
+Russell Wilson,QB,SEA,9,@MINSun 1:00,17,27,17/27,191,1,0,96.4,5,40,0,17.55,91%
+Kirk Cousins,QB,WAS,8,DALMon 8:30,20,30,20/30,220,1,0,99.3,2,6,0,15.6,35%
+Philip Rivers,QB,SD,10,DENSun 4:05,23,36,23/36,228,1,0,91,1,1,0,15.5,95%
+Teddy Bridgewater,QB,MIN,5,SEASun 1:00,18,29,18/29,200,1,0,94,3,14,0,15.4,36%
+Tyrod Taylor,QB,BUF,8,HOUSun 1:00,15,26,15/26,155,1,0,87.8,4,24,0,14.15,41%
+Matt Schaub,QB,BAL,9,@MIASun 1:00,14,24,14/24,202,1,0,99.7,1,-1,0,14,6%
+Sam Bradford,QB,PHI,8,@NESun 4:25,13,21,13/21,137,1,0,96.7,1,2,0,11.05,39%
  Previous12Next 

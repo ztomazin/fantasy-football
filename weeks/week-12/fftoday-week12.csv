@@ -1,0 +1,286 @@
+,2-pt,comp,fan_pts,fl,int,kick_td,opp,pass_att,pass_tds,pass_yards,player,punt_td,rec,rec_tds,rec_yards,rush_att,rush_tds,rush_yards,team
+0,0,,,0,,0,Fantasy,,,,Passing,0,0,0,0,,,,Rushing
+1,0,Opp,TD,0,TD,0,Team,Comp,Yard,Att,Chg,0,0,0,0,INT,Yard,Att,"Player
+Sort First: 
+
+
+
+		Last:"
+2,0,23,23.8,0,1,0,SD,40,2,275,Blake Bortles,0,0,0,0,3,0,20,JAC
+3,0,26,23.5,0,0,0,STL,41,2,280,Andy Dalton,0,0,0,0,5,0,15,CIN
+4,0,25,23.0,0,1,0,NO,42,2,290,Brian Hoyer,0,0,0,0,1,0,5,HOU
+5,0,23,23.0,0,1,0,@SF,36,2,300,Carson Palmer,0,0,0,0,0,0,0,ARI
+6,0,19,23.0,0,0,0,PIT,30,2,230,Russell Wilson,0,0,0,0,7,0,35,SEA
+7,0,21,22.8,0,0,0,CHI,33,2,265,Aaron Rodgers,0,0,0,0,3,0,15,GB
+8,0,27,22.5,0,1,0,@WAS,41,2,290,Eli Manning,0,0,0,0,0,0,0,NYG
+9,0,20,22.5,0,0,0,@DAL,31,2,230,Cam Newton,0,0,0,0,5,0,30,CAR
+10,0,26,22.5,0,1,0,@JAC,39,2,290,Philip Rivers,0,0,0,0,0,0,0,SD
+11,0,22,22.5,0,0,0,@SEA,33,2,280,Ben Roethlisberger,0,0,0,0,2,0,5,PIT
+12,0,21,22.3,0,1,0,@GB,33,2,255,Jay Cutler,0,0,0,0,4,0,15,CHI
+13,0,22,22.3,0,1,0,BAL,35,2,265,Josh McCown,0,0,0,0,2,0,10,CLE
+14,0,24,22.3,0,1,0,PHI,37,2,265,Matthew Stafford,0,0,0,0,2,0,10,DET
+15,0,24,22.0,0,1,0,@HOU,37,2,280,Drew Brees,0,0,0,0,0,0,0,NO
+16,0,23,22.0,0,1,0,@TEN,36,2,270,Derek Carr,0,0,0,0,2,0,5,OAK
+17,0,21,22.0,0,1,0,OAK,35,2,250,Marcus Mariota,0,0,0,0,3,0,15,TEN
+18,0,24,22.0,0,0,0,MIN,36,2,280,Matt Ryan,0,0,0,0,0,0,0,ATL
+19,0,21,21.8,0,1,0,@DET,34,2,255,Mark Sanchez,0,0,0,0,2,0,10,PHI
+20,0,22,21.5,0,0,0,@DEN,34,2,270,Tom Brady,0,0,0,0,0,0,0,NE
+21,0,22,21.5,0,1,0,CAR,34,2,260,Tony Romo,0,0,0,0,2,0,5,DAL
+22,0,24,21.0,0,1,0,TB,39,2,260,Matt Hasselbeck,0,0,0,0,0,0,0,IND
+23,0,21,20.8,0,1,0,NYG,34,2,255,Kirk Cousins,0,0,0,0,0,0,0,WAS
+24,0,22,18.8,0,0,0,MIA,36,1,255,Ryan Fitzpatrick,0,0,0,0,3,0,20,NYJ
+25,0,19,18.5,0,0,0,@KC,33,1,230,Tyrod Taylor,0,0,0,0,6,0,30,BUF
+26,0,25,17.8,0,1,0,NE,40,1,265,Brock Osweiler,0,0,0,0,2,0,5,DEN
+27,0,21,17.8,0,0,0,BUF,32,1,225,Alex Smith,0,0,0,0,5,0,25,KC
+28,0,19,17.5,0,1,0,@ATL,30,1,230,Teddy Bridgewater,0,0,0,0,4,0,20,MIN
+29,0,20,17.0,0,1,0,@IND,35,1,250,Jameis Winston,0,0,0,0,1,0,5,TB
+30,0,22,16.8,0,1,0,@NYJ,33,1,245,Ryan Tannehill,0,0,0,0,1,0,5,MIA
+31,0,20,16.3,0,1,0,@CLE,36,1,235,Matt Schaub,0,0,0,0,2,0,5,BAL
+32,0,19,15.5,0,1,0,ARI,32,1,200,Blaine Gabbert,0,0,0,0,6,0,15,SF
+33,0,18,15.3,0,1,0,@CIN,32,1,215,Nick Foles,0,0,0,0,1,0,5,STL
+34,0,,,0,0,0,Fantasy,,0,0,Rushing,0,,,,,,,Receiving
+35,0,,TD,0,0,0,Team,,0,0,Chg,0,TD,Yard,Rec,Opp,Yard,Att,"Player
+Sort First: 
+
+
+
+		Last:"
+36,0,,17.5,0,0,0,@CIN,,0,0,Todd Gurley,0,2,0,20,24,1,95,STL
+37,0,,17.0,0,0,0,@DET,,0,0,DeMarco Murray,0,4,0,30,23,1,80,PHI
+38,0,,17.0,0,0,0,@ATL,,0,0,Adrian Peterson,0,2,0,15,23,1,95,MIN
+39,0,,16.5,0,0,0,@IND,,0,0,Doug Martin,0,3,0,20,21,1,85,TB
+40,0,,16.5,0,0,0,@KC,,0,0,LeSean McCoy,0,3,0,25,20,1,80,BUF
+41,0,,15.5,0,0,0,@CLE,,0,0,Javorius Allen,0,4,0,25,18,1,70,BAL
+42,0,,15.5,0,0,0,@HOU,,0,0,Mark Ingram,0,3,0,25,16,1,70,NO
+43,0,,15.5,0,0,0,SD,,0,0,T.J. Yeldon,0,5,0,25,18,1,70,JAC
+44,0,,15.0,0,0,0,@GB,,0,0,Matt Forte,0,4,0,25,16,1,65,CHI
+45,0,,15.0,0,0,0,PIT,,0,0,Thomas Rawls,0,2,0,15,19,1,75,SEA
+46,0,,15.0,0,0,0,@DAL,,0,0,Jonathan Stewart,0,1,0,5,20,1,85,CAR
+47,0,,14.5,0,0,0,MIN,,0,0,Tevin Coleman,0,2,0,15,18,1,70,ATL
+48,0,,14.5,0,0,0,TB,,0,0,Frank Gore,0,2,0,20,16,1,65,IND
+49,0,,14.5,0,0,0,NE,,0,0,Ronnie Hillman,0,2,0,15,15,1,70,DEN
+50,0,,14.5,0,0,0,MIA,,0,0,Chris Ivory,0,1,0,10,17,1,75,NYJ
+51,0,,14.5,0,0,0,@SF,,0,0,Chris Johnson,0,1,0,5,16,1,80,ARI
+52,0,,14.5,0,0,0,@TEN,,0,0,Latavius Murray,0,3,0,20,16,1,65,OAK
+53,0,,14.0,0,0,0,BUF,,0,0,Spencer Ware,0,2,0,15,18,1,65,KC
+54,0,,13.0,0,0,0,@JAC,,0,0,Danny Woodhead,0,7,1,45,6,0,25,SD
+55,0,,12.5,0,0,0,@DEN,,0,0,LeGarrette Blount,0,0,0,0,15,1,65,NE
+56,0,,11.5,0,0,0,CAR,,0,0,Darren McFadden,0,5,0,35,18,0,80,DAL
+57,0,,11.0,0,0,0,STL,,0,0,Jeremy Hill,0,1,0,10,10,1,40,CIN
+58,0,,10.0,0,0,0,@NYJ,,0,0,Lamar Miller,0,4,0,30,16,0,70,MIA
+59,0,,9.0,0,0,0,@SEA,,0,0,DeAngelo Williams,0,4,0,25,18,0,65,PIT
+60,0,,8.0,0,0,0,ARI,,0,0,Shaun Draughn,0,3,0,25,13,0,55,SF
+61,0,,8.0,0,0,0,CHI,,0,0,James Starks,0,3,0,25,13,0,55,GB
+62,0,,7.0,0,0,0,STL,,0,0,Giovani Bernard,0,4,0,25,11,0,45,CIN
+63,0,,7.0,0,0,0,NO,,0,0,Alfred Blue,0,2,0,15,15,0,55,HOU
+64,0,,6.5,0,0,0,OAK,,0,0,Antonio Andrews,0,1,0,10,13,0,55,TEN
+65,0,,6.5,0,0,0,NYG,,0,0,Matt Jones,0,3,0,20,11,0,45,WAS
+66,0,,6.0,0,0,0,@GB,,0,0,Jeremy Langford,0,4,0,25,9,0,35,CHI
+67,0,,5.5,0,0,0,@WAS,,0,0,Rashad Jennings,0,2,0,10,12,0,45,NYG
+68,0,,5.5,0,0,0,BAL,,0,0,Duke Johnson,0,4,0,35,5,0,20,CLE
+69,0,,5.5,0,0,0,CHI,,0,0,Eddie Lacy,0,1,0,10,11,0,45,GB
+70,0,,5.5,0,0,0,PHI,,0,0,Theo Riddick,0,7,0,45,3,0,10,DET
+71,0,,5.0,0,0,0,BAL,,0,0,Isaiah Crowell,0,1,0,10,11,0,40,CLE
+72,0,,5.0,0,0,0,@JAC,,0,0,Melvin Gordon,0,1,0,10,10,0,40,SD
+73,0,,5.0,0,0,0,@IND,,0,0,Charles Sims,0,4,0,25,7,0,25,TB
+74,0,,4.5,0,0,0,NE,,0,0,C.J. Anderson,0,2,0,10,10,0,35,DEN
+75,0,,4.5,0,0,0,@DEN,,0,0,James White,0,3,0,25,5,0,20,NE
+76,0,,4.0,0,0,0,@HOU,,0,0,C.J. Spiller,0,3,0,20,5,0,20,NO
+77,0,,4.0,0,0,0,@DET,,0,0,Darren Sproles,0,2,0,20,5,0,20,PHI
+78,0,,4.0,0,0,0,NYG,,0,0,Chris Thompson,0,5,0,30,3,0,10,WAS
+79,0,,3.5,0,0,0,PHI,,0,0,Ameer Abdullah,0,1,0,5,8,0,30,DET
+80,0,,3.5,0,0,0,OAK,,0,0,David Cobb,0,1,0,10,6,0,25,TEN
+81,0,,3.5,0,0,0,@SF,,0,0,Andre Ellington,0,2,0,15,5,0,20,ARI
+82,0,,3.5,0,0,0,NYG,,0,0,Alfred Morris,0,0,0,0,9,0,35,WAS
+83,0,,3.5,0,0,0,MIA,,0,0,Bilal Powell,0,3,0,20,4,0,15,NYJ
+84,0,,3.5,0,0,0,@WAS,,0,0,Shane Vereen,0,4,0,25,2,0,10,NYG
+85,0,,3.5,0,0,0,@KC,,0,0,Karlos Williams,0,1,0,10,5,0,25,BUF
+86,0,,,0,0,0,Fantasy,,0,0,Rushing,0,,,,,,,Receiving
+87,0,,TD,0,0,0,Team,,0,0,Chg,0,TD,Yard,Rec,Opp,Yard,Att,"Player
+Sort First: 
+
+
+
+		Last:"
+88,0,,3.0,0,0,0,@NYJ,,0,0,Jay Ajayi,0,1,0,10,5,0,20,MIA
+89,0,,3.0,0,0,0,PHI,,0,0,Joique Bell,0,0,0,0,9,0,30,DET
+90,0,,3.0,0,0,0,BUF,,0,0,Knile Davis,0,0,0,0,8,0,30,KC
+91,0,,3.0,0,0,0,NO,,0,0,Jonathan Grimes,0,1,0,10,5,0,20,HOU
+92,0,,2.0,0,0,0,@DEN,,0,0,Brandon Bolden,0,1,0,10,3,0,10,NE
+93,0,,2.0,0,0,0,@CIN,,0,0,Benny Cunningham,0,2,0,15,1,0,5,STL
+94,0,,2.0,0,0,0,ARI,,0,0,Kendall Gaskins,0,0,0,0,6,0,20,SF
+95,0,,2.0,0,0,0,PIT,,0,0,Fred Jackson,0,1,0,10,3,0,10,SEA
+96,0,,2.0,0,0,0,SD,,0,0,Denard Robinson,0,1,0,5,3,0,15,JAC
+97,0,,2.0,0,0,0,@DAL,,0,0,Mike Tolbert,0,1,0,10,2,0,10,CAR
+98,0,,2.0,0,0,0,CAR,,0,0,Robert Turbin,0,0,0,0,5,0,20,DAL
+99,0,,2.0,0,0,0,MIN,,0,0,Terron Ward,0,1,0,5,4,0,15,ATL
+100,0,,2.0,0,0,0,@CLE,,0,0,Terrance West,0,1,0,5,4,0,15,BAL
+101,0,,1.5,0,0,0,@SF,,0,0,David Johnson,0,1,0,10,1,0,5,ARI
+102,0,,1.5,0,0,0,@CIN,,0,0,Tre Mason,0,0,0,0,4,0,15,STL
+103,0,,1.5,0,0,0,@ATL,,0,0,Jerick McKinnon,0,1,0,5,3,0,10,MIN
+104,0,,1.5,0,0,0,@TEN,,0,0,Marcel Reece,0,1,0,10,1,0,5,OAK
+105,0,,1.0,0,0,0,@WAS,,0,0,Orleans Darkwa,0,0,0,0,2,0,10,NYG
+106,0,,0.5,0,0,0,MIA,,0,0,Stevan Ridley,0,1,0,5,0,0,0,NYJ
+107,0,,0.5,0,0,0,BUF,,0,0,Charcandrick West,0,0,0,0,1,0,5,KC
+108,0,,,0,0,0,,,0,0,Receiving,0,,,,0,0,0,Fantasy
+109,0,,TD,0,0,0,Team,,0,0,Chg,0,Opp,Yard,Rec,0,0,0,"Player
+Sort First: 
+
+
+
+		Last:"
+110,0,,18.0,0,0,0,NO,,0,0,DeAndre Hopkins,0,9,1,120,0,0,0,HOU
+111,0,,17.0,0,0,0,MIN,,0,0,Julio Jones,0,8,1,110,0,0,0,ATL
+112,0,,16.5,0,0,0,@WAS,,0,0,Odell Beckham Jr.,0,8,1,105,0,0,0,NYG
+113,0,,16.0,0,0,0,@SEA,,0,0,Antonio Brown,0,8,1,100,0,0,0,PIT
+114,0,,15.0,0,0,0,@SF,,0,0,Larry Fitzgerald,0,8,1,90,0,0,0,ARI
+115,0,,14.5,0,0,0,NE,,0,0,Demaryius Thomas,0,6,1,85,0,0,0,DEN
+116,0,,14.0,0,0,0,STL,,0,0,A.J. Green,0,7,1,80,0,0,0,CIN
+117,0,,14.0,0,0,0,PHI,,0,0,Calvin Johnson,0,6,1,80,0,0,0,DET
+118,0,,14.0,0,0,0,SD,,0,0,Allen Robinson,0,6,1,80,0,0,0,JAC
+119,0,,13.5,0,0,0,BAL,,0,0,Travis Benjamin,0,6,1,75,0,0,0,CLE
+120,0,,13.5,0,0,0,@TEN,,0,0,Amari Cooper,0,6,1,75,0,0,0,OAK
+121,0,,13.5,0,0,0,MIA,,0,0,Eric Decker,0,6,1,75,0,0,0,NYJ
+122,0,,13.5,0,0,0,@IND,,0,0,Mike Evans,0,5,1,75,0,0,0,TB
+123,0,,13.5,0,0,0,NYG,,0,0,DeSean Jackson,0,5,1,75,0,0,0,WAS
+124,0,,13.5,0,0,0,@GB,,0,0,Alshon Jeffery,0,6,1,75,0,0,0,CHI
+125,0,,13.0,0,0,0,@HOU,,0,0,Brandin Cooks,0,7,1,70,0,0,0,NO
+126,0,,13.0,0,0,0,@TEN,,0,0,Michael Crabtree,0,5,1,70,0,0,0,OAK
+127,0,,13.0,0,0,0,TB,,0,0,T.Y. Hilton,0,5,1,70,0,0,0,IND
+128,0,,13.0,0,0,0,@JAC,,0,0,Steve Johnson,0,6,1,70,0,0,0,SD
+129,0,,13.0,0,0,0,CAR,,0,0,Terrance Williams,0,5,1,70,0,0,0,DAL
+130,0,,12.5,0,0,0,CHI,,0,0,Randall Cobb,0,5,1,65,0,0,0,GB
+131,0,,12.5,0,0,0,@ATL,,0,0,Stefon Diggs,0,5,1,65,0,0,0,MIN
+132,0,,12.5,0,0,0,SD,,0,0,Allen Hurns,0,5,1,65,0,0,0,JAC
+133,0,,12.5,0,0,0,@NYJ,,0,0,Jarvis Landry,0,7,1,65,0,0,0,MIA
+134,0,,12.5,0,0,0,@DET,,0,0,Jordan Matthews,0,5,1,65,0,0,0,PHI
+135,0,,12.5,0,0,0,NO,,0,0,Nate Washington,0,5,1,65,0,0,0,HOU
+136,0,,12.0,0,0,0,@CIN,,0,0,Tavon Austin,0,6,1,60,0,0,0,STL
+137,0,,12.0,0,0,0,ARI,,0,0,Anquan Boldin,0,5,1,60,0,0,0,SF
+138,0,,12.0,0,0,0,@SF,,0,0,John Brown,0,5,1,60,0,0,0,ARI
+139,0,,12.0,0,0,0,@DAL,,0,0,Devin Funchess,0,5,1,60,0,0,0,CAR
+140,0,,12.0,0,0,0,PHI,,0,0,Golden Tate,0,4,1,60,0,0,0,DET
+141,0,,11.5,0,0,0,PIT,,0,0,Doug Baldwin,0,4,1,55,0,0,0,SEA
+142,0,,7.5,0,0,0,MIA,,0,0,Brandon Marshall,0,6,0,75,0,0,0,NYJ
+143,0,,7.5,0,0,0,@KC,,0,0,Sammy Watkins,0,7,0,75,0,0,0,BUF
+144,0,,7.0,0,0,0,CHI,,0,0,Davante Adams,0,5,0,70,0,0,0,GB
+145,0,,7.0,0,0,0,@CLE,,0,0,Kamar Aiken,0,7,0,70,0,0,0,BAL
+146,0,,7.0,0,0,0,CAR,,0,0,Dez Bryant,0,5,0,70,0,0,0,DAL
+147,0,,7.0,0,0,0,STL,,0,0,Marvin Jones,0,7,0,70,0,0,0,CIN
+148,0,,6.5,0,0,0,@SEA,,0,0,Martavis Bryant,0,6,0,65,0,0,0,PIT
+149,0,,6.5,0,0,0,@DEN,,0,0,Brandon LaFell,0,5,0,65,0,0,0,NE
+150,0,,6.0,0,0,0,@IND,,0,0,Vincent Jackson,0,4,0,60,0,0,0,TB
+151,0,,6.0,0,0,0,BUF,,0,0,Jeremy Maclin,0,5,0,60,0,0,0,KC
+152,0,,6.0,0,0,0,TB,,0,0,Donte Moncrief,0,5,0,60,0,0,0,IND
+153,0,,6.0,0,0,0,@HOU,,0,0,Willie Snead,0,5,0,60,0,0,0,NO
+154,0,,5.5,0,0,0,CHI,,0,0,James Jones,0,4,0,55,0,0,0,GB
+155,0,,5.5,0,0,0,@NYJ,,0,0,Rishard Matthews,0,5,0,55,0,0,0,MIA
+156,0,,5.5,0,0,0,NE,,0,0,Emmanuel Sanders,0,4,0,55,0,0,0,DEN
+157,0,,5.0,0,0,0,@SF,,0,0,Michael Floyd,0,4,0,50,0,0,0,ARI
+158,0,,5.0,0,0,0,@DAL,,0,0,Ted Ginn Jr.,0,4,0,50,0,0,0,CAR
+159,0,,5.0,0,0,0,@CLE,,0,0,Chris Givens,0,3,0,50,0,0,0,BAL
+160,0,,,0,0,0,,,0,0,Receiving,0,,,,0,0,0,Fantasy
+161,0,,TD,0,0,0,Team,,0,0,Chg,0,Opp,Yard,Rec,0,0,0,"Player
+Sort First: 
+
+
+
+		Last:"
+162,0,,5.0,0,0,0,@WAS,,0,0,Rueben Randle,0,4,0,50,0,0,0,NYG
+163,0,,5.0,0,0,0,NO,,0,0,Cecil Shorts,0,5,0,50,0,0,0,HOU
+164,0,,5.0,0,0,0,OAK,,0,0,Kendall Wright,0,5,0,50,0,0,0,TEN
+165,0,,4.5,0,0,0,NYG,,0,0,Pierre Garcon,0,4,0,45,0,0,0,WAS
+166,0,,4.5,0,0,0,@KC,,0,0,Robert Woods,0,4,0,45,0,0,0,BUF
+167,0,,4.0,0,0,0,@JAC,,0,0,Malcom Floyd,0,4,0,40,0,0,0,SD
+168,0,,4.0,0,0,0,OAK,,0,0,Dorial Green-Beckham,0,3,0,40,0,0,0,TEN
+169,0,,4.0,0,0,0,@WAS,,0,0,Dwayne Harris,0,3,0,40,0,0,0,NYG
+170,0,,4.0,0,0,0,PIT,,0,0,Tyler Lockett,0,3,0,40,0,0,0,SEA
+171,0,,4.0,0,0,0,ARI,,0,0,Torrey Smith,0,3,0,40,0,0,0,SF
+172,0,,4.0,0,0,0,@GB,,0,0,Marquess Wilson,0,3,0,40,0,0,0,CHI
+173,0,,3.5,0,0,0,OAK,,0,0,Harry Douglas,0,3,0,35,0,0,0,TEN
+174,0,,3.5,0,0,0,BAL,,0,0,Brian Hartline,0,4,0,35,0,0,0,CLE
+175,0,,3.5,0,0,0,@KC,,0,0,Chris Hogan,0,3,0,35,0,0,0,BUF
+176,0,,3.5,0,0,0,@JAC,,0,0,Dontrelle Inman,0,3,0,35,0,0,0,SD
+177,0,,3.5,0,0,0,@DEN,,0,0,Keshawn Martin,0,3,0,35,0,0,0,NE
+178,0,,3.5,0,0,0,@CIN,,0,0,Brian Quick,0,2,0,35,0,0,0,STL
+179,0,,3.5,0,0,0,MIN,,0,0,Roddy White,0,3,0,35,0,0,0,ATL
+180,0,,3.0,0,0,0,@DET,,0,0,Nelson Agholor,0,2,0,30,0,0,0,PHI
+181,0,,3.0,0,0,0,CAR,,0,0,Cole Beasley,0,3,0,30,0,0,0,DAL
+182,0,,3.0,0,0,0,@CIN,,0,0,Kenny Britt,0,2,0,30,0,0,0,STL
+183,0,,3.0,0,0,0,@HOU,,0,0,Marques Colston,0,3,0,30,0,0,0,NO
+184,0,,3.0,0,0,0,@DET,,0,0,Riley Cooper,0,2,0,30,0,0,0,PHI
+185,0,,3.0,0,0,0,MIN,,0,0,Justin Hardy,0,2,0,30,0,0,0,ATL
+186,0,,3.0,0,0,0,@DET,,0,0,Josh Huff,0,3,0,30,0,0,0,PHI
+187,0,,3.0,0,0,0,@IND,,0,0,Adam Humphries,0,2,0,30,0,0,0,TB
+188,0,,3.0,0,0,0,@ATL,,0,0,Charles Johnson,0,2,0,30,0,0,0,MIN
+189,0,,3.0,0,0,0,PIT,,0,0,Jermaine Kearse,0,3,0,30,0,0,0,SEA
+190,0,,3.0,0,0,0,MIA,,0,0,Jeremy Kerley,0,3,0,30,0,0,0,NYJ
+191,0,,3.0,0,0,0,SD,,0,0,Marqise Lee,0,2,0,30,0,0,0,JAC
+192,0,,3.0,0,0,0,STL,,0,0,Mohamed Sanu,0,3,0,30,0,0,0,CIN
+193,0,,3.0,0,0,0,@ATL,,0,0,Mike Wallace,0,2,0,30,0,0,0,MIN
+194,0,,3.0,0,0,0,BUF,,0,0,Albert Wilson,0,2,0,30,0,0,0,KC
+195,0,,3.0,0,0,0,@ATL,,0,0,Jarius Wright,0,3,0,30,0,0,0,MIN
+196,0,,2.5,0,0,0,@CLE,,0,0,Marlon Brown,0,2,0,25,0,0,0,BAL
+197,0,,2.5,0,0,0,NYG,,0,0,Jamison Crowder,0,2,0,25,0,0,0,WAS
+198,0,,2.5,0,0,0,@DEN,,0,0,Chris Harper,0,2,0,25,0,0,0,NE
+199,0,,2.5,0,0,0,TB,,0,0,Andre Johnson,0,2,0,25,0,0,0,IND
+200,0,,2.5,0,0,0,SD,,0,0,Bryan Walters,0,2,0,25,0,0,0,JAC
+201,0,,2.0,0,0,0,@SF,,0,0,Jaron Brown,0,2,0,20,0,0,0,ARI
+202,0,,2.0,0,0,0,BUF,,0,0,Chris Conley,0,2,0,20,0,0,0,KC
+203,0,,2.0,0,0,0,@DAL,,0,0,Jerricho Cotchery,0,2,0,20,0,0,0,CAR
+204,0,,2.0,0,0,0,NE,,0,0,Bennie Fowler,0,1,0,20,0,0,0,DEN
+205,0,,2.0,0,0,0,@TEN,,0,0,Andre Holmes,0,2,0,20,0,0,0,OAK
+206,0,,2.0,0,0,0,PHI,,0,0,Lance Moore,0,2,0,20,0,0,0,DET
+207,0,,2.0,0,0,0,@SF,,0,0,J.J. Nelson,0,2,0,20,0,0,0,ARI
+208,0,,2.0,0,0,0,@NYJ,,0,0,Kenny Stills,0,2,0,20,0,0,0,MIA
+209,0,,2.0,0,0,0,@CIN,,0,0,Wes Welker,0,2,0,20,0,0,0,STL
+210,0,,2.0,0,0,0,@SEA,,0,0,Markus Wheaton,0,1,0,20,0,0,0,PIT
+211,0,,1.5,0,0,0,BAL,,0,0,Dwayne Bowe,0,1,0,15,0,0,0,CLE
+212,0,,,0,0,0,,,0,0,Receiving,0,,,,0,0,0,Fantasy
+213,0,,TD,0,0,0,Team,,0,0,Chg,0,Opp,Yard,Rec,0,0,0,"Player
+Sort First: 
+
+
+
+		Last:"
+214,0,,13.0,0,0,0,@DEN,,0,0,Rob Gronkowski,0,6,1,70,0,0,0,NE
+215,0,,12.5,0,0,0,@DAL,,0,0,Greg Olsen,0,6,1,65,0,0,0,CAR
+216,0,,12.5,0,0,0,OAK,,0,0,Delanie Walker,0,6,1,65,0,0,0,TEN
+217,0,,12.0,0,0,0,BAL,,0,0,Gary Barnidge,0,6,1,60,0,0,0,CLE
+218,0,,12.0,0,0,0,NYG,,0,0,Jordan Reed,0,5,1,60,0,0,0,WAS
+219,0,,11.5,0,0,0,@JAC,,0,0,Antonio Gates,0,5,1,55,0,0,0,SD
+220,0,,11.5,0,0,0,PIT,,0,0,Jimmy Graham,0,5,1,55,0,0,0,SEA
+221,0,,11.5,0,0,0,BUF,,0,0,Travis Kelce,0,5,1,55,0,0,0,KC
+222,0,,11.5,0,0,0,@SEA,,0,0,Heath Miller,0,5,1,55,0,0,0,PIT
+223,0,,11.0,0,0,0,STL,,0,0,Tyler Eifert,0,5,1,50,0,0,0,CIN
+224,0,,10.5,0,0,0,@DET,,0,0,Brent Celek,0,5,1,45,0,0,0,PHI
+225,0,,10.5,0,0,0,@CLE,,0,0,Crockett Gillmore,0,4,1,45,0,0,0,BAL
+226,0,,10.0,0,0,0,CHI,,0,0,Richard Rodgers,0,4,1,40,0,0,0,GB
+227,0,,10.0,0,0,0,@HOU,,0,0,Ben Watson,0,4,1,40,0,0,0,NO
+228,0,,5.5,0,0,0,MIN,,0,0,Jacob Tamme,0,5,0,55,0,0,0,ATL
+229,0,,5.0,0,0,0,@GB,,0,0,Zach Miller,0,5,0,50,0,0,0,CHI
+230,0,,4.5,0,0,0,PHI,,0,0,Eric Ebron,0,3,0,45,0,0,0,DET
+231,0,,4.5,0,0,0,CAR,,0,0,Jason Witten,0,4,0,45,0,0,0,DAL
+232,0,,4.0,0,0,0,@KC,,0,0,Charles Clay,0,4,0,40,0,0,0,BUF
+233,0,,4.0,0,0,0,SD,,0,0,Julius Thomas,0,4,0,40,0,0,0,JAC
+234,0,,3.5,0,0,0,TB,,0,0,Coby Fleener,0,3,0,35,0,0,0,IND
+235,0,,3.0,0,0,0,@NYJ,,0,0,Jordan Cameron,0,3,0,30,0,0,0,MIA
+236,0,,3.0,0,0,0,ARI,,0,0,Garrett Celek,0,3,0,30,0,0,0,SF
+237,0,,3.0,0,0,0,@CIN,,0,0,Jared Cook,0,3,0,30,0,0,0,STL
+238,0,,3.0,0,0,0,NE,,0,0,Vernon Davis,0,3,0,30,0,0,0,DEN
+239,0,,3.0,0,0,0,NO,,0,0,Ryan Griffin,0,3,0,30,0,0,0,HOU
+240,0,,3.0,0,0,0,@ATL,,0,0,Kyle Rudolph,0,3,0,30,0,0,0,MIN
+241,0,,2.5,0,0,0,NE,,0,0,Owen Daniels,0,2,0,25,0,0,0,DEN
+242,0,,2.5,0,0,0,@JAC,,0,0,Ladarius Green,0,2,0,25,0,0,0,SD
+243,0,,2.5,0,0,0,@IND,,0,0,Brandon Myers,0,2,0,25,0,0,0,TB
+244,0,,2.0,0,0,0,TB,,0,0,Dwayne Allen,0,2,0,20,0,0,0,IND
+245,0,,2.0,0,0,0,@SF,,0,0,Jermaine Gresham,0,2,0,20,0,0,0,ARI
+246,0,,2.0,0,0,0,@TEN,,0,0,Mychal Rivera,0,2,0,20,0,0,0,OAK
+247,0,,2.0,0,0,0,@WAS,,0,0,Will Tye,0,2,0,20,0,0,0,NYG
+248,0,,2.0,0,0,0,@CLE,,0,0,Maxx Williams,0,2,0,20,0,0,0,BAL
+249,0,,1.0,0,0,0,@DEN,,0,0,Scott Chandler,0,1,0,10,0,0,0,NE
+250,0,,1.0,0,0,0,@DAL,,0,0,Ed Dickson,0,1,0,10,0,0,0,CAR
+251,0,,1.0,0,0,0,CAR,,0,0,Gavin Escobar,0,1,0,10,0,0,0,DAL
+252,0,,1.0,0,0,0,@SF,,0,0,Darren Fells,0,1,0,10,0,0,0,ARI
+253,0,,1.0,0,0,0,@TEN,,0,0,Clive Walford,0,1,0,10,0,0,0,OAK
+254,0,,0.5,0,0,0,MIA,,0,0,Jeff Cumberland,0,1,0,5,0,0,0,NYJ

@@ -1,0 +1,277 @@
+,Unnamed: 0,player,cbs,dk_name
+0,6,Joe Flacco,16.22,Joe Flacco
+1,8,Andy Dalton,16.74,Andy Dalton
+2,9,Ryan Tannehill,17.12,Ryan Tannehill
+3,11,Alex Smith,15.06,Alex Smith
+4,14,Josh McCown,14.76,Josh McCown
+5,15,Matthew Stafford,23.91,Matthew Stafford
+6,18,Drew Brees,24.12,NaN
+7,20,Philip Rivers,14.47,Philip Rivers
+8,23,Peyton Manning,16.64,Peyton Manning
+9,25,Eli Manning,15.83,Eli Manning
+10,28,Tom Brady,23.23,Tom Brady
+11,29,Jay Cutler,14.53,Jay Cutler
+12,30,Cam Newton,16.42,Cam Newton
+13,34,Chad Henne,2.058,Chad Henne
+14,38,Aaron Rodgers,23.3,Aaron Rodgers
+15,39,Russell Wilson,19.1,Russell Wilson
+16,42,Mike Vick,13.53,Mike Vick
+17,43,Brian Hoyer,15.37,Brian Hoyer
+18,47,Sam Bradford,18.08,Sam Bradford
+19,51,EJ Manuel,12.58,EJ Manuel
+20,52,Matt Ryan,22.86,NaN
+21,55,Teddy Bridgewater,16.05,Teddy Bridgewater
+22,57,Colin Kaepernick,17.65,Colin Kaepernick
+23,58,Ryan Fitzpatrick,20.73,Ryan Fitzpatrick
+24,59,Carson Palmer,22.5,Carson Palmer
+25,64,Kirk Cousins,11.41,Kirk Cousins
+26,69,Andrew Luck,19.86,Andrew Luck
+27,70,Blake Bortles,14.0,Blake Bortles
+28,72,Marcus Mariota,16.54,Marcus Mariota
+29,77,Jeremy Langford,4.53,Jeremy Langford
+30,78,Jonathan Stewart,8.68,Jonathan Stewart
+31,79,Antonio Andrews,7.52,Antonio Andrews
+32,81,DeAngelo Williams,2.39,DeAngelo Williams
+33,83,DeMarco Murray,15.79,DeMarco Murray
+34,84,Alfred Blue,7.85,Alfred Blue
+35,85,Andre Williams,5.24,Andre Williams
+36,88,Carlos Hyde,13.04,Carlos Hyde
+37,89,Ryan Mathews,12.12,Ryan Mathews
+38,90,Giovani Bernard,13.99,Giovani Bernard
+39,91,Jalston Fowler,1.91,Jalston Fowler
+40,94,Tevin Coleman,6.83,NaN
+41,96,LeSean McCoy,11.36,LeSean McCoy
+42,97,Marshawn Lynch,16.17,Marshawn Lynch
+43,98,Will Johnson,2.61,Will Johnson
+44,99,Branden Oliver,2.04,Branden Oliver
+45,100,Zach Line,2.42,Zach Line
+46,101,Arian Foster,18.15,Arian Foster
+47,104,Ameer Abdullah,12.42,Ameer Abdullah
+48,105,Eddie Lacy,15.76,Eddie Lacy
+49,107,James Starks,8.08,James Starks
+50,108,Lamar Miller,10.28,Lamar Miller
+51,109,Devonta Freeman,20.81,NaN
+52,110,Melvin Gordon,11.28,Melvin Gordon
+53,111,Thomas Rawls,8.92,Thomas Rawls
+54,112,Toby Gerhart,6.85,Toby Gerhart
+55,113,Anthony Sherman,1.99,Anthony Sherman
+56,114,Zach Zenner,6.17,Zach Zenner
+57,115,Tommy Bohanon,1.68,Tommy Bohanon
+58,116,Mike Tolbert,4.69,Mike Tolbert
+59,117,Jeremy Hill,10.23,Jeremy Hill
+60,118,Shane Vereen,9.95,Shane Vereen
+61,119,Dexter McCluster,6.6,Dexter McCluster
+62,120,Joique Bell,6.01,Joique Bell
+63,121,Mike Davis,4.96,Mike Davis
+64,124,Ahmad Bradshaw,7.14,NaN
+65,125,Jarryd Hayne,3.96,Jarryd Hayne
+66,126,Dan Herron,6.61,Daniel Herron
+67,127,Mark Ingram,14.42,NaN
+68,130,Bruce Miller,3.27,Bruce Miller
+69,132,Matt Forte,17.62,Matt Forte
+70,134,Chris Johnson,13.18,Chris Johnson
+71,135,Jerick McKinnon,2.75,Jerick McKinnon
+72,136,Khiry Robinson,7.62,NaN
+73,137,Zac Stacy,3.84,Zac Stacy
+74,138,Damien Williams,4.83,Damien Williams
+75,139,John Kuhn,3.3,John Kuhn
+76,140,Austin Johnson,2.99,NaN
+77,141,Alfred Morris,7.49,Alfred Morris
+78,142,Dion Lewis,16.36,Dion Lewis
+79,143,Justin Forsett,12.6,Justin Forsett
+80,144,Kyle Juszczyk,3.45,Kyle Juszczyk
+81,145,Rashad Jennings,10.99,Rashad Jennings
+82,148,Isaiah Crowell,10.05,Isaiah Crowell
+83,149,Charcandrick West,10.32,Charcandrick West
+84,150,C.J. Anderson,10.06,C.J. Anderson
+85,151,Javorius Allen,7.63,Javorius Allen
+86,152,Darren Sproles,9.98,Darren Sproles
+87,153,Chris Ivory,13.27,Chris Ivory
+88,154,Ronnie Hillman,8.47,Ronnie Hillman
+89,155,C.J. Spiller,10.22,NaN
+90,157,Patrick DiMarco,1.55,NaN
+91,158,Le'Veon Bell,17.76,Le'Veon Bell
+92,159,LeGarrette Blount,12.51,LeGarrette Blount
+93,160,Matt Jones,6.74,Matt Jones
+94,164,Frank Gore,11.34,Frank Gore
+95,165,Josh Robinson,3.5,Josh Robinson
+96,169,Danny Woodhead,10.17,Danny Woodhead
+97,170,Shaun Draughn,2.35,Shaun Draughn
+98,171,Derrick Coleman,1.27,Derrick Coleman
+99,172,Adrian Peterson,17.39,Adrian Peterson
+100,173,Andre Ellington,11.0,Andre Ellington
+101,174,Darrel Young,2.16,Darrel Young
+102,178,Anthony Dixon,2.59,NaN
+103,179,Knile Davis,7.64,Knile Davis
+104,181,David Johnson,8.21,David Johnson
+105,182,Chris Thompson,7.01,Chris Thompson
+106,183,Jay Prosch,1.08,Jay Prosch
+107,184,Jonas Gray,5.66,Jonas Gray
+108,185,Bilal Powell,10.96,Bilal Powell
+109,187,Juwan Thompson,3.79,Juwan Thompson
+110,193,T.J. Yeldon,11.07,T.J. Yeldon
+111,196,Theo Riddick,6.08,Theo Riddick
+112,198,Denard Robinson,9.88,Denard Robinson
+113,199,Bishop Sankey,9.09,Bishop Sankey
+114,200,Duke Johnson,9.54,Duke Johnson Jr.
+115,201,Jerome Felton,1.02,Jerome Felton
+116,206,Phillip Dorsett,6.01,Phillip Dorsett
+117,208,Stefon Diggs,3.6,Stefon Diggs
+118,209,Marquess Wilson,7.75,Marquess Wilson
+119,210,Markus Wheaton,4.84,Markus Wheaton
+120,211,Larry Fitzgerald,18.12,Larry Fitzgerald
+121,212,Andre Johnson,11.63,Andre Johnson
+122,213,Jeremy Maclin,15.58,Jeremy Maclin
+123,217,Nate Washington,8.09,Nate Washington
+124,218,Cordarrelle Patterson,2.97,Cordarrelle Patterson
+125,219,Cecil Shorts,7.92,Cecil Shorts III
+126,221,Kendall Wright,11.19,Kendall Wright
+127,222,DeSean Jackson,5.36,DeSean Jackson
+128,223,Jerricho Cotchery,7.66,Jerricho Cotchery
+129,226,Chris Givens,4.38,Chris Givens
+130,228,Pierre Garcon,11.72,Pierre Garcon
+131,229,Rueben Randle,9.98,Rueben Randle
+132,230,Julio Jones,19.16,NaN
+133,231,Jordan Norwood,3.93,Jordan Norwood
+134,232,Doug Baldwin,11.22,Doug Baldwin
+135,233,Taylor Gabriel,5.45,Taylor Gabriel
+136,235,Brian Hartline,7.01,Brian Hartline
+137,237,Allen Robinson,13.32,Allen Robinson
+138,240,Riley Cooper,5.0,Riley Cooper
+139,241,Sammy Watkins,7.95,Sammy Watkins
+140,242,Jeremy Kerley,6.98,Jeremy Kerley
+141,243,Allen Hurns,13.25,Allen Hurns
+142,244,Andrew Hawkins,6.31,Andrew Hawkins
+143,245,Kamar Aiken,11.12,Kamar Aiken
+144,247,Jarvis Landry,13.54,Jarvis Landry
+145,248,Greg Jennings,3.55,Greg Jennings
+146,249,Kenny Stills,5.38,Kenny Stills
+147,250,Michael Floyd,9.19,Michael Floyd
+148,252,Jaron Brown,5.07,Jaron Brown
+149,253,Roddy White,9.81,NaN
+150,255,DeVante Parker,4.38,DeVante Parker
+151,258,Eric Decker,14.88,Eric Decker
+152,260,Jason Avant,4.88,Jason Avant
+153,264,Charles Johnson,6.13,Charles Johnson
+154,268,Davante Adams,8.2,Davante Adams
+155,269,Randall Cobb,18.14,Randall Cobb
+156,270,Chris Hogan,5.1,Chris Hogan
+157,271,Steve Johnson,9.39,Stevie Johnson
+158,274,Alshon Jeffery,13.9,Alshon Jeffery
+159,276,Calvin Johnson,17.62,Calvin Johnson
+160,277,Miles Austin,5.01,Miles Austin
+161,279,Corey Brown,4.04,Corey Brown
+162,280,Albert Wilson,5.05,Albert Wilson
+163,281,Justin Hunter,4.55,Justin Hunter
+164,284,Jermaine Kearse,7.73,Jermaine Kearse
+165,285,Ty Montgomery,9.38,Ty Montgomery
+166,286,Jarius Wright,6.03,Jarius Wright
+167,287,Robert Woods,6.63,Robert Woods
+168,288,Leonard Hankerson,12.4,NaN
+169,290,Tyler Lockett,6.08,Tyler Lockett
+170,292,Mike Wallace,12.7,Mike Wallace
+171,293,Malcom Floyd,6.17,Malcom Floyd
+172,294,Anquan Boldin,12.28,Anquan Boldin
+173,295,Cameron Meredith,7.47,Cameron Meredith
+174,296,Mohamed Sanu,7.13,Mohamed Sanu
+175,297,Danny Amendola,10.34,Danny Amendola
+176,298,Harry Douglas,5.75,Harry Douglas
+177,299,Odell Beckham,15.84,Odell Beckham Jr.
+178,300,Eddie Royal,8.33,Eddie Royal
+179,301,Antonio Brown,16.05,Antonio Brown
+180,302,Martavis Bryant,7.13,Martavis Bryant
+181,303,Demaryius Thomas,17.73,Demaryius Thomas
+182,304,Dwayne Harris,4.57,Dwayne Harris
+183,306,Bennie Fowler,2.89,Bennie Fowler
+184,308,Josh Huff,4.48,Josh Huff
+185,309,Jaelen Strong,8.87,Jaelen Strong
+186,311,T.Y. Hilton,16.3,T.Y. Hilton
+187,312,Brandon Marshall,21.46,Brandon Marshall
+188,313,Chris Matthews,4.4,Chris Matthews
+189,314,Emmanuel Sanders,16.29,Emmanuel Sanders
+190,317,Ryan Grant,4.29,Ryan Grant
+191,318,Lance Moore,5.02,Lance Moore
+192,319,Devin Smith,4.12,Devin Smith
+193,320,Andre Caldwell,2.85,Andre Caldwell
+194,321,Rishard Matthews,8.37,Rishard Matthews
+195,322,Dorial Green-Beckham,7.09,Dorial Green-Beckham
+196,323,Corey Fuller,4.99,Corey Fuller
+197,324,DeAndre Hopkins,19.18,DeAndre Hopkins
+198,326,Torrey Smith,9.22,Torrey Smith
+199,327,John Brown,15.16,John Brown
+200,328,Marlon Brown,5.91,Marlon Brown
+201,330,Jordan Matthews,13.41,Jordan Matthews
+202,331,Nelson Agholor,6.26,Nelson Agholor
+203,332,A.J. Green,17.73,A.J. Green
+204,333,Ted Ginn,10.7,Ted Ginn Jr.
+205,334,Darrius Heyward-Bey,5.1,Darrius Heyward-Bey
+206,337,Julian Edelman,18.88,Julian Edelman
+207,339,Donte Moncrief,9.47,Donte Moncrief
+208,340,Brandin Cooks,16.27,NaN
+209,341,Devin Funchess,5.7,Devin Funchess
+210,342,James Jones,14.79,James Jones
+211,343,Travis Benjamin,9.9,Travis Benjamin
+212,344,De'Anthony Thomas,4.51,De'Anthony Thomas
+213,346,Bruce Ellington,2.94,Bruce Ellington
+214,347,Percy Harvin,8.29,Percy Harvin
+215,348,Golden Tate,12.95,Golden Tate
+216,349,Aaron Dobson,3.81,Aaron Dobson
+217,350,Jamison Crowder,7.52,Jamison Crowder
+218,353,Quinton Patton,3.46,Quinton Patton
+219,354,Brandon Coleman,8.38,NaN
+220,355,Willie Snead,13.55,NaN
+221,356,Keenan Allen,15.33,Keenan Allen
+222,357,Marvin Jones,8.69,Marvin Jones
+223,362,Kyle Rudolph,8.57,Kyle Rudolph
+224,364,Jacob Tamme,6.25,NaN
+225,365,Charles Clay,8.42,Charles Clay
+226,366,Martellus Bennett,12.25,Martellus Bennett
+227,367,Delanie Walker,7.8,Delanie Walker
+228,368,Vance McDonald,2.99,Vance McDonald
+229,369,Antonio Gates,11.95,Antonio Gates
+230,370,Jake Stoneburner,5.51,Jake Stoneburner
+231,372,Garrett Graham,4.74,Garrett Graham
+232,373,Heath Miller,5.87,Heath Miller
+233,375,Jimmy Graham,11.52,Jimmy Graham
+234,377,Rob Gronkowski,17.52,Rob Gronkowski
+235,378,Jim Dray,3.97,Jim Dray
+236,380,Julius Thomas,12.34,Julius Thomas
+237,384,Ladarius Green,6.79,Ladarius Green
+238,385,Vernon Davis,7.52,Vernon Davis
+239,386,Gary Barnidge,10.04,Gary Barnidge
+240,387,Josh Hill,7.74,NaN
+241,390,Richard Rodgers,7.75,Richard Rodgers
+242,392,Maxx Williams,3.42,Maxx Williams
+243,396,Kellen Davis,5.45,Kellen Davis
+244,397,Crockett Gillmore,11.54,Crockett Gillmore
+245,398,Tyler Eifert,14.45,Tyler Eifert
+246,399,Jermaine Gresham,3.97,Jermaine Gresham
+247,402,Jordan Cameron,6.43,Jordan Cameron
+248,405,Owen Daniels,5.61,Owen Daniels
+249,407,Ed Dickson,3.92,Ed Dickson
+250,409,Marcedes Lewis,4.24,Marcedes Lewis
+251,410,Rhett Ellison,3.49,Rhett Ellison
+252,411,Virgil Green,5.43,Virgil Green
+253,412,James O'Shaughnessy,4.17,James O'Shaughnessy
+254,414,Zach Ertz,6.06,Zach Ertz
+255,416,Darren Fells,7.13,Darren Fells
+256,418,Brandon Pettigrew,4.0,Brandon Pettigrew
+257,420,Luke Willson,4.28,Luke Willson
+258,421,Timothy Wright,7.64,NaN
+259,422,Anthony Fasano,4.05,Anthony Fasano
+260,423,Benjamin Watson,7.04,NaN
+261,426,C.J. Fiedorowicz,3.92,C.J. Fiedorowicz
+262,427,Derek Carrier,4.06,Derek Carrier
+263,430,Rob Housler,3.97,Rob Housler
+264,431,Brent Celek,6.01,Brent Celek
+265,434,Greg Olsen,11.75,Greg Olsen
+266,435,Garrett Celek,5.52,Garrett Celek
+267,436,Travis Kelce,12.17,Travis Kelce
+268,437,Larry Donnell,7.96,Larry Donnell
+269,439,Dion Sims,3.55,Dion Sims
+270,441,Scott Chandler,4.45,Scott Chandler
+271,444,Ryan Hewitt,2.49,Ryan Hewitt
+272,445,Dwayne Allen,7.17,Dwayne Allen
+273,446,Coby Fleener,7.54,Coby Fleener
+274,447,James Casey,1.37,NaN
+275,448,Nick Boyle,7.29,Nick Boyle

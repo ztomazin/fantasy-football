@@ -1,3 +1,5 @@
+#http://www.foxsports.com/fantasy/football/commissioner/Research/Projections.aspx?page=1&position=-1&split=4
+
 
 
 import urllib2
@@ -10,16 +12,15 @@ import numpy as np
 week = raw_input("Which week?") # for ESPN, this is for the csv_output (auto-refreshes projections)
 week = str(week)
 
-dk_file = "DKweek" +week +"salaries.xlsx"
-csv_output = "fox-week" + week + ".csv"
-excel_output = "fox-week" + week + ".xlsx"
-csv_output_2 = "fox-week" + week + "-2" + ".csv"
+#dk_file = "DKweek" +week +"salaries.xlsx"
+csv_output = "weeks/week-" +week + "/fox-week" + week + ".csv"
+#excel_output = "fox-week" + week + ".xlsx"
+csv_output_2 = "weeks/week-" +week + "/fox-week" + week + "-2" + ".csv"
 data = [['player','status','pass_tds','pass_yards','pass_att','comp','int','rush_tds','rush_yards','rush_att','rec_tds','rec_yards','rec','2-pt','def_td','fl','fan_pts','punt_td','kick_td',]]
 
 url_format = 'http://www.foxsports.com/fantasy/football/commissioner/Research/Projections.aspx?page={page_num}&position=-1&split=4'
 
 page_num = 1
-
 
 for page_num in range(1,14):
 	next = str(page_num)		
@@ -43,8 +44,9 @@ for page_num in range(1,14):
 #print data
 
 
-fox = FF_scoring.scoring('fox',csv_output)
-df = pd.DataFrame(fox)
+df = pd.read_csv(csv_output)
+
+#--------------------------------------
 
 i = 0
 row_num = len(df)
@@ -55,11 +57,13 @@ for i in range(0,row_num):
 	df['player'][i] = new_player
 	i = i+ 1
 
-#print df
 
-df_2 = df[(df['fox'] > 0)]  # cleaning low scores
-df_2.to_csv(csv_output_2)
+#---------------------------------------leaving this here
 
-df = FF_scoring.get_player(csv_output_2,dk_file,86)
-df.to_csv(csv_output_2)
+#df = FF_scoring.scoring('fox',csv_output)
+#df_2 = df[(df['fox'] > 1)]  # cleaning low scores
+#df_2.to_csv(csv_output_2)
+
+#df = FF_scoring.get_player(csv_output_2,dk_file,86)
+#df.to_csv(csv_output_2)
 

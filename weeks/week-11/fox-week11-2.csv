@@ -1,0 +1,1050 @@
+,Unnamed: 0,player,fox,dk_name
+0,0,"Russell Wilson
+
+
+(Sea - QB)",22.09,Russell Wilson
+1,1,"Derek Carr
+
+
+(Oak - QB)",24.678,Derek Carr
+2,2,"Philip Rivers
+
+
+(SD - QB)",23.714,Philip Rivers
+3,3,"Alex Smith
+
+
+(KC - QB)",20.566,Alex Smith
+4,4,"Matt Ryan
+
+
+(Atl - QB)",23.698,Matt Ryan
+5,5,"Ryan Tannehill
+
+
+(Mia - QB)",19.686,Ryan Tannehill
+6,6,"Cam Newton
+
+
+(Car - QB)",19.534,Cam Newton
+7,7,"Mark Sanchez
+
+
+(Phi - QB)",22.978,Mark Sanchez
+8,8,"Aaron Rodgers
+
+
+
+(GB - QB)",18.978,Aaron Rodgers
+9,9,"Charcandrick West
+
+
+(KC - RB)",21.14,Charcandrick West
+10,10,"Marcus Mariota
+
+
+(Ten - QB)",18.094,Marcus Mariota
+11,11,"Adrian Peterson
+
+
+
+(Min - RB)",22.75,Adrian Peterson
+12,12,"Blake Bortles
+
+
+(Jac - QB)",17.902,Blake Bortles
+13,13,"Darren McFadden
+
+
+
+(Dal - RB)",21.87,Darren McFadden
+14,14,"Jameis Winston
+
+
+(TB - QB)",18.268,Jameis Winston
+15,15,"Devonta Freeman
+
+
+(Atl - RB)",21.82,Devonta Freeman
+16,16,"Matt Hasselbeck
+
+
+(Ind - QB)",18.424,Matt Hasselbeck
+17,17,"Tom Brady
+
+
+(NE - QB)",17.636,Tom Brady
+18,18,"Brock Osweiler
+
+
+(Den - QB)",17.154,Brock Osweiler
+19,19,"Joe Flacco
+
+
+(Bal - QB)",17.236,Joe Flacco
+20,20,"Case Keenum
+
+
+(StL - QB)",16.784,Case Keenum
+21,21,"Jonathan Stewart
+
+
+(Car - RB)",17.87,Jonathan Stewart
+22,22,"Carson Palmer
+
+
+(Ari - QB)",16.812,Carson Palmer
+23,23,"Matthew Stafford
+
+
+(Det - QB)",16.726,Matthew Stafford
+24,24,"Jay Cutler
+
+
+(Chi - QB)",16.42,Jay Cutler
+25,25,"DeMarco Murray
+
+
+(Phi - RB)",20.15,DeMarco Murray
+26,26,"Todd Gurley
+
+
+(StL - RB)",17.42,Todd Gurley
+27,27,"Marshawn Lynch
+
+
+
+(Sea - RB)",16.64,Marshawn Lynch
+28,28,"Blaine Gabbert
+
+
+(SF - QB)",15.498,Blaine Gabbert
+29,29,"Tyrod Taylor
+
+
+(Buf - QB)",15.488,Tyrod Taylor
+30,30,"Chris Ivory
+
+
+(NYJ - RB)",14.78,Chris Ivory
+31,31,"Teddy Bridgewater
+
+
+
+(Min - QB)",14.964,Teddy Bridgewater
+32,32,"Justin Forsett
+
+
+(Bal - RB)",16.99,Justin Forsett
+33,33,"Latavius Murray
+
+
+(Oak - RB)",17.02,Latavius Murray
+34,34,"Andy Dalton
+
+
+(Cin - QB)",14.744,Andy Dalton
+35,35,"Lamar Miller
+
+
+(Mia - RB)",16.57,Lamar Miller
+36,36,"Mike Evans
+
+
+(TB - WR)",22.76,Mike Evans
+37,37,"Chris Johnson
+
+
+(Ari - RB)",14.87,Chris Johnson
+38,38,"Melvin Gordon
+
+
+(SD - RB)",15.26,Melvin Gordon
+39,39,"LeGarrette Blount
+
+
+(NE - RB)",12.87,LeGarrette Blount
+40,40,"T.J. Yates
+
+
+(Hou - QB)",13.3,T.J. Yates
+41,41,"Julio Jones
+
+
+(Atl - WR)",18.6,Julio Jones
+42,42,"Doug Martin
+
+
+(TB - RB)",14.72,Doug Martin
+43,43,"T.J. Yeldon
+
+
+
+(Jac - RB)",13.9,T.J. Yeldon
+44,44,"Dez Bryant
+
+
+
+(Dal - WR)",17.74,Dez Bryant
+45,45,"Frank Gore
+
+
+(Ind - RB)",14.29,Frank Gore
+46,46,"Jeremy Langford
+
+
+(Chi - RB)",16.79,Jeremy Langford
+47,47,"LeSean McCoy
+
+
+(Buf - RB)",14.55,LeSean McCoy
+48,48,"Ronnie Hillman
+
+
+
+(Den - RB)",13.37,Ronnie Hillman
+49,49,"Ryan Fitzpatrick
+
+
+
+(NYJ - QB)",12.138,Ryan Fitzpatrick
+50,50,"Jeremy Maclin
+
+
+(KC - WR)",16.4,Jeremy Maclin
+51,51,"Larry Fitzgerald
+
+
+
+(Ari - WR)",16.53,Larry Fitzgerald
+52,52,"Giovani Bernard
+
+
+(Cin - RB)",12.74,Giovani Bernard
+53,53,"Michael Crabtree
+
+
+(Oak - WR)",15.76,Michael Crabtree
+54,54,"Anquan Boldin
+
+
+
+(SF - WR)",15.54,Anquan Boldin
+55,55,"Kamar Aiken
+
+
+(Bal - WR)",15.57,Kamar Aiken
+56,56,"Kirk Cousins
+
+
+(Was - QB)",11.656,Kirk Cousins
+57,57,"Alshon Jeffery
+
+
+
+(Chi - WR)",15.78,Alshon Jeffery
+58,58,"Jordan Matthews
+
+
+(Phi - WR)",15.62,Jordan Matthews
+59,59,"Rob Gronkowski
+
+
+(NE - TE)",15.67,Rob Gronkowski
+60,60,"Amari Cooper
+
+
+(Oak - WR)",15.54,Amari Cooper
+61,61,"James Starks
+
+
+(GB - RB)",12.89,James Starks
+62,62,"Randall Cobb
+
+
+(GB - WR)",15.5,Randall Cobb
+63,63,"Calvin Johnson
+
+
+
+(Det - WR)",14.82,Calvin Johnson
+64,64,"A.J. Green
+
+
+(Cin - WR)",13.99,A.J. Green
+65,65,"Demaryius Thomas
+
+
+(Den - WR)",14.84,Demaryius Thomas
+66,66,"Joique Bell
+
+
+
+(Det - RB)",11.67,Joique Bell
+67,67,"Stevie Johnson
+
+
+(SD - WR)",14.54,Stevie Johnson
+68,68,"Danny Woodhead
+
+
+(SD - RB)",13.15,Danny Woodhead
+69,69,"T.Y. Hilton
+
+
+(Ind - WR)",14.15,T.Y. Hilton
+70,70,"Danny Amendola
+
+
+(NE - WR)",14.89,Danny Amendola
+71,71,"Harry Douglas
+
+
+(Ten - WR)",14.06,Harry Douglas
+72,72,"Brandon Marshall
+
+
+
+(NYJ - WR)",14.23,Brandon Marshall
+73,73,"Brandon LaFell
+
+
+(NE - WR)",14.38,Brandon LaFell
+74,74,"Jason Witten
+
+
+(Dal - TE)",14.92,Jason Witten
+75,75,"Allen Hurns
+
+
+
+(Jac - WR)",13.75,Allen Hurns
+76,76,"Allen Robinson
+
+
+(Jac - WR)",13.53,Allen Robinson
+77,77,"Riley Cooper
+
+
+(Phi - WR)",12.38,Riley Cooper
+78,78,"DeSean Jackson
+
+
+(Was - WR)",12.53,DeSean Jackson
+79,79,"DeAndre Hopkins
+
+
+
+(Hou - WR)",13.04,DeAndre Hopkins
+80,80,"Golden Tate
+
+
+(Det - WR)",13.27,Golden Tate
+81,81,"C.J. Anderson
+
+
+(Den - RB)",10.08,C.J. Anderson
+82,82,"Antonio Gates
+
+
+
+(SD - TE)",13.36,Antonio Gates
+83,83,"Jarvis Landry
+
+
+(Mia - WR)",13.58,Jarvis Landry
+84,84,"Doug Baldwin
+
+
+
+(Sea - WR)",12.01,Doug Baldwin
+85,85,"Davante Adams
+
+
+(GB - WR)",12.54,Davante Adams
+86,86,"Alfred Blue
+
+
+(Hou - RB)",9.82,Alfred Blue
+87,87,"Leonard Hankerson
+
+
+
+(Atl - WR)",12.45,Leonard Hankerson
+88,88,"Rishard Matthews
+
+
+(Mia - WR)",11.91,Rishard Matthews
+89,89,"Travis Kelce
+
+
+
+(KC - TE)",12.33,Travis Kelce
+90,90,"Jeremy Hill
+
+
+(Cin - RB)",9.01,Jeremy Hill
+91,91,"James Jones
+
+
+
+(GB - WR)",11.49,James Jones
+92,92,"John Brown
+
+
+
+(Ari - WR)",12.14,John Brown
+93,93,"Jimmy Graham
+
+
+(Sea - TE)",12.04,Jimmy Graham
+94,94,"Nate Washington
+
+
+
+(Hou - WR)",11.68,Nate Washington
+95,95,"Stefon Diggs
+
+
+(Min - WR)",11.26,Stefon Diggs
+96,96,"Emmanuel Sanders
+
+
+
+(Den - WR)",11.95,Emmanuel Sanders
+97,97,"Jared Cook
+
+
+(StL - TE)",12.42,Jared Cook
+98,98,"Andre Johnson
+
+
+(Ind - WR)",10.96,Andre Johnson
+99,99,"Roddy White
+
+
+(Atl - WR)",11.01,Roddy White
+100,100,"Dorial Green-Beckham
+
+
+(Ten - WR)",12.06,Dorial Green-Beckham
+101,101,"Delanie Walker
+
+
+(Ten - TE)",11.93,Delanie Walker
+102,102,"Torrey Smith
+
+
+(SF - WR)",10.87,Torrey Smith
+103,103,"Sammy Watkins
+
+
+(Buf - WR)",11.8,Sammy Watkins
+104,104,"Eric Decker
+
+
+
+(NYJ - WR)",11.86,Eric Decker
+105,105,"Jacob Tamme
+
+
+(Atl - TE)",11.4,Jacob Tamme
+106,106,"Mike Wallace
+
+
+(Min - WR)",10.86,Mike Wallace
+107,107,"Jordan Cameron
+
+
+(Mia - TE)",10.7,Jordan Cameron
+108,108,"Robert Woods
+
+
+(Buf - WR)",11.27,Robert Woods
+109,109,"Seth Roberts
+
+
+(Oak - WR)",10.44,Seth Roberts
+110,110,"Donte Moncrief
+
+
+(Ind - WR)",11.32,Donte Moncrief
+111,111,"Greg Olsen
+
+
+(Car - TE)",10.76,Greg Olsen
+112,112,"De'Anthony Thomas
+
+
+(KC - RB)",10.4,De'Anthony Thomas
+113,113,"Jermaine Kearse
+
+
+(Sea - WR)",9.93,Jermaine Kearse
+114,114,"Chris Givens
+
+
+(Bal - WR)",9.73,Chris Givens
+115,115,"Charles Clay
+
+
+(Buf - TE)",10.93,Charles Clay
+116,116,"Zach Ertz
+
+
+(Phi - TE)",10.28,Zach Ertz
+117,117,"Marquess Wilson
+
+
+(Chi - WR)",10.31,Marquess Wilson
+118,118,"Kenny Stills
+
+
+(Mia - WR)",9.17,Kenny Stills
+119,119,"Martellus Bennett
+
+
+(Chi - TE)",10.15,Martellus Bennett
+120,120,"Terrance Williams
+
+
+(Dal - WR)",9.64,Terrance Williams
+121,121,"Marvin Jones
+
+
+(Cin - WR)",9.39,Marvin Jones
+122,122,"Coby Fleener
+
+
+(Ind - TE)",10.22,Coby Fleener
+123,123,"Dontrelle Inman
+
+
+(SD - WR)",9.37,Dontrelle Inman
+124,124,"Jerricho Cotchery
+
+
+(Car - WR)",9.14,Jerricho Cotchery
+125,125,"Eddie Lacy
+
+
+
+(GB - RB)",7.32,Eddie Lacy
+126,126,"Jaron Brown
+
+
+(Ari - WR)",9.53,Jaron Brown
+127,127,"Kenny Britt
+
+
+(StL - WR)",8.65,Kenny Britt
+128,128,"Antonio Andrews
+
+
+(Ten - RB)",6.6,Antonio Andrews
+129,129,"Andre Ellington
+
+
+(Ari - RB)",7.56,Andre Ellington
+130,130,"Tyler Eifert
+
+
+(Cin - TE)",9.15,Tyler Eifert
+131,131,"Brian Quick
+
+
+(StL - WR)",8.68,Brian Quick
+132,132,"Jordan Reed
+
+
+(Was - TE)",9.83,Jordan Reed
+133,133,"Cecil Shorts III
+
+
+(Hou - WR)",8.84,Cecil Shorts III
+134,134,"Jonathan Grimes
+
+
+(Hou - RB)",6.84,Jonathan Grimes
+135,135,"Jamison Crowder
+
+
+(Was - WR)",9.7,Jamison Crowder
+136,136,"Eric Ebron
+
+
+(Det - TE)",8.76,Eric Ebron
+137,137,"Tavon Austin
+
+
+(StL - WR)",8.41,Tavon Austin
+138,138,"Crockett Gillmore
+
+
+(Bal - TE)",8.83,Crockett Gillmore
+139,139,"Kyle Rudolph
+
+
+(Min - TE)",8.42,Kyle Rudolph
+140,140,"Denard Robinson
+
+
+(Jac - RB)",7.45,Denard Robinson
+141,141,"Matt Jones
+
+
+(Was - RB)",6.21,Matt Jones
+142,142,"Bryan Walters
+
+
+
+(Jac - WR)",7.53,Bryan Walters
+143,143,"Darren Sproles
+
+
+(Phi - RB)",6.83,Darren Sproles
+144,144,"Marc Mariani
+
+
+(Chi - WR)",7.31,Marc Mariani
+145,145,"Wes Welker
+
+
+(StL - WR)",6.83,Wes Welker
+146,146,"Richard Rodgers
+
+
+(GB - TE)",8.15,Richard Rodgers
+147,147,"Charles Sims
+
+
+(TB - RB)",6.13,Charles Sims
+148,148,"Aaron Dobson
+
+
+(NE - WR)",7.79,Aaron Dobson
+149,149,"Knile Davis
+
+
+(KC - RB)",5.26,Knile Davis
+150,150,"Darren Fells
+
+
+(Ari - TE)",7.54,Darren Fells
+151,151,"Jay Ajayi
+
+
+(Mia - RB)",5.0,Jay Ajayi
+152,152,"Chris Matthews
+
+
+(Sea - WR)",6.7,Chris Matthews
+153,153,"Brandon Myers
+
+
+(TB - TE)",7.95,Brandon Myers
+154,154,"Pierre Garcon
+
+
+(Was - WR)",8.03,Pierre Garcon
+155,155,"Julius Thomas
+
+
+
+(Jac - TE)",7.57,Julius Thomas
+156,156,"Lance Moore
+
+
+(Det - WR)",6.88,Lance Moore
+157,157,"Adam Humphries
+
+
+(TB - WR)",7.38,Adam Humphries
+158,158,"Ted Ginn Jr.
+
+
+(Car - WR)",7.07,Ted Ginn Jr.
+159,159,"Devin Funchess
+
+
+(Car - WR)",6.67,Devin Funchess
+160,160,"Rico Richardson
+
+
+(Ten - WR)",7.21,Rico Richardson
+161,161,"Donteea Dye
+
+
+(TB - WR)",6.83,Donteea Dye
+162,162,"Andre Holmes
+
+
+(Oak - WR)",6.5,Andre Holmes
+163,163,"Owen Daniels
+
+
+
+(Den - TE)",8.09,Owen Daniels
+164,164,"Ka'Deem Carey
+
+
+(Chi - RB)",5.12,Ka'Deem Carey
+165,165,"Mohamed Sanu
+
+
+(Cin - WR)",6.29,Mohamed Sanu
+166,166,"Shaun Draughn
+
+
+(SF - RB)",5.6,Shaun Draughn
+167,167,"Theo Riddick
+
+
+(Det - RB)",6.06,Theo Riddick
+168,168,"Karlos Williams
+
+
+
+(Buf - RB)",4.12,Karlos Williams
+169,169,"Tre Mason
+
+
+(StL - RB)",5.18,Tre Mason
+170,170,"Nelson Agholor
+
+
+(Phi - WR)",6.01,Nelson Agholor
+171,171,"Albert Wilson
+
+
+(KC - WR)",6.32,Albert Wilson
+172,172,"Javorius Allen
+
+
+(Bal - RB)",4.21,Javorius Allen
+173,173,"Jarius Wright
+
+
+(Min - WR)",5.58,Jarius Wright
+174,174,"Jeremy Ross
+
+
+(Oak - WR)",5.42,Jeremy Ross
+175,175,"Russell Shepard
+
+
+(TB - WR)",5.55,Russell Shepard
+176,176,"Garrett Celek
+
+
+(SF - TE)",6.51,Garrett Celek
+177,177,"Ryan Griffin
+
+
+(Hou - TE)",5.68,Ryan Griffin
+178,178,"Tevin Coleman
+
+
+(Atl - RB)",4.14,Tevin Coleman
+179,179,"Mychal Rivera
+
+
+(Oak - TE)",5.94,Mychal Rivera
+180,180,"Dwayne Allen
+
+
+(Ind - TE)",6.13,Dwayne Allen
+181,181,"Brent Celek
+
+
+(Phi - TE)",5.57,Brent Celek
+182,182,"Griff Whalen
+
+
+(Ind - WR)",5.25,Griff Whalen
+183,183,"Marlon Brown
+
+
+(Bal - WR)",5.5,Marlon Brown
+184,184,"Bilal Powell
+
+
+
+(NYJ - RB)",3.93,Bilal Powell
+185,185,"Alfred Morris
+
+
+
+(Was - RB)",3.75,Alfred Morris
+186,186,"Ameer Abdullah
+
+
+(Det - RB)",3.9,Ameer Abdullah
+187,187,"Anthony Fasano
+
+
+(Ten - TE)",5.4,Anthony Fasano
+188,188,"Justin Hardy
+
+
+(Atl - WR)",4.92,Justin Hardy
+189,189,"Luke Willson
+
+
+
+(Sea - TE)",4.75,Luke Willson
+190,190,"Ahmad Bradshaw
+
+
+(Ind - RB)",4.65,Ahmad Bradshaw
+191,191,"Quinton Patton
+
+
+(SF - WR)",5.33,Quinton Patton
+192,192,"Cole Beasley
+
+
+(Dal - WR)",4.99,Cole Beasley
+193,193,"Jeremy Kerley
+
+
+(NYJ - WR)",4.92,Jeremy Kerley
+194,194,"Cody Latimer
+
+
+(Den - WR)",4.61,Cody Latimer
+195,195,"Brandon Bolden
+
+
+(NE - RB)",4.23,Brandon Bolden
+196,196,"Vernon Davis
+
+
+(Den - TE)",5.16,Vernon Davis
+197,197,"Matt Asiata
+
+
+
+(Min - RB)",3.57,Matt Asiata
+198,198,"Marcedes Lewis
+
+
+(Jac - TE)",4.57,Marcedes Lewis
+199,199,"Scott Chandler
+
+
+(NE - TE)",4.63,Scott Chandler
+200,200,"Scott Chandler
+
+
+(NE - TE)",4.63,Scott Chandler
+201,201,"Jermaine Gresham
+
+
+(Ari - TE)",4.53,Jermaine Gresham
+202,202,"Clive Walford
+
+
+(Oak - TE)",4.69,Clive Walford
+203,203,"Chris Thompson
+
+
+(Was - RB)",4.57,Chris Thompson
+204,204,"Mike Tolbert
+
+
+(Car - RB)",3.47,Mike Tolbert
+205,205,"Greg Jennings
+
+
+(Mia - WR)",3.38,Greg Jennings
+206,206,"Thomas Rawls
+
+
+(Sea - RB)",2.95,Thomas Rawls
+207,207,"Kyle Juszczyk
+
+
+(Bal - RB)",4.79,Kyle Juszczyk
+208,208,"Ed Dickson
+
+
+(Car - TE)",3.77,Ed Dickson
+209,209,"Zach Miller
+
+
+(Chi - TE)",3.85,Zach Miller
+210,210,"Marcel Reece
+
+
+(Oak - RB)",3.91,Marcel Reece
+211,211,"Maxx Williams
+
+
+(Bal - TE)",3.52,Maxx Williams
+212,212,"Jeff Cumberland
+
+
+(NYJ - TE)",4.05,Jeff Cumberland
+213,213,"Jerome Simpson
+
+
+(SF - WR)",2.96,Jerome Simpson
+214,214,"Javontee Herndon
+
+
+(SD - WR)",3.22,Javontee Herndon
+215,215,"Brandon Pettigrew
+
+
+(Det - TE)",3.27,Brandon Pettigrew
+216,216,"Andre Caldwell
+
+
+(Den - WR)",2.82,Andre Caldwell
+217,217,"Dion Sims
+
+
+(Mia - TE)",3.47,Dion Sims
+218,218,"Corey Brown
+
+
+
+(Car - WR)",3.07,Corey Brown
+219,219,"Marqise Lee
+
+
+
+(Jac - WR)",2.89,Marqise Lee
+220,220,"Jamize Olawale
+
+
+(Oak - RB)",3.1,Jamize Olawale
+221,221,"Lance Kendricks
+
+
+(StL - TE)",3.47,Lance Kendricks
+222,222,"Josh Huff
+
+
+
+(Phi - WR)",2.78,Josh Huff
+223,223,"J.J. Nelson
+
+
+(Ari - WR)",2.92,J.J. Nelson
+224,224,"Donald Brown
+
+
+(SD - RB)",2.17,Donald Brown
+225,225,"Kenbrell Thompkins
+
+
+(NYJ - WR)",2.84,Kenbrell Thompkins
+226,226,"David Johnson
+
+
+(Ari - RB)",2.03,David Johnson
+227,227,"Robert Turbin
+
+
+(Dal - RB)",1.86,NaN
+228,228,"Chris Hogan
+
+
+(Buf - WR)",2.57,Chris Hogan
+229,229,"Vance McDonald
+
+
+(SF - TE)",2.79,Vance McDonald
+230,230,"Charles Johnson
+
+
+(Min - WR)",2.56,Charles Johnson
+231,231,"Rhett Ellison
+
+
+(Min - TE)",2.74,Rhett Ellison
+232,232,"Chris Conley
+
+
+(KC - WR)",2.41,Chris Conley
+233,233,"Marcus Easley
+
+
+(Buf - WR)",1.84,Marcus Easley
+234,234,"Keith Mumphery
+
+
+(Hou - WR)",2.37,Keith Mumphery
+235,235,"Lee Smith
+
+
+
+(Oak - TE)",2.2,Lee Smith
+236,236,"James White
+
+
+(NE - RB)",1.71,James White
+237,237,"James Hanna
+
+
+(Dal - TE)",2.17,James Hanna
+238,238,"Rod Streater
+
+
+(Oak - WR)",2.0,Rod Streater
+239,239,"Derek Carrier
+
+
+(Was - TE)",1.96,Derek Carr
+240,240,"C.J. Fiedorowicz
+
+
+(Hou - TE)",2.47,C.J. Fiedorowicz
+241,241,"Lucky Whitehead
+
+
+(Dal - WR)",1.38,Lucky Whitehead
+242,242,"Kenjon Barner
+
+
+(Phi - RB)",1.49,Kenjon Barner
+243,243,"Joshua Bellamy
+
+
+(Chi - WR)",1.32,Joshua Bellamy
+244,244,"Fozzy Whittaker
+
+
+
+(Car - RB)",1.27,Fozzy Whittaker
+245,245,"Andre Roberts
+
+
+
+(Was - WR)",1.3,Andre Roberts
+246,246,"Luke Stocker
+
+
+(TB - TE)",1.09,Luke Stocker
+247,247,"Ryan Hewitt
+
+
+(Cin - TE)",1.15,Ryan Hewitt
+248,249,"Bradley Marquez
+
+
+(StL - WR)",1.3,Bradley Marquez
+249,250,"Bruce Miller
+
+
+(SF - RB)",1.34,Bruce Miller
+250,257,"Rex Burkhead
+
+
+(Cin - RB)",1.05,Rex Burkhead
+251,258,"John Kuhn
+
+
+(GB - RB)",1.05,John Kuhn

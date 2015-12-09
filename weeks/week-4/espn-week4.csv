@@ -1,0 +1,798 @@
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Aaron Rodgers, GBQB",@SF,Sun 4:25,21.4/32.4,260.3,2.3,0.5,3.5,18.4,0.1,0,0,0,19.4
+"Andrew Luck, IndQBQ",Jax,Sun 1:00,21.2/34.7,257.2,2.3,0.8,3.6,16.9,0.1,0,0,0,19
+"Russell Wilson, SeaQB",Det,Mon 8:30,17.8/28.1,215.8,1.7,0.6,6.6,40.8,0.2,0,0,0,18.3
+"Cam Newton, CarQB",@TB,Sun 1:00,19.8/31.6,235.3,1.4,0.9,7.7,40.7,0.3,0,0,0,17.9
+"Peyton Manning, DenQBP",Min,Sun 4:25,25.6/39.1,310,1.8,0.7,1.4,-0.4,0,0,0,0,17.9
+"Drew Brees, NOQBQ",Dal,Sun 8:30,25.7/38.9,311.8,1.8,0.8,1.6,2.6,0.1,0,0,0,17.6
+"Carson Palmer, AriQB",StL,Sun 4:25,21.3/32.5,259.4,1.9,0.8,1.6,2.7,0.1,0,0,0,16
+"Matt Ryan, AtlQB",Hou,Sun 1:00,23.3/35.2,274.5,1.8,0.7,2.1,6.8,0.1,0,0,0,15.9
+"Colin Kaepernick, SFQB",GB,Sun 4:25,19.8/31.8,239.9,1.1,0.8,6.3,39,0.2,0,0,0,15.5
+"Philip Rivers, SDQB",Cle,Sun 4:05,21.1/32.5,262.1,1.8,0.9,2,4.3,0,0,0,0,15.5
+"Arian Foster, HouRBQ",@Atl,Sun 1:00,0/0,0,0,0,17.8,80.8,0.5,3.9,31.1,0.2,15.1
+"Tyrod Taylor, BufQBP",NYG,Sun 1:00,17.9/26.9,202.5,1.6,1,5.7,27.4,0.2,0,0,0,14.8
+"Michael Vick, PitQB",Bal,L 20-23,18.9/31.6,223.2,1.4,0.9,5.5,34.8,0.2,0,0,0,14.7
+"Matt Forte, ChiRB",Oak,Sun 1:00,0/0,0,0,0,18.8,82.6,0.5,4,37.5,0.1,14.6
+"Blake Bortles, JaxQB",@Ind,Sun 1:00,21.8/35.7,252.3,1.2,1,3.8,22.4,0.1,0,0,0,14.6
+"Ryan Tannehill, MiaQB",NYJ,Sun 9:30 AM,23.9/38.4,270.1,1.4,1,3,14.3,0.1,0,0,0,14.3
+"Ryan Mallett, HouQBQ",@Atl,Sun 1:00,22.1/36.2,272.6,1.4,1,1.8,4.6,0.1,0,0,0,13.9
+"Joe Flacco, BalQB",@Pit,W 23-20,21.8/34.6,246,1.5,0.7,2.5,5.3,0.1,0,0,0,13.6
+"Andy Dalton, CinQB",KC,Sun 1:00,19.9/31.7,229.9,1.5,1,3.2,9.8,0.1,0,0,0,13.5
+"Derek Carr, OakQB",@Chi,Sun 1:00,22.7/36.9,241.2,1.6,0.9,2,6.1,0.1,0,0,0,13.5
+"Eli Manning, NYGQB",@Buf,Sun 1:00,24.8/40.7,297.8,1.4,1.3,1,1.9,0,0,0,0,13.5
+"Jameis Winston, TBQB",Car,Sun 1:00,20.4/33.4,254,1.1,1,4.3,16.4,0.1,0,0,0,13.4
+"Alex Smith, KCQB",@Cin,Sun 1:00,21.9/35.3,230.3,1.1,0.7,3.8,19.6,0.1,0,0,0,13.4
+"Devonta Freeman, AtlRBQ",Hou,Sun 1:00,0/0,0,0,0,16.7,69.8,0.6,3.5,32.1,0.1,13.3
+"Marshawn Lynch, SeaRBQ",Det,Mon 8:30,0/0,0,0,0,19.9,85.5,0.6,2.4,19.4,0.1,13.2
+"Eddie Lacy, GBRBP",@SF,Sun 4:25,0/0,0,0,0,19.3,79.5,0.6,2.8,20.2,0.2,13.2
+"Le'Veon Bell, PitRB",Bal,L 20-23,0/0,0,0,0,17.1,71,0.5,3.6,29.1,0.2,12.9
+"Jimmy Clausen, ChiQB",Oak,Sun 1:00,19.7/32.4,229.8,1.2,0.7,2.9,8.7,0.1,0,0,0,12.8
+"Brandon Weeden, DalQB",@NO,Sun 8:30,20.3/32.2,228.4,1.4,0.9,1.9,5.7,0.1,0,0,0,12.8
+"Julio Jones, AtlWRQ",Hou,Sun 1:00,0/0,0,0,0,0.1,0.9,0,7.5,98.6,0.6,12.7
+"Sam Bradford, PhiQB",@Wsh,Sun 1:00,23.2/37.1,242.5,1.4,0.9,2.1,5.3,0.1,0,0,0,12.6
+"Jamaal Charles, KCRB",@Cin,Sun 1:00,0/0,0,0,0,14.7,66.9,0.5,3.9,32.8,0.2,12.6
+"Demaryius Thomas, DenWR",Min,Sun 4:25,0/0,0,0,0,0,0,0,7.2,92.7,0.6,12.5
+"Ryan Fitzpatrick, NYJQB",@Mia,Sun 9:30 AM,19.7/32.3,219,1.4,1.1,3.6,15,0.1,0,0,0,12.5
+"Matthew Stafford, DetQB",@Sea,Mon 8:30,23.7/39.2,268.3,1.2,1.1,2.2,6.8,0.1,0,0,0,12.4
+"Latavius Murray, OakRB",@Chi,Sun 1:00,0/0,0,0,0,17,77.9,0.6,2.4,18.7,0.1,12.1
+Broncos D/STD/ST,Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,12
+"Emmanuel Sanders, DenWR",Min,Sun 4:25,0/0,0,0,0,0.5,3.5,0,6.4,90.1,0.5,11.9
+"Randall Cobb, GBWRP",@SF,Sun 4:25,0/0,0,0,0,0.8,5.4,0,6.3,85.4,0.6,11.9
+"Melvin Gordon, SDRB",Cle,Sun 4:05,0/0,0,0,0,18.2,80.2,0.5,1.4,11.4,0.1,11.9
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+Colts D/STD/ST,Jax,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,11.9
+"Adrian Peterson, MinRB",@Den,Sun 4:25,0/0,0,0,0,17.6,76.4,0.4,2.9,24,0.1,11.8
+"Joseph Randle, DalRB",@NO,Sun 8:30,0/0,0,0,0,17.9,83.5,0.5,1.4,11.6,0.1,11.7
+"Carlos Hyde, SFRB",GB,Sun 4:25,0/0,0,0,0,16.3,72.3,0.6,1.4,10.9,0.1,11.6
+"Nick Foles, StLQB",@Ari,Sun 4:25,23.1/37.2,258.9,0.9,0.9,2.1,9.4,0.1,0,0,0,11.6
+"DeMarco Murray, PhiRBP",@Wsh,Sun 1:00,0/0,0,0,0,15.2,64.5,0.5,2.8,22.2,0.1,11.5
+"Teddy Bridgewater, MinQB",@Den,Sun 4:25,19.2/32.2,222.3,0.9,0.9,3.4,18.5,0.1,0,0,0,11.4
+"Kirk Cousins, WshQB",Phi,Sun 1:00,22.4/36.1,264.2,1,1.1,1.4,4.1,0,0,0,0,11.4
+"Josh McCown, CleQBP",@SD,Sun 4:05,18.6/32.3,222.1,1,0.9,2.8,13.8,0.1,0,0,0,11.1
+Seahawks D/STD/ST,Det,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,11
+"Mark Ingram, NORB",Dal,Sun 8:30,0/0,0,0,0,13.4,52.3,0.6,2.8,21,0.1,10.9
+"Karlos Williams, BufRB",NYG,Sun 1:00,0/0,0,0,0,18,76.4,0.6,0.8,6.5,0,10.8
+"Calvin Johnson, DetWR",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,5.7,81.2,0.4,10.7
+Panthers D/STD/ST,@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,10.6
+"Jonathan Stewart, CarRBQ",@TB,Sun 1:00,0/0,0,0,0,17.5,78.8,0.4,2.2,15.6,0.1,10.5
+"Jeremy Hill, CinRB",KC,Sun 1:00,0/0,0,0,0,16,71.7,0.6,0.9,7.2,0,10.4
+"Lamar Miller, MiaRB",NYJ,Sun 9:30 AM,0/0,0,0,0,15.7,64.9,0.3,2.9,22.3,0.1,10.4
+"Justin Forsett, BalRB",@Pit,W 23-20,0/0,0,0,0,15.9,69.4,0.3,3.3,25.2,0.1,10.4
+"Odell Beckham Jr., NYGWR",@Buf,Sun 1:00,0/0,0,0,0,0.3,2.2,0,6.7,88,0.4,10.4
+"Frank Gore, IndRB",Jax,Sun 1:00,0/0,0,0,0,17,65.7,0.5,2.1,17.4,0.1,10.3
+Jets D/STD/ST,@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,10.2
+"A.J. Green, CinWR",KC,Sun 1:00,0/0,0,0,0,0.3,1.9,0,5.4,78.4,0.5,10.2
+"DeAndre Hopkins, HouWR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,6,85.7,0.4,10.1
+"Larry Fitzgerald, AriWR",StL,Sun 4:25,0/0,0,0,0,0,0,0,5.4,70.4,0.5,10.1
+"C.J. Anderson, DenRB",Min,Sun 4:25,0/0,0,0,0,13.5,56.7,0.4,3.4,27.9,0.1,10.1
+"Brandon Marshall, NYJWR",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,6,71.6,0.5,9.9
+"Antonio Brown, PitWR",Bal,L 20-23,0/0,0,0,0,0.4,2.5,0,5.9,77,0.4,9.9
+"Chris Ivory, NYJRBP",@Mia,Sun 9:30 AM,0/0,0,0,0,17.7,66.5,0.4,1.4,10.1,0.1,9.7
+"T.J. Yeldon, JaxRB",@Ind,Sun 1:00,0/0,0,0,0,15,59.2,0.4,3.2,25.8,0.1,9.6
+"Keenan Allen, SDWR",Cle,Sun 4:05,0/0,0,0,0,0,0,0,5.4,72,0.4,9.5
+Eagles D/STD/ST,@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,9.2
+"Mike Evans, TBWR",Car,Sun 1:00,0/0,0,0,0,0,0,0,5.1,76.3,0.4,9.1
+Rams D/STD/ST,@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,8.9
+"Nick Novak, HouK",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,8.9
+"Michael Crabtree, OakWR",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,5.1,60.6,0.5,8.8
+Bills D/STD/ST,NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,8.8
+"T.Y. Hilton, IndWR",Jax,Sun 1:00,0/0,0,0,0,0.3,1.8,0,4.5,61.9,0.5,8.8
+"Phil Dawson, SFK",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,8.6
+"Giovani Bernard, CinRB",KC,Sun 1:00,0/0,0,0,0,9.9,42.5,0.3,3.5,27.3,0.1,8.6
+"Danny Woodhead, SDRB",Cle,Sun 4:05,0/0,0,0,0,7.7,34.2,0.2,3.7,34.1,0.2,8.4
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Matt Jones, WshRB",Phi,Sun 1:00,0/0,0,0,0,14.2,58.7,0.4,1.3,10.1,0,8.4
+"Andrew Franks, MiaK",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,8.4
+Cardinals D/STD/ST,StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,8.4
+"Alshon Jeffery, ChiWRQ",Oak,Sun 1:00,0/0,0,0,0,0.3,1.9,0,4.6,64.5,0.4,8.4
+"Jordan Matthews, PhiWR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,5.6,62.5,0.4,8.3
+"Graham Gano, CarK",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,8.3
+"Justin Tucker, BalK",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,8.3
+"Chandler Catanzaro, AriK",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,8.3
+"Isaiah Crowell, CleRB",@SD,Sun 4:05,0/0,0,0,0,14.3,61.9,0.4,0.7,5.8,0,8.3
+"Greg Olsen, CarTE",@TB,Sun 1:00,0/0,0,0,0,0,0,0,5,61.4,0.4,8.1
+"Matt Bryant, AtlK",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,8.1
+"Brandin Cooks, NOWRQ",Dal,Sun 8:30,0/0,0,0,0,0.8,5.1,0,4.5,61.8,0.3,8.1
+"Josh Brown, NYGK",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,8.1
+"Jarvis Landry, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0.7,4.6,0,6,63,0.3,8.1
+"Zach Hocker, NOK",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,8
+"Steve Smith Sr., BalWRQ",@Pit,W 23-20,0/0,0,0,0,0,0,0,4.6,63,0.3,8
+"Mason Crosby, GBK",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,8
+Dolphins D/STD/ST,NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,7.9
+"Dan Bailey, DalK",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,7.9
+"Donte Moncrief, IndWR",Jax,Sun 1:00,0/0,0,0,0,0.3,1.8,0,4.1,53.6,0.5,7.9
+"James Jones, GBWR",@SF,Sun 4:25,0/0,0,0,0,0,0,0,3.7,54.8,0.5,7.8
+"Adam Vinatieri, IndK",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.8
+"Sammy Watkins, BufWRQ",NYG,Sun 1:00,0/0,0,0,0,0.3,2,0,4.2,59.2,0.5,7.8
+"Doug Martin, TBRBQ",Car,Sun 1:00,0/0,0,0,0,15.6,59.5,0.3,1.8,14.2,0,7.7
+"Cairo Santos, KCK",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.7
+"Josh Lambo, SDK",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,7.7
+"Jeremy Maclin, KCWR",@Cin,Sun 1:00,0/0,0,0,0,0.2,1.4,0,5.3,68.3,0.3,7.7
+"Steven Hauschka, SeaK",Det,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,7.7
+"Blair Walsh, MinK",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,7.6
+"Brandon McManus, DenK",Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,7.6
+"Allen Robinson, JaxWR",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,4.5,62.9,0.3,7.5
+"Dustin Hopkins, WshK",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.5
+"Josh Scobee, PitK",Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,7.4
+"Jason Myers, JaxK",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.4
+"Greg Zuerlein, StLK",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,7.4
+"Caleb Sturgis, PhiK",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.3
+Packers D/STD/ST,@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,7.3
+"Matt Prater, DetK",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,7.3
+"Sebastian Janikowski, OakK",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.3
+"Tyler Eifert, CinTE",KC,Sun 1:00,0/0,0,0,0,0,0,0,4.4,51.8,0.4,7.2
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Pierre Garcon, WshWR",Phi,Sun 1:00,0/0,0,0,0,0,0,0,4.8,60.7,0.2,7.2
+"DeSean Jackson, WshWRQ",Phi,Sun 1:00,0/0,0,0,0,0.3,1.9,0,4.3,65.1,0.2,7.2
+"Mike Nugent, CinK",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.2
+"Travis Coons, CleK",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,7.1
+"Robbie Gould, ChiK",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7.1
+"Chris Johnson, AriRB",StL,Sun 4:25,0/0,0,0,0,14,59.9,0.3,1,8.2,0,7.1
+"Kyle Brindza, TBK",Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,7
+"Nick Folk, NYJK",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,7
+"John Brown, AriWRQ",StL,Sun 4:25,0/0,0,0,0,0.3,1.8,0,3.7,52.9,0.3,7
+"Jimmy Graham, SeaTE",Det,Mon 8:30,0/0,0,0,0,0,0,0,3.7,44.5,0.5,7
+"Jason Witten, DalTEP",@NO,Sun 8:30,0/0,0,0,0,0,0,0,4.4,51.1,0.3,7
+"Andre Ellington, AriRBQ",StL,Sun 4:25,0/0,0,0,0,8.4,33.6,0.2,2.5,22.7,0.1,7
+Buccaneers D/STD/ST,Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,6.9
+"Amari Cooper, OakWR",@Chi,Sun 1:00,0/0,0,0,0,0.2,1.6,0,5.5,58.9,0.3,6.9
+"Dan Carpenter, BufKP",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,6.9
+"Ted Ginn Jr., CarWR",@TB,Sun 1:00,0/0,0,0,0,0.3,1.9,0,3.5,51.4,0.3,6.8
+"Marques Colston, NOWR",Dal,Sun 8:30,0/0,0,0,0,0,0,0,3.6,53.2,0.3,6.8
+Bears D/STD/ST,Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,6.8
+"Nate Washington, HouWR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,3.9,59.9,0.3,6.8
+Bengals D/STD/ST,KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,6.7
+"Doug Baldwin, SeaWR",Det,Mon 8:30,0/0,0,0,0,0.1,1,0,3.8,50.5,0.3,6.7
+"Travis Kelce, KCTE",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,5.2,56.1,0.3,6.7
+"Travis Benjamin, CleWRP",@SD,Sun 4:05,0/0,0,0,0,0.3,1.7,0,3.3,50.6,0.2,6.7
+"Ameer Abdullah, DetRB",@Sea,Mon 8:30,0/0,0,0,0,9.8,39.6,0.2,3.2,26,0.1,6.6
+"Vincent Jackson, TBWR",Car,Sun 1:00,0/0,0,0,0,0,0,0,3.7,56.6,0.3,6.5
+"Rishard Matthews, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,4.3,53.3,0.3,6.5
+Browns D/STD/ST,@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,6.5
+"Jordan Reed, WshTE",Phi,Sun 1:00,0/0,0,0,0,0,0,0,4.8,50.7,0.3,6.5
+"Anquan Boldin, SFWR",GB,Sun 4:25,0/0,0,0,0,0,0,0,4.7,57.4,0.2,6.4
+"Allen Hurns, JaxWRQ",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,3.9,52.8,0.2,6.4
+"Torrey Smith, SFWR",GB,Sun 4:25,0/0,0,0,0,0,0,0,3,50.1,0.2,6.3
+Chargers D/STD/ST,Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,6.3
+"Mike Wallace, MinWR",@Den,Sun 4:25,0/0,0,0,0,0,0,0,3.5,53.1,0.2,6.2
+"Ronnie Hillman, DenRB",Min,Sun 4:25,0/0,0,0,0,10.3,42.9,0.4,0.9,7.7,0,6.2
+"Malcom Floyd, SDWR",Cle,Sun 4:05,0/0,0,0,0,0,0,0,2.6,45.4,0.4,6.2
+Texans D/STD/ST,@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,6.2
+"Golden Tate, DetWR",@Sea,Mon 8:30,0/0,0,0,0,0.2,1.3,0,4.6,55.7,0.2,6.2
+"Ladarius Green, SDTEQ",Cle,Sun 4:05,0/0,0,0,0,0,0,0,3.6,43.2,0.4,6.1
+Giants D/STD/ST,@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,6.1
+"Kenny Britt, StLWRQ",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,3.5,52.7,0.2,6.1
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Michael Floyd, AriWR",StL,Sun 4:25,0/0,0,0,0,0,0,0,3.1,44.5,0.3,6
+"Percy Harvin, BufWRP",NYG,Sun 1:00,0/0,0,0,0,1.5,9.9,0,3.7,42.7,0.3,6
+"Tre Mason, StLRB",@Ari,Sun 4:25,0/0,0,0,0,9.4,40.9,0.2,1.9,15,0,6
+"Jermaine Kearse, SeaWR",Det,Mon 8:30,0/0,0,0,0,0,0,0,2.9,42.1,0.3,5.9
+"Stevie Johnson, SDWR",Cle,Sun 4:05,0/0,0,0,0,0,0,0,3.4,45.5,0.3,5.9
+"Terrance Williams, DalWR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,3.2,47.3,0.3,5.9
+"Alfred Morris, WshRB",Phi,Sun 1:00,0/0,0,0,0,11.8,46,0.3,0.5,4.3,0,5.8
+"Leonard Hankerson, AtlWR",Hou,Sun 1:00,0/0,0,0,0,0,0,0,3.5,44.2,0.3,5.7
+"Roddy White, AtlWR",Hou,Sun 1:00,0/0,0,0,0,0,0,0,3.6,44,0.3,5.7
+"Duke Johnson Jr., CleRB",@SD,Sun 4:05,0/0,0,0,0,8.8,38.5,0.2,2.2,18.5,0.1,5.7
+Raiders D/STD/ST,@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,5.6
+"Cecil Shorts III, HouWR",@Atl,Sun 1:00,0/0,0,0,0,0.1,0.9,0,3.7,46.6,0.3,5.6
+"Rashad Jennings, NYGRB",@Buf,Sun 1:00,0/0,0,0,0,9.3,34.5,0.2,1.5,11.3,0,5.6
+"Martellus Bennett, ChiTE",Oak,Sun 1:00,0/0,0,0,0,0,0,0,4.2,45.6,0.3,5.6
+Lions D/STD/ST,@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,5.6
+"Nelson Agholor, PhiWR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,3.7,42.4,0.3,5.6
+"Zach Ertz, PhiTE",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,3.2,40.1,0.3,5.5
+"Shane Vereen, NYGRB",@Buf,Sun 1:00,0/0,0,0,0,4.4,17.5,0.1,4,39.6,0.2,5.5
+"Richard Rodgers, GBTE",@SF,Sun 4:25,0/0,0,0,0,0,0,0,3.1,34.9,0.4,5.5
+"Jordan Cameron, MiaTEQ",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,3.4,40.7,0.2,5.5
+"C.J. Spiller, NORB",Dal,Sun 8:30,0/0,0,0,0,3.6,15.9,0.1,4.3,36.8,0.2,5.4
+"Vernon Davis, SFTEQ",GB,Sun 4:25,0/0,0,0,0,0,0,0,3.2,40.9,0.2,5.4
+"Eric Ebron, DetTE",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,4.2,46.9,0.2,5.4
+"Willie Snead, NOWR",Dal,Sun 8:30,0/0,0,0,0,0,0,0,3,47.4,0.2,5.3
+"Todd Gurley, StLRB",@Ari,Sun 4:25,0/0,0,0,0,8.1,36.2,0.2,1.4,11.2,0,5.3
+"Andre Johnson, IndWRP",Jax,Sun 1:00,0/0,0,0,0,0,0,0,3,37.1,0.4,5.3
+"Bilal Powell, NYJRB",@Mia,Sun 9:30 AM,0/0,0,0,0,6,20.7,0.1,3.1,24.4,0.1,5.3
+"Darren Sproles, PhiRB",@Wsh,Sun 1:00,0/0,0,0,0,3.8,16.1,0.1,3.7,30.9,0.1,5.2
+"Eddie Royal, ChiWR",Oak,Sun 1:00,0/0,0,0,0,0,0,0,3.6,43.3,0.2,5.2
+"Rueben Randle, NYGWR",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,3.3,46.2,0.2,5.2
+"Charles Johnson, MinWRQ",@Den,Sun 4:25,0/0,0,0,0,0,0,0,3,42.8,0.2,5.1
+"Jared Cook, StLTE",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,4,47.1,0.2,5.1
+"Charles Clay, BufTE",NYG,Sun 1:00,0/0,0,0,0,0,0,0,3.3,36.7,0.3,5.1
+"Reggie Bush, SFRBP",GB,Sun 4:25,0/0,0,0,0,4.7,20.4,0.1,2.5,21,0.1,5
+"Victor Cruz*, NYGWRO",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,3.2,42.4,0.2,5
+"Tavon Austin, StLWR",@Ari,Sun 4:25,0/0,0,0,0,1.5,11.2,0,2.8,30,0.1,5
+Chiefs D/STD/ST,@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,4.9
+"Ty Montgomery, GBWR",@SF,Sun 4:25,0/0,0,0,0,0.3,1.8,0,2.7,35.6,0.3,4.8
+"Lorenzo Taliaferro, BalRB",@Pit,W 23-20,0/0,0,0,0,6.9,26.6,0.2,1.5,11.9,0.1,4.7
+"Owen Daniels, DenTEP",Min,Sun 4:25,0/0,0,0,0,0,0,0,3.1,34.7,0.3,4.6
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Heath Miller, PitTE",Bal,L 20-23,0/0,0,0,0,0,0,0,3,33.1,0.3,4.6
+"Phillip Dorsett, IndWR",Jax,Sun 1:00,0/0,0,0,0,0.3,1.8,0,2.3,32.2,0.3,4.6
+Steelers D/STD/ST,Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,4.5
+"Marvin Jones, CinWR",KC,Sun 1:00,0/0,0,0,0,0.3,1.9,0,2.9,38.4,0.2,4.5
+"Kamar Aiken, BalWR",@Pit,W 23-20,0/0,0,0,0,0,0,0,2.8,37.9,0.3,4.5
+"Darrius Heyward-Bey, PitWR",Bal,L 20-23,0/0,0,0,0,0,0,0,2.4,35.4,0.3,4.5
+"Larry Donnell, NYGTE",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,3.2,37,0.2,4.4
+"Benjamin Watson, NOTE",Dal,Sun 8:30,0/0,0,0,0,0,0,0,2.7,30.6,0.2,4.4
+"Maxx Williams, BalTE",@Pit,W 23-20,0/0,0,0,0,0,0,0,2.8,31.8,0.2,4.4
+"Brandon Coleman, NOWR",Dal,Sun 8:30,0/0,0,0,0,0,0,0,2.2,35.5,0.2,4.4
+"Darren McFadden, DalRB",@NO,Sun 8:30,0/0,0,0,0,8.2,34.7,0.2,0.5,3.8,0,4.3
+"Jordan Norwood, DenWR",Min,Sun 4:25,0/0,0,0,0,0,0,0,3,36,0.2,4.3
+"Devin Funchess, CarWR",@TB,Sun 1:00,0/0,0,0,0,0,0,0,2.4,30.6,0.2,4.3
+"Quincy Enunwa, NYJWR",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,2.9,33.7,0.2,4.3
+"Marlon Brown, BalWR",@Pit,W 23-20,0/0,0,0,0,0,0,0,2.4,30.7,0.2,4.2
+"Kyle Rudolph, MinTE",@Den,Sun 4:25,0/0,0,0,0,0,0,0,3.7,39.3,0.2,4.2
+"Markus Wheaton, PitWRQ",Bal,L 20-23,0/0,0,0,0,0.4,2.5,0,2.8,38.5,0.2,4.2
+"Marqise Lee, JaxWRQ",@Ind,Sun 1:00,0/0,0,0,0,0.2,1.5,0,3.3,39.4,0.2,4.2
+Vikings D/STD/ST,@Den,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,4.1
+"Devin Smith, NYJWRP",@Mia,Sun 9:30 AM,0/0,0,0,0,0.3,1.7,0,2.3,30.8,0.2,4.1
+"Boobie Dixon, BufRB",NYG,Sun 1:00,0/0,0,0,0,7.8,29.3,0.3,0.2,1.6,0,4.1
+"Louis Murphy, TBWR",Car,Sun 1:00,0/0,0,0,0,0,0,0,2.5,36.5,0.2,4.1
+Ravens D/STD/ST,@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,4.1
+"Lance Dunbar, DalRB",@NO,Sun 8:30,0/0,0,0,0,1.1,5,0,4.1,36.6,0.1,4
+Redskins D/STD/ST,Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,4
+"Brian Hartline, CleWR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,2.7,36.2,0.2,3.9
+"Andrew Hawkins, CleWR",@SD,Sun 4:05,0/0,0,0,0,0.3,1.7,0,3.7,39,0.1,3.9
+"Charles Sims, TBRB",Car,Sun 1:00,0/0,0,0,0,5.2,19.2,0.1,3.1,24.9,0.1,3.8
+"Dwayne Allen, IndTEQ",Jax,Sun 1:00,0/0,0,0,0,0,0,0,2.2,24.5,0.3,3.8
+"Andre Roberts, WshWR",Phi,Sun 1:00,0/0,0,0,0,0.1,1,0,2.5,30.7,0.1,3.7
+"Josh Robinson, IndRBP",Jax,Sun 1:00,0/0,0,0,0,7.1,27.9,0.2,1.1,9,0.1,3.6
+"Terron Ward, AtlRB",Hou,Sun 1:00,0/0,0,0,0,7,26.8,0.3,0.5,4.5,0,3.5
+"Khiry Robinson, NORB",Dal,Sun 8:30,0/0,0,0,0,6.2,25.7,0.2,0.9,7.6,0,3.5
+"David Johnson, AriRB",StL,Sun 4:25,0/0,0,0,0,4.2,19,0.2,1.5,12.5,0.1,3.4
+"Levine Toilolo, AtlTE",Hou,Sun 1:00,0/0,0,0,0,0,0,0,2.3,26,0.2,3.3
+"Tyler Lockett, SeaWR",Det,Mon 8:30,0/0,0,0,0,0.1,1,0,2.1,28.7,0.2,3.3
+"Mike Tolbert, CarRBQ",@TB,Sun 1:00,0/0,0,0,0,2.8,10.7,0.1,1.9,14,0.1,3.3
+"Joique Bell, DetRBQ",@Sea,Mon 8:30,0/0,0,0,0,7.8,24.8,0.2,1.1,8.6,0,3.3
+"Darren Fells, AriTE",StL,Sun 4:25,0/0,0,0,0,0,0,0,1.8,21.7,0.2,3.3
+Cowboys D/STD/ST,@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,3.2
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Robert Woods, BufWR",NYG,Sun 1:00,0/0,0,0,0,0,0,0,2,26.6,0.2,3.2
+"Marcedes Lewis, JaxTE",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,2.5,28.1,0.2,3.1
+"Cole Beasley, DalWR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,2.8,28.4,0.2,3
+"Seth Roberts, OakWR",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,2.8,29.8,0.2,3
+"Andre Williams, NYGRB",@Buf,Sun 1:00,0/0,0,0,0,7.5,28.5,0.2,0.1,1.1,0,3
+"Jeremy Kerley, NYJWR",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,2.1,25.3,0.1,3
+"Corey Brown, CarWRP",@TB,Sun 1:00,0/0,0,0,0,0.3,1.9,0,1.8,26.4,0.1,2.9
+"Gary Barnidge, CleTE",@SD,Sun 4:05,0/0,0,0,0,0,0,0,2.1,26.9,0.2,2.9
+"Brice Butler, DalWR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,1.6,22,0.1,2.9
+"Damien Williams, MiaRB",NYJ,Sun 9:30 AM,0/0,0,0,0,3.7,12.7,0.1,1.4,13.5,0.1,2.9
+"Brandon Myers, TBTE",Car,Sun 1:00,0/0,0,0,0,0,0,0,2.2,24.8,0.1,2.8
+"Garrett Graham, HouTE",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,1.8,20.1,0.1,2.8
+"Greg Jennings, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,1.8,25.4,0.1,2.8
+"Marquess Wilson, ChiWR",Oak,Sun 1:00,0/0,0,0,0,0,0,0,1.9,24.4,0.1,2.8
+"Lance Moore, DetWR",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,2.2,27.1,0.1,2.8
+"Jeremy Langford, ChiRB",Oak,Sun 1:00,0/0,0,0,0,5.2,21.5,0.1,0.1,1,0,2.7
+"Ryan Mathews, PhiRB",@Wsh,Sun 1:00,0/0,0,0,0,5.1,21.1,0.1,0.8,6.6,0,2.7
+"Brian Quick, StLWR",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,2.1,29.7,0.1,2.7
+"Jarius Wright, MinWRQ",@Den,Sun 4:25,0/0,0,0,0,0.2,1.6,0,2.2,28.8,0.1,2.7
+49ers D/STD/ST,GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,2.6
+"Benjamin Cunningham, StLRB",@Ari,Sun 4:25,0/0,0,0,0,1.3,5.3,0,3.6,29.4,0.1,2.6
+"Lance Kendricks, StLTE",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,1.9,20.4,0.1,2.6
+"Albert Wilson, KCWRQ",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,2.2,25,0.1,2.6
+"DeAngelo Williams, PitRB",Bal,L 20-23,0/0,0,0,0,4.5,20,0.1,0.7,5,0,2.6
+Jaguars D/STD/ST,@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,2.5
+"Jerick McKinnon, MinRB",@Den,Sun 4:25,0/0,0,0,0,3.7,15.5,0.1,1.4,10.9,0,2.5
+Saints D/STD/ST,Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,2.4
+"Knile Davis, KCRB",@Cin,Sun 1:00,0/0,0,0,0,4.6,17.6,0.2,1,7.3,0,2.3
+"Coby Fleener, IndTE",Jax,Sun 1:00,0/0,0,0,0,0,0,0,1.5,17.7,0.2,2.2
+"Gavin Escobar, DalTE",@NO,Sun 8:30,0/0,0,0,0,0,0,0,1.4,16.5,0.2,2.2
+"Mychal Rivera, OakTE",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,1.7,19.5,0.2,2.1
+"De'Anthony Thomas, KCRB, WR",@Cin,Sun 1:00,0/0,0,0,0,0.7,4.3,0,2.3,17.4,0.1,2
+"Fred Jackson, SeaRB",Det,Mon 8:30,0/0,0,0,0,3.5,14.4,0.1,0.8,6.7,0,1.9
+"Jeff Cumberland*, NYJTEO",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,1.6,19.6,0.1,1.8
+"Mohamed Sanu, CinWR",KC,Sun 1:00,0/0,0,0,0,0.4,2.9,0,1.4,16,0.1,1.8
+"James Starks, GBRB",@SF,Sun 4:25,0/0,0,0,0,4.3,17.6,0.1,1.2,9.3,0.1,1.8
+"Marcel Reece, OakRB",@Chi,Sun 1:00,0/0,0,0,0,0.7,2.3,0,1.4,13.7,0.1,1.8
+"Alfred Blue, HouRB",@Atl,Sun 1:00,0/0,0,0,0,4.9,19.4,0.1,0.5,4.3,0,1.8
+"Taiwan Jones, OakRB, CBQ",@Chi,Sun 1:00,0/0,0,0,0,3.4,13.9,0.1,0.5,4,0,1.8
+Falcons D/STD/ST,Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,1.7
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Dwayne Harris, NYGWR",@Buf,Sun 1:00,0/0,0,0,0,0.1,0.7,0,1.2,15.7,0.1,1.7
+"Josh Hill, NOTE",Dal,Sun 8:30,0/0,0,0,0,0,0,0,1,10.4,0.1,1.7
+"Dion Sims, MiaTEQ",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,1.4,15.8,0.1,1.6
+"Jermaine Gresham, AriTE",StL,Sun 4:25,0/0,0,0,0,0,0,0,1.2,12.4,0.1,1.6
+"Daniel Fells, NYGTEQ",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,1.5,16.3,0.1,1.6
+"Michael Campanaro, BalWRQ",@Pit,W 23-20,0/0,0,0,0,0.3,1.7,0,0.8,10.7,0.1,1.6
+"Jaron Brown, AriWR",StL,Sun 4:25,0/0,0,0,0,0,0,0,1,12.7,0.1,1.6
+"Kyle Juszczyk, BalRB",@Pit,W 23-20,0/0,0,0,0,0,0,0,2,16.4,0.1,1.6
+"Jeff Janis, GBWR",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0.8,12,0.1,1.6
+"Andre Holmes, OakWR",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0.8,12.3,0.1,1.5
+"Mickey Charles Shuler, AtlTE",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0.9,10.6,0.1,1.5
+"Toby Gerhart, JaxRB",@Ind,Sun 1:00,0/0,0,0,0,3.3,13.7,0.1,1.1,8.5,0,1.5
+"Ed Dickson, CarTE",@TB,Sun 1:00,0/0,0,0,0,0,0,0,1.4,16.4,0.1,1.5
+"Clay Harbor, JaxTE",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,1.4,15.5,0.1,1.5
+"Brenton Bersin, CarWR",@TB,Sun 1:00,0/0,0,0,0,0,0,0,1.1,14.7,0.1,1.5
+"DeVante Parker, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,1.1,15.4,0.1,1.5
+"Kenny Stills, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0.2,1.5,0,1.4,19.7,0.1,1.5
+"Jacquizz Rodgers, ChiRB",Oak,Sun 1:00,0/0,0,0,0,2.9,11.8,0.1,0.5,4.2,0,1.5
+"Bruce Ellington, SFWRP",GB,Sun 4:25,0/0,0,0,0,0.4,2.6,0,1.1,15.6,0.1,1.4
+"Theo Riddick, DetRB",@Sea,Mon 8:30,0/0,0,0,0,0.6,2.1,0,2.2,19,0.1,1.4
+"Dwayne Bowe, CleWR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,1.4,17.1,0.1,1.4
+"Josh Huff, PhiWRP",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,1.2,12.7,0.1,1.4
+"Riley Cooper, PhiWRP",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0.8,11.1,0.1,1.4
+"Taylor Gabriel, CleWR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,1,14,0.1,1.4
+"Jamison Crowder, WshWR",Phi,Sun 1:00,0/0,0,0,0,0.1,1,0,0.9,10.2,0,1.4
+"Chris Thompson, WshRB",Phi,Sun 1:00,0/0,0,0,0,1.5,5.4,0,1.9,15.4,0,1.4
+"Quinton Patton, SFWR",GB,Sun 4:25,0/0,0,0,0,0.1,0.9,0,1.5,18.5,0.1,1.4
+"Stedman Bailey, StLWR",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,1.5,19.5,0.1,1.3
+"Bryan Walters, JaxWR",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,1.2,13.7,0.1,1.3
+"James O'Shaughnessy, KCTE",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0.9,10.5,0.1,1.3
+"Patrick DiMarco, AtlRB",Hou,Sun 1:00,0/0,0,0,0,1.5,4.7,0.1,0.8,6.9,0.1,0.8
+"Clive Walford, OakTE",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0.8,9.5,0.1,0.5
+"Bobby Rainey, TBRB",Car,Sun 1:00,0/0,0,0,0,1.2,4.4,0,0.9,7.3,0,0.5
+"Kennard Backman, GBTE",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0.6,7.4,0.1,0.5
+"Luke Willson, SeaTEP",Det,Mon 8:30,0/0,0,0,0,0,0,0,0.8,9.8,0.1,0.5
+"Roy Helu, OakRB",@Chi,Sun 1:00,0/0,0,0,0,1.2,5.2,0,1.1,8.3,0,0.5
+"Austin Johnson, NORB",Dal,Sun 8:30,0/0,0,0,0,0.8,2.5,0,0.6,5.2,0,0.5
+"Cordarrelle Patterson, MinWR",@Den,Sun 4:25,0/0,0,0,0,0.5,3.2,0,0.6,7,0,0.5
+"Virgil Green, DenTE",Min,Sun 4:25,0/0,0,0,0,0,0,0,0.8,9.3,0.1,0.4
+"Andre Caldwell, DenWR",Min,Sun 4:25,0/0,0,0,0,0,0,0,0.7,9.9,0.1,0.4
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Nick Boyle, BalTE",@Pit,W 23-20,0/0,0,0,0,0,0,0,0.8,9.3,0.1,0.4
+"Branden Oliver, SDRB",Cle,Sun 4:05,0/0,0,0,0,1.4,6.1,0,0.5,4.1,0,0.4
+"Matt Asiata, MinRB",@Den,Sun 4:25,0/0,0,0,0,1.2,4.5,0,1,7.1,0,0.4
+"Fozzy Whittaker, CarRB",@TB,Sun 1:00,0/0,0,0,0,1.7,6.3,0,0.5,4,0,0.4
+"Devin Hester, AtlWRQ",Hou,Sun 1:00,0/0,0,0,0,0.5,3.6,0,0,0,0,0.4
+"Javorius Allen, BalRB",@Pit,W 23-20,0/0,0,0,0,1.6,6.1,0,0.5,4,0,0.4
+"Jonathan Grimes, HouRBQ",@Atl,Sun 1:00,0/0,0,0,0,2.2,8.4,0,0.5,4.4,0,0.3
+"Miles Austin, PhiWR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0.9,10,0.1,0.3
+"Nick Williams, AtlWR",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0.7,8.7,0.1,0.3
+"John Kuhn, GBRB",@SF,Sun 4:25,0/0,0,0,0,0.8,2.6,0,0.2,2,0,0.3
+"Chris Matthews, SeaWR",Det,Mon 8:30,0/0,0,0,0,0,0,0,0.5,6.9,0,0.3
+"Garrett Celek, SFTE",GB,Sun 4:25,0/0,0,0,0,0,0,0,0.8,9.6,0,0.3
+"Lee Smith, OakTE",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0.4,4.9,0,0.3
+"Thomas Rawls, SeaRB",Det,Mon 8:30,0/0,0,0,0,1.5,6.1,0,0.1,0.9,0,0.3
+"Zach Miller, SeaTE",Det,Mon 8:30,0/0,0,0,0,0,0,0,0.6,6.9,0,0.3
+"Jacoby Jones, SDWRQ",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0.3
+"Luke Stocker, TBTEQ",Car,Sun 1:00,0/0,0,0,0,0,0,0,0.9,8.8,0,0.3
+"Jarryd Hayne, SFRB",GB,Sun 4:25,0/0,0,0,0,0.5,2,0,0.2,1.9,0,0.3
+"Devin Street, DalWR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0.5,7.2,0,0.3
+"Marcus Thigpen, BufRB",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0.3
+"Marcus Murphy, NORB",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0.2
+"Tyler Varga, IndRBQ",Jax,Sun 1:00,0/0,0,0,0,0.8,3,0,0.1,1.1,0,0.2
+"Bruce Miller, SFRB",GB,Sun 4:25,0/0,0,0,0,0.5,1.7,0,0.5,3.9,0,0.2
+"Vance McDonald, SFTEP",GB,Sun 4:25,0/0,0,0,0,0,0,0,0.6,6.8,0,0.2
+"David Johnson, SDTE",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0.2,2.4,0,0.2
+"Darren Waller, BalWR",@Pit,W 23-20,0/0,0,0,0,0,0,0,0.5,6.4,0,0.2
+"Bernard Pierce, JaxRB",@Ind,Sun 1:00,0/0,0,0,0,1.3,5.2,0,0.5,4.4,0,0.2
+"Jim Dray, CleTE",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0.6,6.4,0,0.2
+"Derrick Coleman, SeaRB",Det,Mon 8:30,0/0,0,0,0,0.6,1.9,0,0.2,1.8,0,0.2
+"Brent Celek, PhiTE",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0.5,5.3,0,0.2
+"Marc Mariani, ChiWR",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0.2
+"Tommy Bohanon, NYJRB",@Mia,Sun 9:30 AM,0/0,0,0,0,0.8,2.5,0,0.1,1,0,0.2
+"C.J. Fiedorowicz, HouTE",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0.5,5.2,0,0.2
+"Rhett Ellison, MinTE",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0.6,7.1,0,0.2
+"Brandon Tate, CinWR",KC,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.2,0,0.2
+"Griff Whalen, IndWR",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.3,0,0.2
+"Keith Mumphery, HouWR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0.5,7.1,0,0.2
+"Ricardo Lockette, SeaWR",Det,Mon 8:30,0/0,0,0,0,0,0,0,0.3,4.7,0,0.2
+"Jack Doyle, IndTE",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0.2,2.6,0,0.2
+"Darrel Young, WshRB",Phi,Sun 1:00,0/0,0,0,0,0.3,0.9,0,0.5,4.5,0,0.2
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Anthony Sherman, KCRB",@Cin,Sun 1:00,0/0,0,0,0,0.1,0.3,0,0.6,5.3,0,0.2
+"Matthew Mulligan, BufTE",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0.3,3.1,0,0.2
+"Ryan Grant, WshWR",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0.6,8.4,0,0.2
+"Jerome Felton, BufRB",NYG,Sun 1:00,0/0,0,0,0,0.2,0.5,0,0.3,2.6,0,0.2
+"Brittan Golden, AriWR",StL,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1.3,0,0.2
+"Jamize Olawale, OakRBP",@Chi,Sun 1:00,0/0,0,0,0,0.2,0.8,0,0.3,2.2,0,0.2
+"Rex Burkhead, CinRB",KC,Sun 1:00,0/0,0,0,0,0.1,0.6,0,0.7,5.7,0,0.2
+"TJ Jones, DetWR",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0.2
+"Blake Bell, SFTE",GB,Sun 4:25,0/0,0,0,0,0,0,0,0.4,4.5,0,0.2
+"Rob Housler, CleTE",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0.4,4.5,0,0.2
+"Ryan Hewitt, CinTE",KC,Sun 1:00,0/0,0,0,0,0,0,0,0.5,3.8,0,0.2
+"Derek Carrier, WshTE",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0.5,5.2,0,0.2
+"Will Johnson, PitRB",Bal,L 20-23,0/0,0,0,0,0.5,1.6,0,0.1,0.9,0,0.2
+"Jorvorskie Lane, TBRB",Car,Sun 1:00,0/0,0,0,0,0.5,1.5,0,0.2,2.1,0,0.1
+"Dri Archer, PitRB",Bal,L 20-23,0/0,0,0,0,0,0,0,0.2,1.9,0,0.1
+"Kellen Davis, NYJTE",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0.3,3.6,0,0.1
+"John Phillips, SDTE",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0.2,2.4,0,0.1
+"Juwan Thompson, DenRBP",Min,Sun 4:25,0/0,0,0,0,0.7,2.6,0,0,0,0,0.1
+"Jason Avant, KCWRP",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0.4,5.1,0,0.1
+"Corey Grant, JaxRB",@Ind,Sun 1:00,0/0,0,0,0,0.2,0.9,0,0,0,0,0.1
+"Chris Polk, HouRB",@Atl,Sun 1:00,0/0,0,0,0,0.8,3.2,0,0,0,0,0.1
+"MarQueis Gray, BufTE",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0.2,2,0,0.1
+"Malcolm Johnson, CleTE",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0.5,4,0,0.1
+"Joseph Morgan, NOWR",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0.2,3.7,0,0.1
+"James Hanna, DalTE",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0.2,2.3,0,0.1
+"Dontrelle Inman, SDWR",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0.2,2.8,0,0.1
+"Michael Burton, DetRB",@Sea,Mon 8:30,0/0,0,0,0,0.4,1.3,0,0.1,1.2,0,0.1
+"Lucky Whitehead, DalWR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0.2,2.5,0,0.1
+"Chris Hogan, BufWR",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0.2,2.2,0,0.1
+"Brandon Pettigrew, DetTEQ",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0.2,2.7,0,0.1
+"Sammie Coates, PitWR",Bal,L 20-23,0/0,0,0,0,0,0,0,0.2,2.3,0,0.1
+"Zac Stacy, NYJRB",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0.1
+"Shaun Draughn, CleRBQ",@SD,Sun 4:05,0/0,0,0,0,0.3,1,0,0,0,0,0.1
+"Nic Jacobs, JaxTE",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0.2,2.5,0,0.1
+"Raheem Mostert, MiaRB",NYJ,Sun 9:30 AM,0/0,0,0,0,0.2,0.8,0,0.3,2.3,0,0.1
+"James Casey, DenTEQ",Min,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1.6,0,0.1
+"Troy Niklas, AriTE",StL,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1.3,0,0.1
+"Adam Humphries, TBWR",Car,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.3,0,0.1
+"DeAndrew White, SFWR",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0.1
+"Jay Prosch, HouRB",@Atl,Sun 1:00,0/0,0,0,0,0.1,0.4,0,0.1,1.1,0,0.1
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Isaiah Pead, StLRB",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0.1
+"Chris Conley, KCWRP",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0.2,2.5,0,0.1
+"Cameron Artis-Payne, CarRB",@TB,Sun 1:00,0/0,0,0,0,0.3,1.1,0,0.1,1,0,0.1
+"Russell Shepard, TBWR",Car,Sun 1:00,0/0,0,0,0,0,0,0,0.2,2.5,0,0.1
+"Rashad Ross, WshWR",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0.1
+"Cooper Helfet, SeaTE",Det,Mon 8:30,0/0,0,0,0,0,0,0,0.1,1,0,0.1
+"Matt Spaeth*, PitTEO",Bal,L 20-23,0/0,0,0,0,0,0,0,0.1,1,0,0.1
+"Cody Latimer, DenWR",Min,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1.6,0,0.1
+"Brock Osweiler, DenQB",Min,Sun 4:25,0.1/0.2,1.4,0,0,0.1,0.4,0,0,0,0,0.1
+"Chris Givens, StLWR",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0.2,2.9,0,0.1
+"Richie Brockel, CarTE",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.2,0,0.1
+"Tyler Kroft, CinTE",KC,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.2,0,0.1
+"Cory Harkey, StLTE",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0.3,2.3,0,0.1
+"Khari Lee, ChiTE",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.2,0,0
+"Zach Zenner, DetRB",@Sea,Mon 8:30,0/0,0,0,0,0.4,1.4,0,0,0,0,0
+"Mike Davis, SFRB",GB,Sun 4:25,0/0,0,0,0,0.3,1,0,0,0,0,0
+"Geremy Davis, NYGWR",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.5,0,0
+"Demetrius Harris, KCTE",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.3,0,0
+"Eric Weems, AtlWR",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Alonzo Harris, GBRB",@SF,Sun 4:25,0/0,0,0,0,0.3,1,0,0,0,0,0
+"Corey Fuller, DetWR",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0.1,1.4,0,0
+"Jordan Todman, PitRB",Bal,L 20-23,0/0,0,0,0,0.2,0.9,0,0,0,0,0
+"Matt Hasselbeck, IndQB",Jax,Sun 1:00,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Joshua Bellamy, ChiWR",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.2,0,0
+"Cameron Meredith, ChiWR",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0.1,1.2,0,0
+"MyCole Pruitt, MinTE",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1.2,0,0
+"Kenjon Barner, PhiRB",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Scott Tolzien, GBQB",@SF,Sun 4:25,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Adam Thielen, MinWR",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1.1,0,0
+"Drew Stanton, AriQB",StL,Sun 4:25,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Denard Robinson, JaxRBQ",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Zach Line, MinRB",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0.1,1,0,0
+"Kellen Clemens, SDQB",Cle,Sun 4:05,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Tarvaris Jackson, SeaQB",Det,Mon 8:30,0.1/0.1,1.1,0,0,0,0,0,0,0,0,0
+"EJ Manuel, BufQB",NYG,Sun 1:00,0.1/0.1,1,0,0,0,0,0,0,0,0,0
+"Charcandrick West, KCRB",@Cin,Sun 1:00,0/0,0,0,0,0.1,0.4,0,0,0,0,0
+"Matt Schaub, BalQB",@Pit,W 23-20,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Eric Decker, NYJWRQ",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Luke McCown, NOQB",Dal,Sun 8:30,0.1/0.2,1.4,0,0,0,0,0,0,0,0,0
+"Brian Hoyer, HouQB",@Atl,Sun 1:00,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Derek Anderson, CarQB",@TB,Sun 1:00,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Mike Glennon, TBQB",Car,Sun 1:00,0.1/0.2,1.4,0,0,0,0,0,0,0,0,0
+"Matt McGloin, OakQB",@Chi,Sun 1:00,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Sean Renfree, AtlQB",Hou,Sun 1:00,0.1/0.2,1.1,0,0,0,0,0,0,0,0,0
+"AJ McCarron, CinQB",KC,Sun 1:00,0.1/0.2,1,0,0,0,0,0,0,0,0,0
+"Geno Smith, NYJQB",@Mia,Sun 9:30 AM,0.1/0.2,1.1,0,0,0,0.1,0,0,0,0,0
+"Landry Jones, PitQB",Bal,L 20-23,0.1/0.2,1.1,0,0,0,0,0,0,0,0,0
+"Kellen Moore, DalQB",@NO,Sun 8:30,0.1/0.2,1.1,0,0,0,0,0,0,0,0,0
+"Matt Moore, MiaQB",NYJ,Sun 9:30 AM,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Orleans Darkwa, NYGRBP",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Mark Sanchez, PhiQB",@Wsh,Sun 1:00,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Chase Daniel, KCQB",@Cin,Sun 1:00,0.1/0.2,1.1,0,0,0,0,0,0,0,0,0
+"David Fales, ChiQB",Oak,Sun 1:00,0.1/0.2,1.1,0,0,0,0,0,0,0,0,0
+"Chris Owusu*, NYJWRO",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Chad Henne, JaxQB",@Ind,Sun 1:00,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Dan Orlovsky, DetQB",@Sea,Mon 8:30,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Blaine Gabbert, SFQB",GB,Sun 4:25,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Chase Reynolds, StLRBQ",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Marlon Moore, CleWR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Shaun Hill, MinQB",@Den,Sun 4:25,0.1/0.2,1.2,0,0,0,0,0,0,0,0,0
+"Johnny Manziel, CleQBP",@SD,Sun 4:05,0.1/0.2,1,0,0,0,0.1,0,0,0,0,0
+"Ryan Nassib, NYGQB",@Buf,Sun 1:00,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Colt McCoy, WshQBP",Phi,Sun 1:00,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Case Keenum, StLQB",@Ari,Sun 4:25,0.1/0.2,1.3,0,0,0,0,0,0,0,0,0
+"Tom Brady, NEQB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Tony Romo*, DalQBIR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Antonio Gates, SDTESSPD",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Ben Roethlisberger*, PitQBO",Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+"Jerricho Cotchery, CarWRD",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Matt Cassel, DalQB",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Jay Cutler, ChiQBQ",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Anthony Fasano, TenTE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Charlie Whitehurst, TenQB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Stephen Gostkowski, NEK",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Delanie Walker, TenTE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Bruce Gradkowski*, PitQBIR",Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+"Scott Chandler, NETE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Jordy Nelson*, GBWRIR",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Jerome Simpson, SFWRSSPD",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Harry Douglas, TenWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Craig Stevens, TenTE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Jacob Tamme, AtlTEQ",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Matthew Slater, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Danny Amendola, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Donald Brown, SDRB",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Cedric Peerman, CinRB",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Chase Coffman, TenTE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Brandon Gibson*, NEWRIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Brandon LaFell*, NEWRO",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Julian Edelman, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Ryan Succop, TenK",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Kevin Brock*, NOTEIR",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Dexter McCluster, TenWR, RB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"LeGarrette Blount, NERB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Dez Bryant*, DalWRO",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Arrelious Benn*, JaxWRIR",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Marcus Easley, BufWR",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Rob Gronkowski, NETE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Dennis Pitta*, BalTEO",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Dorin Dickerson*, TenTEIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Michael Hoomanawanui, NOTE",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Anthony McCoy, WshTE",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Andrew Quarless*, GBTEIR",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Joe Webb, CarQB",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Seyi Ajirotutu, PhiWR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"David Nelson*, PitWRIR",Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+"James Develin*, NERBIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Tyler Clutts, DalRB",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Greg Little, CinWR",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Stevan Ridley*, NYJRBO",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Ricky Stanzi, NYGQB",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Niles Paul*, WshTEIR",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Dion Lewis, NERB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Julius Thomas*, JaxTEO",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Armon Binns, KCWR",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"DuJuan Harris, MinRB",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Kyle Miller, SDTE",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Allen Reisner*, BalTEIR",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Jeremy Ross, DetWR",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Robert Griffin, WshQB",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Robert Turbin*, CleRBO",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Justin Blackmon, JaxWRSSPD",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Kendall Wright, TenWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Stephen Hill*, CarWRIR",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Keshawn Martin, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Nick Toon, NOWRQ",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Randy Bullock, HouK",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Daryl Richardson, NYJRB",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Collin Mooney*, AtlRBIR",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Austin Davis, CleQB",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Brian Tyms*, NEWRIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Phillip Supernaw, TenTE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Jonas Gray, MiaRBQ",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Rod Streater, OakWR",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Matt Simms, BufQB",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Travaris Cadet, NERB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Brandon Bolden, NERB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Deonte Thompson, BufWRQ",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Sean McGrath, IndTE",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"LaRon Byrd, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Chase Ford, MinTE",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Alex Tanney, TenQB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Josh Gordon, CleWRSSPD",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Ifeanyi Momah*, AriWRIR",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Aaron Dobson, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Marquise Goodwin, BufWRQ",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Justin Hunter, TenWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Christine Michael, DalRB",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Ryan Griffin*, HouTEIR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"B.J. Daniels, SeaQB, WR",Det,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Michael Williams, NETE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Chris Gragg, BufTE",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Matt Barkley, AriQB",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Mike Gillislee, MiaRB",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Mike James, TBRB",Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Stepfan Taylor, AriRB",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Justice Cunningham, StLTE",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Josh Boyce*, NEWRIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Alan Bonner, HouWR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Brad Sorensen, SDQB",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Spencer Ware, KCRB",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Kerwynn Williams, AriRB",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Kendall Gaskins, SFRB",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Michael Hill*, DalRBIR",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Ryan Griffin, TBQB",Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Chris Pantale, ChiTE",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Matthew Tucker*, PhiRBIR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Tyler Bray*, KCQBO",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Timothy Wright, DetTE",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Brandon Williams, CarTE",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Joseph Fauria, AriTE",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Rodney Smith, CleWR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Kenbrell Thompkins, OakWR",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Zach Sudfeld*, NYJTEIR",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"George Winn, DetRB",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Jake Stoneburner, MiaTE",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Cierre Wood, BufRB",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Myles White, GBWR",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Kelvin Benjamin*, CarWRIR",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jimmy Garoppolo, NEQB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Crockett Gillmore*, BalTEO",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Paul Richardson*, SeaWRO",Det,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Terrance West, TenRB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Jace Amaro*, NYJTEIR",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Bishop Sankey, TenRB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Austin Seferian-Jenkins*, TBTEO",Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Davante Adams, GBWRQ",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Garrett Gilbert, DetQB",@Sea,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Logan Thomas, MiaQB",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Zach Mettenberger, TenQB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Jared Abbrederis, GBWR",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Tyler Gaffney*, NERBIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Kevin Norwood, CarWR",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Martavis Bryant, PitWRSSPD",Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+"James White, NERB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Keith Wenning, CinQB",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jalen Saunders, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Ka'Deem Carey, ChiRB",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Tom Savage*, HouQBIR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Aaron Murray, KCQB",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Kapri Bibbs, DenRB",Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Marcus Harris*, NYGWRIR",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Arthur Lynch, NYJTE",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Antonio Andrews, TenRB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Tevin Reese, CinWR",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Cody Parkey*, PhiKIR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Frankie Hammond, KCWR",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Trey Watts, StLRBSSPD",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"James Wright*, CinWRIR",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Trey Burton, PhiTEP",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Alex Bayer, StLTE",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Jeremy Butler, BalWR",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Damian Copeland, JaxWR",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jonathan Krause*, NEWRIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Matt Blanchard, GBQB",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Dustin Vaughan, DalQB",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Senorise Perry*, ChiRBIR",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Glenn Winston*, CleRBO",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Zurlon Tipton, IndRB",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Fitzgerald Toussaint, BalRB",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Julian Talley, NYGWR",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Marcel Jensen, DenTE",Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Asante Cleveland, NETE",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Freddie Martino, PhiWR",@Wsh,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"RaShaun Allen, SeaTE",Det,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Justin Perillo, GBTE",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Connor Shaw*, CleQBIR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Kevin Smith, SeaWR",Det,Mon 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Andre Debose*, OakWRIR",@Chi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Bryce Petty, NYJQB",@Mia,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"DiAndre Campbell, SFWR",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Randall Telfer*, CleTEO",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Trevor Siemian, DenQB",Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Gerald Christian*, AriTEIR",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Da'Ron Brown, KCWR",@Cin,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Neal Sterling, JaxWR",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Kenny Bell*, TBWRIR",Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Dres Anderson*, SFWRIR",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"J.J. Nelson, AriWRQ",StL,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Jalston Fowler, TenRB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Dylan Thompson, SFQB",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Kaelin Clay, TBWR",Car,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Sean Mannion, StLQB",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Justin Hardy, AtlWR",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Chris Manhertz, NOTE",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Tre McBride, TenWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Dezmin Lewis, BufWR",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jay Ajayi*, MiaRBIR",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Quan Bray, IndRB",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"C.J. Uzomah, CinTE",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Garrett Grayson, NOQB",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"David Cobb*, TenRBIR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Jeff Heuerman*, DenTEIR",Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Evan Spencer, WshWR",Phi,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Rashad Greene*, JaxWRIR",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Nick O'Leary, BufTE",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Marcus Mariota, TenQB",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Brett Hundley, GBQB",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Kenny Hilliard, HouRB",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Aaron Ripkowski, GBRBP",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Ben Koyack, JaxTE",@Ind,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Dorial Green-Beckham, TenWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Breshad Perriman*, BalWRO",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Stefon Diggs, MinWR",@Den,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Tevin Coleman, AtlRBQ",Hou,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jesse James*, PitTEO",Bal,L 20-23,0/0,0,0,0,0,0,0,0,0,0,0
+"Kevin White*, ChiWRO",Oak,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jaelen Strong, HouWR",@Atl,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Geoff Swaim, DalTE",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Vince Mayle, CleWR",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Mario Alford, CinWR",KC,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"DeAndre Smelter*, SFWRO",GB,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Duron Carter, IndWR",Jax,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"John Crockett, GBRB",@SF,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Terrence Magee, BalRB",@Pit,W 23-20,0/0,0,0,0,0,0,0,0,0,0,0
+"Seantavius Jones, NOWR",Dal,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Gus Johnson, DalRB",@NO,Sun 8:30,0/0,0,0,0,0,0,0,0,0,0,0
+"Malcolm Brown, StLRB",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"Brandon Wegher, CarRB",@TB,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Bennie Fowler, DenWR",Min,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"E.J. Bibbs, CleTE",@SD,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Nikita Whitlock, NYGRB",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Jerome Cunningham, NYGTEQ",@Buf,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,0
+"Matt Hazel, MiaWR",NYJ,Sun 9:30 AM,0/0,0,0,0,0,0,0,0,0,0,0
+"Tyrell Williams, SDWR",Cle,Sun 4:05,0/0,0,0,0,0,0,0,0,0,0,0
+"Chris Harper, NEWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Tyler Murphy, FAWR",** BYE **,0/0,0,0,0,0,0,0,0,0,0,--
+"Bradley Marquez, StLWR",@Ari,Sun 4:25,0/0,0,0,0,0,0,0,0,0,0,0
+"LeSean McCoy, BufRBD",NYG,Sun 1:00,0/0,0,0,0,0,0,0,0,0,0,-0
+"John Kasay, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jason Hanson, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Mark Brunell, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Terrell Owens, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Olindo Mare, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Tony Gonzalez, AtlTE",Hou,Sun 1:00,--/--,--,--,--,--,--,--,--,--,--,--
+"Ryan Longwell, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jon Kitna, DalQB",@NO,Sun 8:30,--/--,--,--,--,--,--,--,--,--,--,--
+"Todd Bouman, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Randy Moss, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Charlie Batch, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Mike Sellers, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jake Delhomme, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"David Akers, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Donovan McNabb, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Daunte Culpepper, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Reggie Kelly, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jimmy Kleinsasser, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Kevin Faulk, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Brandon Stokley, BalWR",@Pit,W 23-20,--/--,--,--,--,--,--,--,--,--,--,--
+"Desmond Clark, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Donald Driver, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Kris Brown, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Chris Greisen, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jeff Garcia, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Brian Finneran, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Thomas Jones, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Plaxico Burress, PitWR",Bal,L 20-23,--/--,--,--,--,--,--,--,--,--,--,--
+"Anthony Becht, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Chris Redman, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Sammy Morris, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+
+"PLAYER, TEAM POS",OPP,STATUS ET,C/A,YDS,TD,INT,RUSH,YDS,TD,REC,YDS,TD,PTS
+"Neil Rackers, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Brian Jennings, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Billy Volek, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Justin Snow, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Rian Lindell, TBK",Car,Sun 1:00,--/--,--,--,--,--,--,--,--,--,--,--
+"Jay Feely, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"LaDainian Tomlinson, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Santana Moss, WshWR",Phi,Sun 1:00,--/--,--,--,--,--,--,--,--,--,--,--
+"Reggie Wayne, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Todd Heap, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Alge Crumpler, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Chad Johnson, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Chris Chambers, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Sage Rosenfels, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Moran Norris, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Correll Buckhalter, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Brandon Manumaleuna, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Tony Stewart, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"A.J. Feeley, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"David Martin, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"T.J. Houshmandzadeh, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Chris Taylor, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Dominic Rhodes, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Lawrence Tynes, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Shayne Graham, FAK",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"David Carr, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Donte' Stallworth, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jeremy Shockey, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Daniel Graham, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Jabar Gaffney, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Andre Davis, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Clinton Portis, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Maurice Morris, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Ladell Betts, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Antwaan Randle El, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Deion Branch, FAWR",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Chris Baker, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Brian Westbrook, FARB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"Justin Peelle, FATE",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
+"David Garrard, FAQB",** BYE **,--/--,--,--,--,--,--,--,--,--,--,--
